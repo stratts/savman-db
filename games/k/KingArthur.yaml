@@ -1,0 +1,8 @@
+id: KingArthur
+name: 'King Arthur: The Role-Playing Wargame'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: NeocoreGames\King Arthur
+contributors:
+- Arc Angel

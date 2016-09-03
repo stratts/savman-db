@@ -1,0 +1,13 @@
+id: OddworldStrangersWrath
+name: 'Oddworld: Stranger''s Wrath'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Oddworld\Stranger's Wrath
+-   type: variable
+    variable: userdoc
+    subdir: Oddworld\Stranger's Wrath HD
+contributors:
+- Arc Angel
+- slake_jones
+- GameSave.Info

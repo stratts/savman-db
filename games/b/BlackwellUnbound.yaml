@@ -1,0 +1,12 @@
+id: BlackwellUnbound
+name: Blackwell Unbound
+locations:
+-   type: variable
+    variable: userprofile
+    subdir: Saved Games\Blackwell Unbound
+-   type: variable
+    variable: userdoc
+    subdir: My Saved Games\Blackwell Unbound
+contributors:
+- Arc Angel
+- GameSave.Info

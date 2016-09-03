@@ -1,0 +1,12 @@
+id: GeminiRue
+name: Gemini Rue
+locations:
+-   type: variable
+    variable: userprofile
+    subdir: Saved Games\Gemini Rue
+-   type: variable
+    variable: userdoc
+    subdir: My Saved Games\Gemini Rue
+contributors:
+- Arc Angel
+- GameSave.Info

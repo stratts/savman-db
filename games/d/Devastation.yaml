@@ -1,0 +1,8 @@
+name: Devastation
+id: Devastation
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Devastation
+contributors:
+- GameSaveManager

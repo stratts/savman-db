@@ -1,0 +1,9 @@
+name: 'Ys I & II: Chronicles+'
+id: Ys1And2Chronicles
+locations:
+-   type: variable
+    variable: userprofile
+    subdir: Saved Games\FALCOM\ys12c
+contributors:
+- GameSaveManager
+- GameSaveManager

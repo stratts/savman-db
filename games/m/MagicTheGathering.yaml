@@ -1,0 +1,8 @@
+name: 'Magic: The Gathering'
+id: MagicTheGathering
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Wizards of the Coast\Magic the Gathering
+contributors:
+- GameSaveManager

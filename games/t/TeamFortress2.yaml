@@ -1,0 +1,14 @@
+id: TeamFortress2
+name: Team Fortress 2
+locations:
+-   type: profile
+    profile_dir: Team Fortress 2
+    profile_items:
+    - hl2.exe
+    - tf
+    subdir: tf
+    include:
+    - cfg/*.*
+    - custom/*.*
+contributors:
+- strata8

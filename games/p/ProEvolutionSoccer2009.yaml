@@ -1,0 +1,8 @@
+name: Pro Evolution Soccer 2009
+id: ProEvolutionSoccer2009
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: KONAMI\Pro Evolution Soccer 2009
+contributors:
+- GameSaveManager

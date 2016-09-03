@@ -1,0 +1,8 @@
+name: 'Darkstar: The Interactive Movie'
+id: DarkstarTheInteractiveMovie
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\iShell\cache-cache\DarkStar
+contributors:
+- GameSaveManager

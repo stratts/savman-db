@@ -1,0 +1,8 @@
+id: X3TerranConflict
+name: 'X3: Terran Conflict'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Egosoft\X3TC
+contributors:
+- Arc Angel

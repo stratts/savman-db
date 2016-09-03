@@ -1,0 +1,8 @@
+name: SEGA Genesis Classics
+id: SEGAGenesisClassics
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: SEGA Genesis Classics
+contributors:
+- GameSaveManager

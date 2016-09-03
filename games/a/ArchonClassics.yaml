@@ -1,0 +1,8 @@
+name: Archon Classics
+id: ArchonClassics
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\ReactGames\ArchonPC
+contributors:
+- GameSaveManager

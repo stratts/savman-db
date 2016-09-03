@@ -1,0 +1,8 @@
+name: GEAR
+id: GEAR
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\GEAR
+contributors:
+- GameSaveManager

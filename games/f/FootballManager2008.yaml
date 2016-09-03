@@ -1,0 +1,8 @@
+name: Football Manager 2008
+id: FootballManager2008
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Sports Interactive\Football Manager 2008
+contributors:
+- GameSaveManager

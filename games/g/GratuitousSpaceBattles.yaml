@@ -1,0 +1,9 @@
+id: GratuitousSpaceBattles
+name: Gratuitous Space Battles
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\GratuitousSpaceBattles
+contributors:
+- Arc Angel
+- simtech76

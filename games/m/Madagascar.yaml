@@ -1,0 +1,8 @@
+name: Madagascar
+id: Madagascar
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Activision\Madagascar\Save
+contributors:
+- GameSaveManager

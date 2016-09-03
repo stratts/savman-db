@@ -1,0 +1,8 @@
+id: RaceDriverGrid
+name: 'Race Driver: Grid'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Codemasters\GRID
+contributors:
+- Paul Taylor

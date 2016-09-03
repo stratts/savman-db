@@ -1,0 +1,8 @@
+id: FIFA11
+name: FIFA 11
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: FIFA 11
+contributors:
+- Caleb Love

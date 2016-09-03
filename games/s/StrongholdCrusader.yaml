@@ -1,0 +1,8 @@
+name: 'Stronghold: Crusader'
+id: StrongholdCrusader
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Stronghold Crusader
+contributors:
+- GameSaveManager

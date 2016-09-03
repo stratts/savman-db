@@ -1,0 +1,8 @@
+name: Mad Riders
+id: MadRiders
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: madriders
+contributors:
+- GameSaveManager

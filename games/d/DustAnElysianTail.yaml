@@ -1,0 +1,9 @@
+name: 'Dust: An Elysian Tail'
+id: DustAnElysianTail
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: SavedGames\DustAET
+contributors:
+- GameSaveManager
+- GameSaveManager

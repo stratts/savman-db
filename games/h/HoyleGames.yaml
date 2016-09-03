@@ -1,0 +1,8 @@
+name: Hoyle Games
+id: HoyleGames
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Hoyle
+contributors:
+- GameSaveManager

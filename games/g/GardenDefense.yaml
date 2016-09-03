@@ -1,0 +1,8 @@
+name: Garden Defense
+id: GardenDefense
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\iWin\GardenDefense
+contributors:
+- GameSaveManager

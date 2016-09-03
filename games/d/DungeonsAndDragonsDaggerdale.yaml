@@ -1,0 +1,8 @@
+id: DungeonsAndDragonsDaggerdale
+name: 'Dungeons & Dragons: Daggerdale'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Daggerdale\DnDGame
+contributors:
+- Arc Angel

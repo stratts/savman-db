@@ -1,0 +1,9 @@
+name: 'Sniper Elite: Nazi Zombie Army'
+id: SniperEliteNaziZombieArmy
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\Sniper Elite Nazi Zombie Army
+contributors:
+- GameSaveManager
+- Arc Angel

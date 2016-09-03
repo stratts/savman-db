@@ -1,0 +1,8 @@
+name: Dr. Daisy Pet Vet
+id: DrDaisyPetVet
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\PlayFirst\Dr. Daisy Pet Vet
+contributors:
+- GameSaveManager

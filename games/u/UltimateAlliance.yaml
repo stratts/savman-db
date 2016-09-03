@@ -1,0 +1,9 @@
+name: Ultimate Alliance
+id: UltimateAlliance
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Activision\Marvel Ultimate Alliance
+contributors:
+- GameSave.Info
+- GameSaveManager

@@ -1,0 +1,8 @@
+name: Lightfish
+id: Lightfish
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Lightfish
+contributors:
+- GameSaveManager

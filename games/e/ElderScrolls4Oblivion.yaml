@@ -1,0 +1,9 @@
+id: ElderScrolls4Oblivion
+name: 'The Elder Scrolls IV: Oblivion'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Oblivion
+contributors:
+- GameSave.Info
+- GameSave.Info

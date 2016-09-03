@@ -1,0 +1,8 @@
+id: DeathTrackResurrection
+name: 'Death Track: Resurrection'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Skyfallen Entertaiment\DeathTrack
+contributors:
+- AdmiringWorm

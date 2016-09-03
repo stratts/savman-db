@@ -1,0 +1,8 @@
+name: 'PT Boats: South Gambit'
+id: PTBoatsSouthGambit
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\PT-Boats
+contributors:
+- GameSaveManager

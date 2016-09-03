@@ -1,0 +1,8 @@
+id: SporeCreatureCreator
+name: Spore Creature Creator
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Spore Creations
+contributors:
+- duncans_pumpkin

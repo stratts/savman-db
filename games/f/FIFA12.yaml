@@ -1,0 +1,8 @@
+name: FIFA 12
+id: FIFA12
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: FIFA 12
+contributors:
+- GameSaveManager

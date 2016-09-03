@@ -1,0 +1,8 @@
+name: The Swapper
+id: Swapper
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Facepalm Games\The Swapper 1000
+contributors:
+- GameSaveManager

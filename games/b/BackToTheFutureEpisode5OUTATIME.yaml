@@ -1,0 +1,11 @@
+id: BackToTheFutureEpisode5OUTATIME
+name: 'Back to the Future: Episode 5: OUTATIME'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Telltale Games\back to the future 105
+-   type: variable
+    variable: userdoc
+    subdir: Telltale Games\Episode 5
+contributors:
+- slake_jones

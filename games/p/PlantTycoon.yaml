@@ -1,0 +1,8 @@
+id: PlantTycoon
+name: Plant Tycoon
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: LDW\plant tycoon
+contributors:
+- AdmiringWorm

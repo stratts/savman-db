@@ -1,0 +1,8 @@
+id: NapoleonTotalWar
+name: 'Napoleon: Total War'
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\The Creative Assembly\Napoleon
+contributors:
+- GameSave.Info

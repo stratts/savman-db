@@ -1,0 +1,8 @@
+name: Virtua Tennis 2009
+id: VirtuaTennis2009
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: VirtuaTennis2009
+contributors:
+- GameSaveManager

@@ -1,0 +1,8 @@
+name: Dark Matter
+id: DarkMatter
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Dark Matter
+contributors:
+- GameSaveManager

@@ -1,0 +1,9 @@
+name: 'Gotham City Imposters: Free To Play'
+id: GothamCityImpostersFreeToPlay
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: WB Games\Gotham City Impostors - Free To Play
+contributors:
+- GameSaveManager
+- GameSaveManager

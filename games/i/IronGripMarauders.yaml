@@ -1,0 +1,8 @@
+name: 'Iron Grip: Marauders'
+id: IronGripMarauders
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\Prism\IG-Marauders
+contributors:
+- GameSaveManager

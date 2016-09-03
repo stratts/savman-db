@@ -1,0 +1,8 @@
+name: Yukkuri Panic!
+id: YukkuriPanic
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\Yukkuri Panic! ADV
+contributors:
+- GameSaveManager

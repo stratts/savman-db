@@ -1,0 +1,8 @@
+name: Age of Conan
+id: AgeOfConan
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\Funcom\Conan
+contributors:
+- GameSaveManager

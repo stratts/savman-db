@@ -1,0 +1,8 @@
+id: Mafia2
+name: Mafia II
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\2K Games\Mafia II
+contributors:
+- Arc Angel

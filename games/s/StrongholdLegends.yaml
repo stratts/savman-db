@@ -1,0 +1,8 @@
+name: Stronghold Legends
+id: StrongholdLegends
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Stronghold Legends
+contributors:
+- GameSaveManager

@@ -1,0 +1,8 @@
+name: Winter Voices
+id: WinterVoices
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Winter Voices
+contributors:
+- GameSaveManager

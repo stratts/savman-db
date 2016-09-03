@@ -1,0 +1,8 @@
+name: Pro Evolution Soccer 2011
+id: ProEvolutionSoccer2011
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: KONAMI\Pro Evolution Soccer 2011
+contributors:
+- GameSaveManager

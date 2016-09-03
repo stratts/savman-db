@@ -1,0 +1,8 @@
+id: RainbowSixVegas2
+name: 'Tom Clancy''s Rainbow Six: Vegas 2'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Ubisoft\R6Vegas2
+contributors:
+- Arc Angel

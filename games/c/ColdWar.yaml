@@ -1,0 +1,8 @@
+name: Cold War
+id: ColdWar
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Cold War
+contributors:
+- GameSaveManager

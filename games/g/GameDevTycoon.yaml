@@ -1,0 +1,8 @@
+name: Game Dev Tycoon
+id: GameDevTycoon
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\Game Dev Tycoon
+contributors:
+- GameSaveManager

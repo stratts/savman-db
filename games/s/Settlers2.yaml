@@ -1,0 +1,9 @@
+name: The Settlers II
+id: Settlers2
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: S2
+contributors:
+- GameSaveManager
+- GameSaveManager

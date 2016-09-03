@@ -1,0 +1,8 @@
+id: GrotesqueTactics2
+name: 'Grotesque Tactics 2: Dungeons and Donuts'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Grotesque-Tactics2
+contributors:
+- Arc Angel

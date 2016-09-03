@@ -1,0 +1,8 @@
+name: 'Analogue: A Hate Story'
+id: AnalogueAHateStory
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: RenPy\Analogue
+contributors:
+- GameSaveManager

@@ -1,0 +1,8 @@
+name: Youda Survivor 2v1
+id: YoudaSurvivor2v1
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\YoudaGames\YoudaSurvivor2v1
+contributors:
+- GameSaveManager

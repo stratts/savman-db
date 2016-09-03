@@ -1,0 +1,9 @@
+id: Section8
+name: Section 8
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Section8
+contributors:
+- Arc Angel
+- simtech76

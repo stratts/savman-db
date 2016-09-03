@@ -1,0 +1,8 @@
+id: TitanQuestImmortalThrone
+name: 'Titan Quest: Immortal Throne'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Titan Quest - Immortal Throne
+contributors:
+- slake_jones

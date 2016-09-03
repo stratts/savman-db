@@ -1,0 +1,8 @@
+name: Drox Operative
+id: DroxOperative
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\DroxOperative
+contributors:
+- GameSaveManager

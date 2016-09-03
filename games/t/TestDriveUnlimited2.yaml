@@ -1,0 +1,8 @@
+id: TestDriveUnlimited2
+name: Test Drive Unlimited 2
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Eden Games\Test Drive Unlimited 2
+contributors:
+- Arc Angel

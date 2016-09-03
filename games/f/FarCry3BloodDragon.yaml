@@ -1,0 +1,8 @@
+name: 'Far Cry 3: Blood Dragon'
+id: FarCry3BloodDragon
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Far Cry 3 Blood Dragon
+contributors:
+- GameSaveManager

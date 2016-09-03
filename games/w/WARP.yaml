@@ -1,0 +1,8 @@
+name: WARP
+id: WARP
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\WARP
+contributors:
+- GameSaveManager

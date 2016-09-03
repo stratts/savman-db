@@ -1,0 +1,8 @@
+name: 'Neighbours from Hell 2: On Vacation'
+id: NeighboursFromHell2OnVacation
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: JoWooD\NFH2_UK
+contributors:
+- GameSaveManager

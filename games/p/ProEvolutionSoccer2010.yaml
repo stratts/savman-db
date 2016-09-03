@@ -1,0 +1,8 @@
+name: Pro Evolution Soccer 2010
+id: ProEvolutionSoccer2010
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: KONAMI\Pro Evolution Soccer 2010
+contributors:
+- GameSaveManager

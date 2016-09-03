@@ -1,0 +1,8 @@
+name: 'Jessica: Mysterious Journey'
+id: JessicaMysteriousJourney
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Jessica. Mysterious Journey
+contributors:
+- GameSaveManager

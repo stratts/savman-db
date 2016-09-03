@@ -1,0 +1,8 @@
+name: Shutter Island
+id: ShutterIsland
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Merscom\Shutter Island
+contributors:
+- GameSaveManager

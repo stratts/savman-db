@@ -1,0 +1,8 @@
+name: Super Amazing Wagon Adventure
+id: SuperAmazingWagonAdventure
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: SavedGames\WagonAdventure
+contributors:
+- GameSaveManager

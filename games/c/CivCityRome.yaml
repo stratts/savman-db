@@ -1,0 +1,8 @@
+name: 'CivCity: Rome'
+id: CivCityRome
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: CivCity Rome
+contributors:
+- GameSaveManager

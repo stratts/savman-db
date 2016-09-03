@@ -1,0 +1,8 @@
+id: Explodemon
+name: Explodemon!
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: EXPLODEMON!
+contributors:
+- Arc Angel

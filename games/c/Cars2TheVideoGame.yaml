@@ -1,0 +1,8 @@
+name: Cars 2 The Video Game
+id: Cars2TheVideoGame
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Disney Interactive Studios\Cars2
+contributors:
+- GameSaveManager

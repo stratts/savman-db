@@ -1,0 +1,9 @@
+name: Front Mission Evolved
+id: FrontMissionEvolved
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Front Mission Evolved
+contributors:
+- Arc Angel
+- GameSaveManager

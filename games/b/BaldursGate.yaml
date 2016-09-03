@@ -1,0 +1,9 @@
+id: BaldursGate
+name: Baldur's Gate
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Baldur's Gate - Enhanced Edition
+contributors:
+- GameSave.Info
+- Arc Angel

@@ -1,0 +1,8 @@
+name: Route 66
+id: Route66
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\PlayFirst\Route66
+contributors:
+- GameSaveManager

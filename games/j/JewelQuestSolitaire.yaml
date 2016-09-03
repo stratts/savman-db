@@ -1,0 +1,8 @@
+name: Jewel Quest Solitaire
+id: JewelQuestSolitaire
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: iWin\JQSolitaire
+contributors:
+- GameSaveManager

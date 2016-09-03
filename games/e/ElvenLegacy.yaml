@@ -1,0 +1,8 @@
+name: Elven Legacy
+id: ElvenLegacy
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Elven Legacy Profiles
+contributors:
+- GameSaveManager

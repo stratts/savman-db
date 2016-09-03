@@ -1,0 +1,8 @@
+name: Armies of Exigo
+id: ArmiesOfExigo
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Armies of Exigo
+contributors:
+- GameSaveManager

@@ -1,0 +1,9 @@
+id: DeadSpace
+name: Dead Space
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Electronic Arts\Dead Space
+contributors:
+- GameSave.Info
+- Arc Angel

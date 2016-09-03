@@ -1,0 +1,8 @@
+id: Borderlands
+name: Borderlands
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Borderlands
+contributors:
+- Arc Angel

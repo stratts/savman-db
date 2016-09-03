@@ -1,0 +1,8 @@
+name: 'Codename Panzers: Cold War'
+id: CodenamePanzersColdWar
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Codename Panzers - Cold War
+contributors:
+- GameSaveManager

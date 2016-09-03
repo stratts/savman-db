@@ -1,0 +1,8 @@
+name: Ice Age 2
+id: IceAge2
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Ice Age 2
+contributors:
+- GameSaveManager

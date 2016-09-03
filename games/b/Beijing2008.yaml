@@ -1,0 +1,8 @@
+name: Beijing 2008
+id: Beijing2008
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\SEGA\Beijing 2008
+contributors:
+- GameSaveManager

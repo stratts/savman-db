@@ -1,0 +1,8 @@
+id: Rage
+name: Rage
+locations:
+-   type: variable
+    variable: userprofile
+    subdir: Saved Games\id Software\Rage
+contributors:
+- Arc Angel

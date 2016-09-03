@@ -1,0 +1,8 @@
+name: 'Nancy Drew: Alibi in Ashes'
+id: NancyDrewAlibiInAshes
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Alibi in Ashes
+contributors:
+- GameSaveManager

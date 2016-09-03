@@ -1,0 +1,8 @@
+id: DeadMeetsLead
+name: Dead Meets Lead
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\DeadMeetsLead
+contributors:
+- AdmiringWorm

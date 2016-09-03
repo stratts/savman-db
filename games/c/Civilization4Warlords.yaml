@@ -1,0 +1,8 @@
+id: Civilization4Warlords
+name: 'Sid Meier''s Civilization IV: Warlords'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Warlords
+contributors:
+- GameSave.Info

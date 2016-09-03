@@ -1,0 +1,8 @@
+name: Iron Man
+id: IronMan
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Sega\Iron Man
+contributors:
+- GameSaveManager

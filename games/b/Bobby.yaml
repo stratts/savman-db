@@ -1,0 +1,8 @@
+id: Bobby
+name: Bobby
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Nooskewl\Bobby
+contributors:
+- AdmiringWorm

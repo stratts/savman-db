@@ -1,0 +1,8 @@
+id: DarkFall2LightsOut
+name: 'Dark Fall II: Lights Out'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Dark Fall 2
+contributors:
+- GameSave.Info

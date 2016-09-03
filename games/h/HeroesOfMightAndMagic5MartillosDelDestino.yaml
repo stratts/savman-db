@@ -1,0 +1,8 @@
+name: 'Heroes of Might and Magic V: Martillos del Destino'
+id: HeroesOfMightAndMagic5MartillosDelDestino
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Heroes of Might and Magic V\Martillos del Destino
+contributors:
+- GameSaveManager

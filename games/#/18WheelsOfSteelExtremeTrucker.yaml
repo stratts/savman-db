@@ -1,0 +1,8 @@
+id: 18WheelsOfSteelExtremeTrucker
+name: '18 Wheels of Steel: Extreme Trucker'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: 18 WoS Extreme Trucker
+contributors:
+- AdmiringWorm

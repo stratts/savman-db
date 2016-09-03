@@ -1,0 +1,8 @@
+id: CreeperWorld2
+name: Creeper World 2
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\CreeperWorld2
+contributors:
+- GameSaveManger

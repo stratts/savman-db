@@ -1,0 +1,8 @@
+name: 'The Adventures of Tintin: The Game'
+id: AdventuresOfTintin
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: The Adventures of Tintin
+contributors:
+- GameSaveManager

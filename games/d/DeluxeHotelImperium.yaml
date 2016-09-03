@@ -1,0 +1,8 @@
+name: Deluxe Hotel Imperium
+id: DeluxeHotelImperium
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\emporium
+contributors:
+- GameSaveManager

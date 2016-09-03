@@ -1,0 +1,8 @@
+name: Dynasty Warriors 6
+id: DynastyWarriors6
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: KOEI\Dynasty Warriors 6
+contributors:
+- GameSaveManager

@@ -1,0 +1,8 @@
+id: AmnesiaTheDarkDescent
+name: 'Amnesia: The Dark Descent'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Amnesia
+contributors:
+- Arc Angel

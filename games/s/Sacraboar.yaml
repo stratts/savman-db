@@ -1,0 +1,8 @@
+id: Sacraboar
+name: Sacraboar
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Sacraboar
+contributors:
+- slake_jones

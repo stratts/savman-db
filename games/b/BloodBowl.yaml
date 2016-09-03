@@ -1,0 +1,16 @@
+name: Blood Bowl
+id: BloodBowl
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: BloodBowl
+-   type: variable
+    variable: userdoc
+    subdir: BloodBowlChaos
+-   type: variable
+    variable: userdoc
+    subdir: BloodBowlLegendary
+contributors:
+- AvvA
+- GameSaveManager
+- AvvA

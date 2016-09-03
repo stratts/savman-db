@@ -1,0 +1,8 @@
+name: 'Transformers: Revenge Of The Fallen'
+id: TransformersRevengeOfTheFallen
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Activision\Transformers2
+contributors:
+- GameSaveManager

@@ -1,0 +1,8 @@
+id: DiRT3
+name: DiRT 3
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\DiRT3
+contributors:
+- Arc Angel

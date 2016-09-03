@@ -1,0 +1,8 @@
+name: Jenny's Fish Shop
+id: JennysFishShop
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Alawar\Jenny's fish shop
+contributors:
+- GameSaveManager

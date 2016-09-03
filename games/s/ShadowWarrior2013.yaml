@@ -1,0 +1,8 @@
+id: ShadowWarrior2013
+name: Shadow Warrior (2013)
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Shadow Warrior
+contributors:
+- Arc Angel

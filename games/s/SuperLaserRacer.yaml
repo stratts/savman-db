@@ -1,0 +1,8 @@
+id: SuperLaserRacer
+name: Super Laser Racer
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Super Laser Racer
+contributors:
+- slake_jones

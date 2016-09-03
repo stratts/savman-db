@@ -1,0 +1,8 @@
+id: AngryBirdsSpace
+name: Angry Birds Space
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Rovio\Angry Birds Space
+contributors:
+- cheshhire

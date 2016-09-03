@@ -1,0 +1,8 @@
+name: Port Royale 2
+id: PortRoyale2
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Ascaron Entertainment\Port Royale 2
+contributors:
+- GameSaveManager

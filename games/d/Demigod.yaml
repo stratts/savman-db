@@ -1,0 +1,8 @@
+name: Demigod
+id: Demigod
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Gas Powered Games\Demigod
+contributors:
+- GameSaveManager

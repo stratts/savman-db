@@ -1,0 +1,8 @@
+name: 'Deponia 2: Chaos on Deponia'
+id: Deponia2ChaosOnDeponia
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\Daedalic Entertainment\Deponia 2
+contributors:
+- GameSaveManager

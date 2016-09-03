@@ -1,0 +1,8 @@
+name: Dungeons and Dragons Online
+id: DungeonsAndDragonsOnline
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Dungeons and Dragons Online
+contributors:
+- GameSaveManager

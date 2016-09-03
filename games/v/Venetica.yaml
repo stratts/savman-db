@@ -1,0 +1,8 @@
+name: Venetica
+id: Venetica
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Venetica
+contributors:
+- GameSaveManager

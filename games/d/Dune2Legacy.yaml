@@ -1,0 +1,8 @@
+name: Dune II Legacy
+id: Dune2Legacy
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\dunelegacy
+contributors:
+- GameSaveManager

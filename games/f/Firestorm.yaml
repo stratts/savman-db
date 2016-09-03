@@ -1,0 +1,8 @@
+name: Firestorm
+id: Firestorm
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Firestorm
+contributors:
+- GameSaveManager

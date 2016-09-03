@@ -1,0 +1,8 @@
+name: Space Giraffe
+id: SpaceGiraffe
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\SpaceGiraffe
+contributors:
+- GameSaveManager

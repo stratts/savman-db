@@ -1,0 +1,8 @@
+id: Turok2008
+name: Turok (2008)
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Touchstone\Turok
+contributors:
+- Arc Angel

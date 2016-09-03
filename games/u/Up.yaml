@@ -1,0 +1,8 @@
+name: Up
+id: Up
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: THQ\Disney_Pixar\UP
+contributors:
+- GameSaveManager

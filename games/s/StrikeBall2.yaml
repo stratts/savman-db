@@ -1,0 +1,8 @@
+name: Strike Ball 2
+id: StrikeBall2
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Alawar\StrikeBall2
+contributors:
+- GameSaveManager

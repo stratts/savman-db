@@ -1,0 +1,8 @@
+name: The Movies
+id: Movies
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: The Movies
+contributors:
+- GameSaveManager

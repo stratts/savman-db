@@ -1,0 +1,8 @@
+id: JustCause
+name: Just Cause
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: JustCause
+contributors:
+- duncans_pumpkin

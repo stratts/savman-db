@@ -1,0 +1,8 @@
+id: KatawaShoujo
+name: Katawa Shoujo
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\RenPy\katawashoujo_actual
+contributors:
+- GameSave.Info

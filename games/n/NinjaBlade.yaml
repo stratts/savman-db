@@ -1,0 +1,8 @@
+id: NinjaBlade
+name: Ninja Blade
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: NinjaBlade
+contributors:
+- Arc Angel

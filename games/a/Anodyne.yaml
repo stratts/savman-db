@@ -1,0 +1,8 @@
+name: Anodyne
+id: Anodyne
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Anodyne
+contributors:
+- GameSaveManager

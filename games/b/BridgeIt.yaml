@@ -1,0 +1,8 @@
+name: Bridge It
+id: BridgeIt
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: bridgeit
+contributors:
+- GameSaveManager

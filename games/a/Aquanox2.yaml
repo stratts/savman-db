@@ -1,0 +1,8 @@
+id: Aquanox2
+name: 'Aquanox 2: Revelation'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: AquaNox2
+contributors:
+- GameSave.Info

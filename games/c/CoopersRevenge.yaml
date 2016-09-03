@@ -1,0 +1,8 @@
+name: Cooper's Revenge
+id: CoopersRevenge
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Cooper's Revenge
+contributors:
+- GameSaveManager

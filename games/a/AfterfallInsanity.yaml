@@ -1,0 +1,8 @@
+id: AfterfallInsanity
+name: 'Afterfall: Insanity'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Afterfall InSanity
+contributors:
+- Arc Angel

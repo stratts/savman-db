@@ -1,0 +1,11 @@
+id: CrayonPhysicsDeluxe
+name: Crayon Physics Deluxe
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Crayon Physics Deluxe
+-   type: variable
+    variable: userdoc
+    subdir: Crayon Physics Deluxe
+contributors:
+- slake_jones

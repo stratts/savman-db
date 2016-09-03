@@ -1,0 +1,9 @@
+name: Driver San Francisco
+id: DriverSanFrancisco
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Ubisoft\Driver San Francisco
+contributors:
+- Arc Angel
+- GameSaveManager

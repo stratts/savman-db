@@ -1,0 +1,8 @@
+name: Demolition, Inc.
+id: DemolitionInc
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: DemolitionInc
+contributors:
+- GameSaveManager

@@ -1,0 +1,9 @@
+name: Renegade Ops
+id: RenegadeOps
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: SEGA\Renegade Ops
+contributors:
+- GameSaveManager
+- Arc Angel

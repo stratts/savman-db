@@ -1,0 +1,17 @@
+name: 'Batman: Arkham Asylum'
+id: BatmanArkhamAsylum
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Eidos\Batman Arkham Asylum
+-   type: variable
+    variable: userdoc
+    subdir: Square Enix\Batman Arkham Asylum
+-   type: variable
+    variable: userdoc
+    subdir: Square Enix\Batman Arkham Asylum GOTY
+contributors:
+- Arc Angel
+- GameSaveManager
+- Michael Lamere
+- Michael Lamere

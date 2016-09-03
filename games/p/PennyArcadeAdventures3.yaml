@@ -1,0 +1,8 @@
+name: 'Penny Arcade Adventures: On the Rain-Slick Precipice of Darkness, Episode Three'
+id: PennyArcadeAdventures3
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: SavedGames\Rainslick3
+contributors:
+- GameSaveManager

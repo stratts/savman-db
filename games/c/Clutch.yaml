@@ -1,0 +1,8 @@
+id: Clutch
+name: Clutch
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Clutch
+contributors:
+- Arc Angel

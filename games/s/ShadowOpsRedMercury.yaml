@@ -1,0 +1,8 @@
+name: Shadow Ops Red Mercury
+id: ShadowOpsRedMercury
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Shadow Ops Profiles
+contributors:
+- GameSaveManager

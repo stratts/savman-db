@@ -1,0 +1,8 @@
+name: Reus
+id: Reus
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Reus
+contributors:
+- GameSaveManager

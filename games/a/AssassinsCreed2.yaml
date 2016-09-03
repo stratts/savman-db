@@ -1,0 +1,9 @@
+name: Assassin's Creed 2
+id: AssassinsCreed2
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Ubisoft\Assassin's Creed 2
+contributors:
+- GameSave.Info
+- GameSaveManager

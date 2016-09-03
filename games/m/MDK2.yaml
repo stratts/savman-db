@@ -1,0 +1,9 @@
+name: MDK 2
+id: MDK2
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\MDK2HD
+contributors:
+- GameSave.Info
+- GameSaveManager

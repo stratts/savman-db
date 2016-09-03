@@ -1,0 +1,8 @@
+name: Project CARS
+id: ProjectCARS
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: CARS
+contributors:
+- GameSaveManager

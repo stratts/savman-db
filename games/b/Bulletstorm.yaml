@@ -1,0 +1,8 @@
+id: Bulletstorm
+name: Bulletstorm
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\BulletStorm\StormGame
+contributors:
+- Arc Angel

@@ -1,0 +1,8 @@
+id: Syndicate2012
+name: Syndicate (2012)
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Syndicate
+contributors:
+- Arc Angel

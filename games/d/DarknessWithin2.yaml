@@ -1,0 +1,8 @@
+id: DarknessWithin2
+name: 'Darkness Within 2: The Dark Lineage'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Darkness Within 2
+contributors:
+- Arc Angel

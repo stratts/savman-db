@@ -1,0 +1,8 @@
+name: Cobalt
+id: Cobalt
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Cobalt
+contributors:
+- GameSaveManager

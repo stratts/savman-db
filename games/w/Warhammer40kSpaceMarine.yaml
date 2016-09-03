@@ -1,0 +1,9 @@
+name: 'Warhammer 40,000: Space Marine'
+id: Warhammer40kSpaceMarine
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\THQ\Relic Entertainment\Space Marine
+contributors:
+- Arc Angel
+- GameSaveManager

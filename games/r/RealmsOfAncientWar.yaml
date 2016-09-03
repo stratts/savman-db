@@ -1,0 +1,8 @@
+id: RealmsOfAncientWar
+name: Realms of Ancient War
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Realms of Ancient War
+contributors:
+- Arc Angel

@@ -1,0 +1,8 @@
+name: Fortix
+id: Fortix
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Fortix
+contributors:
+- GameSaveManager

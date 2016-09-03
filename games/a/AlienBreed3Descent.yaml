@@ -1,0 +1,8 @@
+id: AlienBreed3Descent
+name: 'Alien Breed 3: Descent'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\UnrealEngine3\AlienBreed3DescentGame
+contributors:
+- Arc Angel

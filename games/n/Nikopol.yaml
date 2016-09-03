@@ -1,0 +1,8 @@
+id: Nikopol
+name: 'Nikopol: Secrets of the Immortals'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Nikopol
+contributors:
+- Arc Angel

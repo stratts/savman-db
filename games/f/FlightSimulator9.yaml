@@ -1,0 +1,8 @@
+name: Flight Simulator 9
+id: FlightSimulator9
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Flight Simulator Files
+contributors:
+- GameSaveManager

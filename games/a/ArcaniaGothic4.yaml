@@ -1,0 +1,8 @@
+id: ArcaniaGothic4
+name: 'ArcaniA: Gothic 4'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: ArcaniA - Gothic 4
+contributors:
+- Arc Angel

@@ -1,0 +1,9 @@
+id: Witcher2
+name: 'The Witcher 2: Assassin of Kings'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Witcher 2
+contributors:
+- GameSave.Info
+- Arc Angel

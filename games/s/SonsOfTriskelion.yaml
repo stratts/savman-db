@@ -1,0 +1,8 @@
+name: Sons Of Triskelion
+id: SonsOfTriskelion
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Sons of Triskelion
+contributors:
+- GameSaveManager

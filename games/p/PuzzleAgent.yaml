@@ -1,0 +1,8 @@
+id: PuzzleAgent
+name: Puzzle Agent
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Telltale Games\Puzzle Agent
+contributors:
+- Arc Angel

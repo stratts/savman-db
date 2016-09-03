@@ -1,0 +1,8 @@
+name: 'Scooby Doo: First Frights'
+id: ScoobyDooFirstFrights
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Scooby
+contributors:
+- GameSaveManager

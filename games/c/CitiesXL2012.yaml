@@ -1,0 +1,8 @@
+name: Cities XL 2012
+id: CitiesXL2012
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\Focus Home Interactive\Cities XL 2012
+contributors:
+- GameSaveManager

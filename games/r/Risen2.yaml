@@ -1,0 +1,15 @@
+name: Risen 2
+id: Risen2
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\Risen2
+-   type: variable
+    variable: userprofile
+    subdir: Saved Games\Risen2
+-   type: variable
+    variable: userdoc
+    subdir: Saved Games\Risen2
+contributors:
+- GameSave.Info
+- GameSaveManager

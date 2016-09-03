@@ -1,0 +1,8 @@
+id: PuzzleQuestChallengeOfTheWarlords
+name: 'Puzzle Quest: Challenge of the Warlords'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Puzzle Quest
+contributors:
+- GameSave.Info

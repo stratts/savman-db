@@ -1,0 +1,8 @@
+id: WallaceAndGrommitsGrandAdventures4
+name: 'Wallace & Gromit''s Grand Adventures Episode 4: The Bogey Man'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Telltale Games\The Bogey Man
+contributors:
+- GameSave.Info

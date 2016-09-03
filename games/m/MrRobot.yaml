@@ -1,0 +1,8 @@
+name: Mr. Robot
+id: MrRobot
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: MrRobot
+contributors:
+- GameSaveManager

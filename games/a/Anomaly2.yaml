@@ -1,0 +1,9 @@
+id: Anomaly2
+name: Anomaly 2
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\11bitstudios\Anomaly 2
+contributors:
+- GameSave.Info
+- GameSave.Info

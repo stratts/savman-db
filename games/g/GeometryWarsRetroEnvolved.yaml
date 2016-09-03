@@ -1,0 +1,8 @@
+name: 'Geometry Wars: Retro Envolved'
+id: GeometryWarsRetroEnvolved
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\Bizarre Creations\Geometry Wars Retro Evolved
+contributors:
+- GameSaveManager

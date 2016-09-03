@@ -1,0 +1,8 @@
+name: 'Painkiller: Overdose'
+id: PainkillerOverdose
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\Painkiller Overdose
+contributors:
+- GameSaveManager

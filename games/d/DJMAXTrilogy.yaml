@@ -1,0 +1,8 @@
+name: DJMAX Trilogy
+id: DJMAXTrilogy
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: DJMaxTrilogy
+contributors:
+- GameSaveManager

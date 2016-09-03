@@ -1,0 +1,8 @@
+name: LEGO Star Wars II
+id: LEGOStarWars2
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\LucasArts\LEGO Star Wars II
+contributors:
+- GameSaveManager

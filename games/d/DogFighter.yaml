@@ -1,0 +1,9 @@
+name: DogFighter
+id: DogFighter
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\DogFighter
+contributors:
+- GameSaveManager
+- GameSaveManager

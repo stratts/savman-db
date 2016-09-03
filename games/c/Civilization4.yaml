@@ -1,0 +1,11 @@
+id: Civilization4
+name: Sid Meier's Civilization IV
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Sid Meier's Civilization 4
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Sid Meier's Civilization 4 Complete
+contributors:
+- GameSave.Info

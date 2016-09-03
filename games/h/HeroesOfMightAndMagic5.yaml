@@ -1,0 +1,8 @@
+id: HeroesOfMightAndMagic5
+name: Heroes of Might and Magic V
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Heroes of Might and Magic V
+contributors:
+- GameSave.Info

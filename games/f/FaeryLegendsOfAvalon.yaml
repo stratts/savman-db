@@ -1,0 +1,8 @@
+id: FaeryLegendsOfAvalon
+name: 'Faery: Legends of Avalon'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Faery - Legends of Avalon
+contributors:
+- Arc Angel

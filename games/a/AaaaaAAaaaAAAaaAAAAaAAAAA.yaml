@@ -1,0 +1,8 @@
+id: AaaaaAAaaaAAAaaAAAAaAAAAA
+name: AaaaaAAaaaAAAaaAAAAaAAAAA!!!
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\AaaaaRecklessDisregard
+contributors:
+- duncans_pumpkin

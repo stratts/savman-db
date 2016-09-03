@@ -1,0 +1,9 @@
+name: 'DmC: Devil May Cry'
+id: DmCDevilMayCry
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\UnrealEngine3\DevilGame
+contributors:
+- Arc Angel
+- GameSaveManager

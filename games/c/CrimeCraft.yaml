@@ -1,0 +1,8 @@
+name: CrimeCraft
+id: CrimeCraft
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\CrimeCraft
+contributors:
+- GameSaveManager

@@ -1,0 +1,8 @@
+name: 'Minecraft: Technic'
+id: MinecraftTechnic
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\.techniclauncher\technicssp
+contributors:
+- GameSaveManager

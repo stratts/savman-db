@@ -1,0 +1,8 @@
+name: 'Nancy Drew: Shadow at the Water''s Edge'
+id: NancyDrewShadowAtTheWatersEdge
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Shadow at the Water's Edge
+contributors:
+- GameSaveManager

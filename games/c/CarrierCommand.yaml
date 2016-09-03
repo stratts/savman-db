@@ -1,0 +1,8 @@
+name: Carrier Command
+id: CarrierCommand
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: CarrierCommand
+contributors:
+- GameSaveManager

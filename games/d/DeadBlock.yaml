@@ -1,0 +1,8 @@
+name: Dead Block
+id: DeadBlock
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\UnrealEngine3\DBGame
+contributors:
+- GameSaveManager

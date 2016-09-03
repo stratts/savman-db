@@ -1,0 +1,8 @@
+name: BoneTown
+id: BoneTown
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\BoneTown
+contributors:
+- GameSaveManager

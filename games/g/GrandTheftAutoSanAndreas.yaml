@@ -1,0 +1,8 @@
+id: GrandTheftAutoSanAndreas
+name: 'Grand Theft Auto: San Andreas'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: GTA San Andreas User Files
+contributors:
+- duncans_pumpkin

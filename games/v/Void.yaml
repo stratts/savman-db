@@ -1,0 +1,8 @@
+id: Void
+name: The Void
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Void
+contributors:
+- Arc Angel

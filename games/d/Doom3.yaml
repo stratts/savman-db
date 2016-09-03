@@ -1,0 +1,9 @@
+name: Doom 3
+id: Doom3
+locations:
+-   type: variable
+    variable: userprofile
+    subdir: Saved Games\id Software\DOOM 3 BFG
+contributors:
+- GameSave.Info
+- GameSaveManager

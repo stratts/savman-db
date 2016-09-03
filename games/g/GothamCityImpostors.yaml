@@ -1,0 +1,8 @@
+name: Gotham City Impostors
+id: GothamCityImpostors
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: WB Games\Gotham City Impostors
+contributors:
+- GameSaveManager

@@ -1,0 +1,8 @@
+id: VenusHostage
+name: Venus Hostage
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\VenusHostage
+contributors:
+- Arc Angel

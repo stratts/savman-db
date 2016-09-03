@@ -1,0 +1,8 @@
+id: UrQuanMasters
+name: The Ur-Quan Masters
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\uqm
+contributors:
+- Scandalon

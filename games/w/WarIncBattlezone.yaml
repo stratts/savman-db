@@ -1,0 +1,8 @@
+name: War Inc. Battlezone
+id: WarIncBattlezone
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Arktos\WarInc
+contributors:
+- GameSaveManager

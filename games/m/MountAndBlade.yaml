@@ -1,0 +1,11 @@
+id: MountAndBlade
+name: Mount & Blade
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Mount&Blade
+-   type: variable
+    variable: userdoc
+    subdir: Mount&Blade Savegames
+contributors:
+- AdmiringWorm

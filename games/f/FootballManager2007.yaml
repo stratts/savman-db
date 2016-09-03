@@ -1,0 +1,11 @@
+name: Football Manager 2007
+id: FootballManager2007
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Sports Interactive\Football Manager 2007
+-   type: variable
+    variable: userdoc
+    subdir: Sports Interactive\Football Manager 2007
+contributors:
+- GameSaveManager

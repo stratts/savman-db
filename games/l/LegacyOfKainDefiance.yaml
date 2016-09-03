@@ -1,0 +1,8 @@
+name: 'Legacy of Kain: Defiance'
+id: LegacyOfKainDefiance
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Legacy of Kain - Defiance
+contributors:
+- GameSaveManager

@@ -1,0 +1,8 @@
+name: 'Fishdom: Harvest Splash'
+id: FishdomHarvestSplash
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Playrix Entertainment\Fishdom Harvest Splash
+contributors:
+- GameSaveManager

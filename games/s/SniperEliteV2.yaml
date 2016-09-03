@@ -1,0 +1,10 @@
+id: SniperEliteV2
+name: Sniper Elite V2
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\SniperV2
+contributors:
+- AdmiringWorm
+- AdmiringWorm
+- Arc Angel

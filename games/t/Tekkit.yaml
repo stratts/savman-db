@@ -1,0 +1,8 @@
+name: Tekkit
+id: Tekkit
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\.techniclauncher
+contributors:
+- GameSaveManager

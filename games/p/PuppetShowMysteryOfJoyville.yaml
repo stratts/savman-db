@@ -1,0 +1,8 @@
+name: 'PuppetShow: Mystery of Joyville'
+id: PuppetShowMysteryOfJoyville
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\ERS G-Studio\Puppet Show
+contributors:
+- GameSaveManager

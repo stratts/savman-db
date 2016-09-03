@@ -1,0 +1,9 @@
+name: EDGE
+id: EDGE
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\Two Tribes\EDGE
+contributors:
+- GameSaveManager
+- GameSaveManager

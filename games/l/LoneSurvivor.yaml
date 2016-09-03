@@ -1,0 +1,8 @@
+id: LoneSurvivor
+name: Lone Survivor
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\LoneSurvivor
+contributors:
+- Arc Angel

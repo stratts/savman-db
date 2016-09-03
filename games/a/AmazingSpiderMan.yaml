@@ -1,0 +1,9 @@
+name: The Amazing Spider-Man
+id: AmazingSpiderMan
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Activision\ASM
+contributors:
+- GameSaveManager
+- GameSaveManager

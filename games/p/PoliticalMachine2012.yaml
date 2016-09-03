@@ -1,0 +1,8 @@
+name: The Political Machine 2012
+id: PoliticalMachine2012
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\PolMachine2012
+contributors:
+- GameSaveManager

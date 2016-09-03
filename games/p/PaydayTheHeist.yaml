@@ -1,0 +1,9 @@
+id: PaydayTheHeist
+name: 'Payday: The Heist'
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\PAYDAY
+contributors:
+- Arc Angel
+- simtech76

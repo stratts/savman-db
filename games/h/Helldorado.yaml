@@ -1,0 +1,8 @@
+name: Helldorado
+id: Helldorado
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Helldorado
+contributors:
+- GameSaveManager

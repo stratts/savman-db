@@ -1,0 +1,8 @@
+id: X3AlbionPrelude
+name: 'X3: Albion Prelude'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Egosoft\X3AP
+contributors:
+- Arc Angel

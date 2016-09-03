@@ -1,0 +1,8 @@
+id: Ball
+name: The Ball
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\The Ball
+contributors:
+- Arc Angel

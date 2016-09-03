@@ -1,0 +1,8 @@
+name: Pineapple Smash Crew
+id: PineappleSmashCrew
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: PineappleSmashCrew
+contributors:
+- GameSaveManager

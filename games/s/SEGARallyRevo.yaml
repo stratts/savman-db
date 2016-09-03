@@ -1,0 +1,8 @@
+name: SEGA Rally Revo
+id: SEGARallyRevo
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: SEGA Rally
+contributors:
+- GameSaveManager

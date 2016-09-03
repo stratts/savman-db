@@ -1,0 +1,8 @@
+id: CursedMountain
+name: Cursed Mountain
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\Deep Silver\Cursed Mountain
+contributors:
+- Arc Angel

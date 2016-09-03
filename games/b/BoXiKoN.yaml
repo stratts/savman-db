@@ -1,0 +1,8 @@
+name: BoXiKoN
+id: BoXiKoN
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\BoXiKoN
+contributors:
+- GameSaveManager

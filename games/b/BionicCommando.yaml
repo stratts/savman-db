@@ -1,0 +1,9 @@
+name: Bionic Commando
+id: BionicCommando
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\BC
+contributors:
+- GameSaveManager
+- GameSaveManager

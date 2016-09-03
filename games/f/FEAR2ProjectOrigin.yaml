@@ -1,0 +1,8 @@
+id: FEAR2ProjectOrigin
+name: 'F.E.A.R. 2: Project Origin'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: WBGames\FEAR2
+contributors:
+- GameSave.Info

@@ -1,0 +1,8 @@
+id: ProjectSnowblind
+name: Project Snowblind
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Project Snowblind
+contributors:
+- GameSave.Info

@@ -1,0 +1,8 @@
+name: Commandos Strike Force
+id: CommandosStrikeForce
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: CSF Data
+contributors:
+- GameSaveManager

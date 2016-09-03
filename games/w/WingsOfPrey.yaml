@@ -1,0 +1,8 @@
+id: WingsOfPrey
+name: Wings of Prey
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Wings Of Prey
+contributors:
+- Grinden

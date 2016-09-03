@@ -1,0 +1,8 @@
+id: DungeonsOfDredmor
+name: Dungeons of Dredmor
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Gaslamp Games\Dungeons of Dredmor
+contributors:
+- Arc Angel

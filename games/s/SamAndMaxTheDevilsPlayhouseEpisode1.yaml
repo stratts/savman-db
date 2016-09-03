@@ -1,0 +1,8 @@
+id: SamAndMaxTheDevilsPlayhouseEpisode1
+name: Sam & Max - The Devil's Playhouse Episode 1 - The Penal Zone
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Telltale Games\The Penal Zone
+contributors:
+- GameSave.Info

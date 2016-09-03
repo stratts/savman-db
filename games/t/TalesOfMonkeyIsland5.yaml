@@ -1,0 +1,12 @@
+id: TalesOfMonkeyIsland5
+name: 'Tales of Monkey Island Chapter 5: Rise of the Pirate God'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Telltale Games\Rise of the Pirate God
+-   type: variable
+    variable: userdoc
+    subdir: Telltale Games\tales of monkey island - chapter 5
+contributors:
+- AdmiringWorm
+- GameSave.Info

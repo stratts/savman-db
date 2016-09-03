@@ -1,0 +1,8 @@
+name: Green Moon
+id: GreenMoon
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\PlayFirst\Green Moon
+contributors:
+- GameSaveManager

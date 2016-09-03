@@ -1,0 +1,8 @@
+name: A Walk In The Dark
+id: AWalkInTheDark
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: SavedGames\AWalkInTheDark
+contributors:
+- GameSaveManager

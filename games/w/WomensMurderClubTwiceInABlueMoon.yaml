@@ -1,0 +1,8 @@
+name: 'Women''s Murder Club: Twice in a Blue Moon'
+id: WomensMurderClubTwiceInABlueMoon
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Flood Light Games\WMC3
+contributors:
+- GameSaveManager

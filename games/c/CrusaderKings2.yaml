@@ -1,0 +1,8 @@
+id: CrusaderKings2
+name: Crusader Kings II
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Paradox Interactive\Crusader Kings 2
+contributors:
+- GameSave.Info

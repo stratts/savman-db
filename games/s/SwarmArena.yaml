@@ -1,0 +1,8 @@
+name: Swarm Arena
+id: SwarmArena
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Dedication Games\Swarm Arena
+contributors:
+- GameSaveManager

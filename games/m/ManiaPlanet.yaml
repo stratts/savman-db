@@ -1,0 +1,8 @@
+name: ManiaPlanet
+id: ManiaPlanet
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: ManiaPlanet
+contributors:
+- GameSaveManager

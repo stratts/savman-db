@@ -1,0 +1,8 @@
+id: Terraria
+name: Terraria
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Terraria
+contributors:
+- murasaki8

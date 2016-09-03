@@ -1,0 +1,8 @@
+name: Sid Meier's Railroads
+id: Railroads
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Sid Meier's Railroads!
+contributors:
+- GameSaveManager

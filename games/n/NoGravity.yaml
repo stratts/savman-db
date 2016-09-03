@@ -1,0 +1,9 @@
+id: NoGravity
+name: No Gravity
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: No Gravity Savegames
+contributors:
+- GameSave.Info
+- GameSave.Info

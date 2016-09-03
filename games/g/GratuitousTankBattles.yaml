@@ -1,0 +1,8 @@
+name: Gratuitous Tank Battles
+id: GratuitousTankBattles
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\GratuitousTankBattles
+contributors:
+- GameSaveManager

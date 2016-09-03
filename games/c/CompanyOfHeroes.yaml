@@ -1,0 +1,8 @@
+id: CompanyOfHeroes
+name: Company of Heroes
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Company of Heroes
+contributors:
+- Arc Angel

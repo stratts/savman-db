@@ -1,0 +1,13 @@
+id: TombRaiderLegend
+name: 'Tomb Raider: Legend'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Eidos\Tomb Raider - Legend
+-   type: variable
+    variable: userdoc
+    subdir: Tomb Raider - Legend
+contributors:
+- GameSave.Info
+- GameSave.Info
+- GameSave.Info

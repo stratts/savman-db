@@ -1,0 +1,8 @@
+name: Puzzlegeddon
+id: Puzzlegeddon
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Puzzlegeddon
+contributors:
+- GameSaveManager

@@ -1,0 +1,9 @@
+id: Osmos
+name: Osmos
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Osmos
+contributors:
+- AdmiringWorm
+- duncans_pumpkin

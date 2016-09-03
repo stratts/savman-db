@@ -1,0 +1,8 @@
+name: LaserCat
+id: LaserCat
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: SavedGames\LaserCat
+contributors:
+- GameSaveManager

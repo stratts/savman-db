@@ -1,0 +1,8 @@
+id: ZombieShooter
+name: Zombie Shooter
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: ZombieShooter Saves
+contributors:
+- Arc Angel

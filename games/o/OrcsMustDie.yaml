@@ -1,0 +1,9 @@
+name: Orcs Must Die!
+id: OrcsMustDie
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Orcs Must Die
+contributors:
+- GameSaveManager
+- GameSave.Info

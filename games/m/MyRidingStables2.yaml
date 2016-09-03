@@ -1,0 +1,8 @@
+id: MyRidingStables2
+name: My Riding Stables 2
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: DTP\MyRidingStables
+contributors:
+- Anonymous Hero

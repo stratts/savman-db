@@ -1,0 +1,8 @@
+name: 'Love & Death: Bitten'
+id: LoveAndDeathBitten
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\PlayFirst\love-and-death-bitten
+contributors:
+- GameSaveManager

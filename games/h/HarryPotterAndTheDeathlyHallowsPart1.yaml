@@ -1,0 +1,9 @@
+name: 'Harry Potter and the Deathly Hallows: Part 1'
+id: HarryPotterAndTheDeathlyHallowsPart1
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\Electronic Arts\Harry Potter and the Deathly Hallows (TM) - Part
+        1
+contributors:
+- GameSaveManager

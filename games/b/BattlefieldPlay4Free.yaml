@@ -1,0 +1,8 @@
+name: Battlefield Play4Free
+id: BattlefieldPlay4Free
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Battlefield Play4Free
+contributors:
+- GameSaveManager

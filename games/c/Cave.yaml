@@ -1,0 +1,9 @@
+name: The Cave
+id: Cave
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Doublefine\TheCave
+contributors:
+- GameSaveManager
+- GameSaveManager

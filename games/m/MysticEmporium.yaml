@@ -1,0 +1,8 @@
+name: Mystic Emporium
+id: MysticEmporium
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\PlayFirst\Mystic Emporium
+contributors:
+- GameSaveManager

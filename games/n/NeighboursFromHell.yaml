@@ -1,0 +1,8 @@
+name: Neighbours From Hell
+id: NeighboursFromHell
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: JoWooD\NeighboursFromHell
+contributors:
+- GameSaveManager

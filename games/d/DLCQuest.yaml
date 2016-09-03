@@ -1,0 +1,8 @@
+id: DLCQuest
+name: DLC Quest
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: SavedGames\DLC\DLCQuest Data
+contributors:
+- LVS

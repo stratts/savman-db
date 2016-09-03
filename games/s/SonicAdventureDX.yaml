@@ -1,0 +1,8 @@
+name: Sonic Adventure DX
+id: SonicAdventureDX
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Sega\Sonic Adventure DX
+contributors:
+- GameSaveManager

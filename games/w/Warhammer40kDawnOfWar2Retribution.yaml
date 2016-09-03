@@ -1,0 +1,9 @@
+id: Warhammer40kDawnOfWar2Retribution
+name: 'Warhammer 40,000: Dawn of War II - Retribution'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Dawn of War II - Retribution
+contributors:
+- AvvA
+- AvvA

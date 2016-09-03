@@ -1,0 +1,8 @@
+name: 'Nat Geo Games: Mystery of Cleopatra'
+id: NatGeoGamesMysteryOfCleopatra
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Merscom\Mystery of Cleopatra
+contributors:
+- GameSaveManager

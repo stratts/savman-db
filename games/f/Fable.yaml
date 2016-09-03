@@ -1,0 +1,8 @@
+id: Fable
+name: 'Fable: The Lost Chapters'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Fable
+contributors:
+- AdmiringWorm

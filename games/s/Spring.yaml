@@ -1,0 +1,8 @@
+name: Spring
+id: Spring
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Spring
+contributors:
+- GameSaveManager

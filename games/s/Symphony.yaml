@@ -1,0 +1,8 @@
+name: Symphony
+id: Symphony
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Empty Clip Studios\Symphony
+contributors:
+- GameSaveManager

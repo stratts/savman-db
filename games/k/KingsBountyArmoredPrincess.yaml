@@ -1,0 +1,8 @@
+name: 'King''s Bounty: Armored Princess'
+id: KingsBountyArmoredPrincess
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Kings Bounty Princess
+contributors:
+- GameSaveManager

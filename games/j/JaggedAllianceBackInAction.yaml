@@ -1,0 +1,8 @@
+name: 'Jagged Alliance: Back in Action'
+id: JaggedAllianceBackInAction
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Jagged Alliance - Back in Action
+contributors:
+- GameSaveManager

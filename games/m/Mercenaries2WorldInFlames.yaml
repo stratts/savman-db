@@ -1,0 +1,11 @@
+name: 'Mercenaries 2: World in Flames'
+id: Mercenaries2WorldInFlames
+locations:
+-   type: variable
+    variable: userprofile
+    subdir: Saved Games\Mercenaries 2
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Mercenaries 2 World In Flames
+contributors:
+- GameSaveManager

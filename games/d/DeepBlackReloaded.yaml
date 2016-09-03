@@ -1,0 +1,8 @@
+id: DeepBlackReloaded
+name: Deep Black Reloaded
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: DeepBlackReloaded
+contributors:
+- AdmiringWorm

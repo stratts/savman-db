@@ -1,0 +1,11 @@
+id: HalfLife2LostCoast
+name: 'Half-Life 2: Lost Coast'
+locations:
+-   type: profile
+    profile_items:
+    - hl2.exe
+    - lostcoast
+    subdir: lostcoast
+    include:
+    - cfg/*.*
+    - save/*.*

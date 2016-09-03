@@ -1,0 +1,8 @@
+name: Black & White 2
+id: BlackWhite2
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Black & White 2
+contributors:
+- GameSaveManager

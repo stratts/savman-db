@@ -1,0 +1,8 @@
+name: 'Diner Dash: Seasonal Snack Pack'
+id: DinerDashSeasonalSnackPack
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\PlayFirst\DinerDash4SeasonalSnackPack
+contributors:
+- GameSaveManager

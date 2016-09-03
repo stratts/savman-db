@@ -1,0 +1,8 @@
+name: 'Ys: Ark of Napishtim'
+id: YsArkOfNapishtim
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\FALCOM\YS6_WIN
+contributors:
+- GameSaveManager

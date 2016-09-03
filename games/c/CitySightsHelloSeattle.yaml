@@ -1,0 +1,8 @@
+name: 'City Sights: Hello, Seattle!'
+id: CitySightsHelloSeattle
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\Oberon Games\City Sights Hello, Seattle
+contributors:
+- GameSaveManager

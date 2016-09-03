@@ -1,0 +1,8 @@
+name: The Mystery of the Mary Celeste
+id: MysteryOfTheMaryCeleste
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\PlayFirst\The Mystery of the Mary Celeste
+contributors:
+- GameSaveManager

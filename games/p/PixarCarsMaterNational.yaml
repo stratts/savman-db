@@ -1,0 +1,8 @@
+name: 'Pixar Cars: Mater-National'
+id: PixarCarsMaterNational
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: THQ\Cars2
+contributors:
+- GameSaveManager

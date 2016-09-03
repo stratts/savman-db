@@ -1,0 +1,8 @@
+id: HectorBadgeOfCarnageEpisode3
+name: 'Hector: Badge of Carnage Episode 3'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Telltale Games\hector ep 3
+contributors:
+- Arc Angel

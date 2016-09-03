@@ -1,0 +1,8 @@
+name: 'Ankh 2: Heart of Osiris'
+id: Ankh2HeartOfOsiris
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Ankh - Heart of Osiris
+contributors:
+- GameSaveManager

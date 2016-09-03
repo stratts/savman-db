@@ -1,0 +1,8 @@
+name: 'Real Heroes: Firefighter'
+id: RealHeroesFirefighter
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Firefighter\save
+contributors:
+- GameSaveManager

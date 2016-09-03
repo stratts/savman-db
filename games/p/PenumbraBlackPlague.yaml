@@ -1,0 +1,8 @@
+id: PenumbraBlackPlague
+name: 'Penumbra: Black Plague'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Penumbra\Black Plague
+contributors:
+- GameSave.Info

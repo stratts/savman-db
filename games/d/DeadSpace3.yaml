@@ -1,0 +1,8 @@
+id: DeadSpace3
+name: Dead Space 3
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: EA Games\Dead Space 3
+contributors:
+- Arc Angel

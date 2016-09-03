@@ -1,0 +1,9 @@
+name: Botanicula
+id: Botanicula
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: BotaniculaSaves
+contributors:
+- GameSaveManager
+- GameSave.Info

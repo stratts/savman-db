@@ -1,0 +1,8 @@
+id: GrandTheftAutoViceCity
+name: 'Grand Theft Auto: Vice City'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: GTA Vice City User Files
+contributors:
+- duncans_pumpkin

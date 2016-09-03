@@ -1,0 +1,14 @@
+name: Bejeweled 3
+id: Bejeweled3
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\GameHouse\Bejeweled3
+-   type: variable
+    variable: appdata
+    subdir: Local\PopCap Games\Bejeweled3
+-   type: variable
+    variable: appdata
+    subdir: Local\Steam\Bejeweled3
+contributors:
+- GameSaveManager

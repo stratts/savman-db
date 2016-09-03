@@ -1,0 +1,9 @@
+name: F1 2012
+id: F12012
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\FormulaOne2012
+contributors:
+- GameSaveManager
+- GameSaveManager

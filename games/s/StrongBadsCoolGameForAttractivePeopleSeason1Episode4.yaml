@@ -1,0 +1,8 @@
+name: 'Strong Bad''s Cool Game for Attractive People: Season 1 - Episode 4'
+id: StrongBadsCoolGameForAttractivePeopleSeason1Episode4
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Telltale Games\Episode 4 - Dangeresque 3
+contributors:
+- GameSaveManager

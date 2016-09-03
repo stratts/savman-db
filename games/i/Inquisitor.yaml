@@ -1,0 +1,8 @@
+name: Inquisitor
+id: Inquisitor
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Inquisitor_SaveGames
+contributors:
+- GameSaveManager

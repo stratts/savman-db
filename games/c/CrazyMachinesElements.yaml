@@ -1,0 +1,8 @@
+name: Crazy Machines Elements
+id: CrazyMachinesElements
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Crazy Machines Elements
+contributors:
+- GameSaveManager

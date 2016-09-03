@@ -1,0 +1,8 @@
+id: RiseOfLegends
+name: Rise Of Legends
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Rise Of Legends
+contributors:
+- slake_jones

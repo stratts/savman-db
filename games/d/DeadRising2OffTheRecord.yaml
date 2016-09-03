@@ -1,0 +1,8 @@
+name: 'Dead Rising 2: Off The Record'
+id: DeadRising2OffTheRecord
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Dead Rising 2 Off The Record
+contributors:
+- GameSaveManager

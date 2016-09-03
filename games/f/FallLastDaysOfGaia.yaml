@@ -1,0 +1,8 @@
+name: 'The Fall: Last Days of Gaia'
+id: FallLastDaysOfGaia
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Silver Style Entertainment\The Fall - Last Days of Gaia
+contributors:
+- GameSaveManager

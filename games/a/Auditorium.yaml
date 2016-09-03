@@ -1,0 +1,8 @@
+name: Auditorium
+id: Auditorium
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\com.cipherprime.auditorium\Local Store\#SharedObjects
+contributors:
+- GameSaveManager

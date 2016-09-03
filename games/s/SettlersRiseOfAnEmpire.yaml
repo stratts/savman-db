@@ -1,0 +1,8 @@
+name: 'The Settlers: Rise of an Empire'
+id: SettlersRiseOfAnEmpire
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: THE SETTLERS - Rise of an Empire
+contributors:
+- GameSaveManager

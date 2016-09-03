@@ -1,0 +1,9 @@
+name: The Incredible Adventures of Van Helsing
+id: IncredibleAdventuresOfVanHelsing
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: NeocoreGames\Van Helsing
+contributors:
+- GameSaveManager
+- GameSaveManager

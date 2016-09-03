@@ -1,0 +1,8 @@
+name: Legend of Fae
+id: LegendOfFae
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Endless Fluff Games\Legend of Fae
+contributors:
+- GameSaveManager

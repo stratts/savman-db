@@ -1,0 +1,8 @@
+name: Darkout
+id: Darkout
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Darkout
+contributors:
+- GameSaveManager

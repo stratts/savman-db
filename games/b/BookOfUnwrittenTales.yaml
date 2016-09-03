@@ -1,0 +1,12 @@
+name: The Book of Unwritten Tales
+id: BookOfUnwrittenTales
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Book of Unwritten Tales
+-   type: variable
+    variable: userdoc
+    subdir: Unwritten Tales
+contributors:
+- AdmiringWorm
+- GameSaveManager

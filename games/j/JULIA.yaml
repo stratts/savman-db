@@ -1,0 +1,11 @@
+name: J.U.L.I.A.
+id: JULIA
+locations:
+-   type: variable
+    variable: userprofile
+    subdir: Saved Games\J.U.L.I.A
+-   type: variable
+    variable: userprofile
+    subdir: Saved Games\J.U.L.I.A.
+contributors:
+- GameSaveManager

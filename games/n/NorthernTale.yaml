@@ -1,0 +1,8 @@
+name: Northern Tale
+id: NorthernTale
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\northern_tale_bfg_en
+contributors:
+- GameSaveManager

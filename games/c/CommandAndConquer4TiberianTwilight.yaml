@@ -1,0 +1,11 @@
+id: CommandAndConquer4TiberianTwilight
+name: 'Command & Conquer 4: Tiberian Twilight'
+locations:
+-   type: variable
+    variable: userprofile
+    subdir: Saved Games\Command and Conquer 4
+-   type: variable
+    variable: userdoc
+    subdir: Command and Conquer 4
+contributors:
+- "H\xE5vard Kr\xFCger"

@@ -1,0 +1,11 @@
+id: BackToTheFutureEpisode4DoubleVisions
+name: 'Back to the Future: Episode 4: Double Visions'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Telltale Games\back to the future 104
+-   type: variable
+    variable: userdoc
+    subdir: Telltale Games\Episode 4
+contributors:
+- slake_jones

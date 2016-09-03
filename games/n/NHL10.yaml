@@ -1,0 +1,8 @@
+name: NHL 10
+id: NHL10
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: NHL10
+contributors:
+- GameSaveManager

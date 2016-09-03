@@ -1,0 +1,9 @@
+id: CallOfDuty4
+name: Call of Duty 4
+locations:
+-   type: profile
+    profile_items:
+    - players
+    - iw3sp.exe
+    include:
+    - players/*.*

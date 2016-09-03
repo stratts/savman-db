@@ -1,0 +1,8 @@
+name: Heroes Over Europe
+id: HeroesOverEurope
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Ubisoft\Heroes Over Europe
+contributors:
+- GameSaveManager

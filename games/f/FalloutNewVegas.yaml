@@ -1,0 +1,6 @@
+id: FalloutNewVegas
+name: 'Fallout: New Vegas'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games/FalloutNV

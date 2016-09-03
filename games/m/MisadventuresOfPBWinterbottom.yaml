@@ -1,0 +1,8 @@
+id: MisadventuresOfPBWinterbottom
+name: The Misadventures of P.B. Winterbottom
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: 2K Play\The Misadventures of P.B. Winterbottom
+contributors:
+- Arc Angel

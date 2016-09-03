@@ -1,0 +1,8 @@
+name: 'Nancy Drew: The Creature of Kapu Cave'
+id: NancyDrewTheCreatureOfKapuCave
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: The Creature of Kapu Cave
+contributors:
+- GameSaveManager

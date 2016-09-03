@@ -1,0 +1,8 @@
+name: 'Ace Combat: Assault Horizon'
+id: AceCombatAssaultHorizon
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: NAMCO\ACAH
+contributors:
+- GameSaveManager

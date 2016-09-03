@@ -1,0 +1,9 @@
+name: 'Tom Clancy''s Ghost Recon: Future Soldier'
+id: GhostReconFutureSoldier
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Ubisoft\Tom Clancy's Ghost Recon Future Soldier
+contributors:
+- GameSaveManager
+- GameSaveManager

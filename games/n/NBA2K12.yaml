@@ -1,0 +1,8 @@
+name: NBA 2K12
+id: NBA2K12
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\2K Sports\NBA 2K12
+contributors:
+- GameSaveManager

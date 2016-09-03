@@ -1,0 +1,8 @@
+name: Pro Evolution Soccer 2013
+id: ProEvolutionSoccer2013
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: KONAMI\Pro Evolution Soccer 2013
+contributors:
+- GameSaveManager

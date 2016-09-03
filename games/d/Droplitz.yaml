@@ -1,0 +1,8 @@
+name: Droplitz
+id: Droplitz
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Atlus\Droplitz
+contributors:
+- GameSaveManager

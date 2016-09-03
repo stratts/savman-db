@@ -1,0 +1,8 @@
+name: Retrovirus
+id: Retrovirus
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Retrovirus
+contributors:
+- GameSaveManager

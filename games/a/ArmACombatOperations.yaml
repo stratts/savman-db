@@ -1,0 +1,8 @@
+id: ArmACombatOperations
+name: 'ArmA: Combat Operations'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: ArmA
+contributors:
+- Arc Angel

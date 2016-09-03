@@ -1,0 +1,8 @@
+name: 'Battlestations: Midway'
+id: BattlestationsMidway
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Battlestations-Midway
+contributors:
+- GameSaveManager

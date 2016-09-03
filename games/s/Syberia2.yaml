@@ -1,0 +1,8 @@
+id: Syberia2
+name: Syberia II
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Syberia 2 Saves
+contributors:
+- GameSave.Info

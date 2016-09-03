@@ -1,0 +1,8 @@
+id: Hinterland
+name: Hinterland
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Tilted Mill\Hinterland
+contributors:
+- GameSave.Info

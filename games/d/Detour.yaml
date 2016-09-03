@@ -1,0 +1,12 @@
+name: Detour
+id: Detour
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\DETOUR
+-   type: variable
+    variable: userdoc
+    subdir: SavedGames\DETOURStorage
+contributors:
+- GameSaveManager
+- GameSaveManager

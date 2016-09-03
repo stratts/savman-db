@@ -1,0 +1,8 @@
+name: Catwoman
+id: Catwoman
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: EA Games\Catwoman
+contributors:
+- GameSaveManager

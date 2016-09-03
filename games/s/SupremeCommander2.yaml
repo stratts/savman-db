@@ -1,0 +1,18 @@
+id: SupremeCommander2
+name: Supreme Commander 2
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Mis juegos\SquareEnix\Supreme Commander 2
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Gas Powered Games\Supreme Commander 2
+-   type: variable
+    variable: userdoc
+    subdir: My Games\SquareEnix\Supreme Commander 2
+-   type: variable
+    variable: appdata
+    subdir: Local\Gas Powered Games\Supreme Commander 2
+contributors:
+- GameSave.Info
+- simtech76

@@ -1,0 +1,8 @@
+id: Darkspore
+name: Darkspore
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\DarksporeData
+contributors:
+- slake_jones

@@ -1,0 +1,8 @@
+id: SteelStormBurningRetribution
+name: 'Steel Storm: Burning Retribution'
+locations:
+-   type: variable
+    variable: userprofile
+    subdir: Saved Games\steelstorm
+contributors:
+- Arc Angel

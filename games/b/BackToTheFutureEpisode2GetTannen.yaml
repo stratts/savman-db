@@ -1,0 +1,8 @@
+id: BackToTheFutureEpisode2GetTannen
+name: 'Back to the Future: Episode 2: Get Tannen!'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Telltale Games\Episode 2
+contributors:
+- slake_jones

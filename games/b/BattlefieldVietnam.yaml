@@ -1,0 +1,8 @@
+name: Battlefield Vietnam
+id: BattlefieldVietnam
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Battlefield Vietnam
+contributors:
+- GameSaveManager

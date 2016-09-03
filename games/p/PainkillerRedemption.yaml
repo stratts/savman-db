@@ -1,0 +1,8 @@
+id: PainkillerRedemption
+name: 'Painkiller: Redemption'
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\Painkiller Redemption
+contributors:
+- Arc Angel

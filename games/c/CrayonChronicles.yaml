@@ -1,0 +1,8 @@
+name: Crayon Chronicles
+id: CrayonChronicles
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Crayon Chronicles
+contributors:
+- GameSaveManager

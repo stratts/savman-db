@@ -1,0 +1,8 @@
+name: Gumboy Tournament
+id: GumboyTournament
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Gumboy Tournament files
+contributors:
+- GameSaveManager

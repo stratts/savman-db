@@ -1,0 +1,8 @@
+id: DeadRising2
+name: Dead Rising 2
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Dead Rising 2
+contributors:
+- Arc Angel

@@ -1,0 +1,8 @@
+name: Euro Truck Simulator
+id: EuroTruckSimulator
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Euro Truck Simulator
+contributors:
+- GameSaveManager

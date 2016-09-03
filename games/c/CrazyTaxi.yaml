@@ -1,0 +1,8 @@
+name: Crazy Taxi
+id: CrazyTaxi
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: SEGA\Crazy Taxi
+contributors:
+- GameSaveManager

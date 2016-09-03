@@ -1,0 +1,8 @@
+name: 'The Haunted: Hell''s Reach'
+id: HauntedHellsReach
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\the-haunted-hells-reach
+contributors:
+- GameSaveManager

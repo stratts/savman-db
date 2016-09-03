@@ -1,0 +1,9 @@
+name: Homefront
+id: Homefront
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Homefront
+contributors:
+- simtech76
+- GameSaveManager

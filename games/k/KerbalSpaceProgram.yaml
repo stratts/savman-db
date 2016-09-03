@@ -1,0 +1,9 @@
+id: KerbalSpaceProgram
+name: Kerbal Space Program
+locations:
+-   type: profile
+    profile_items:
+    - KSP.exe
+    - GameData
+    include:
+    - saves/*.*

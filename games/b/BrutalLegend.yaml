@@ -1,0 +1,9 @@
+id: BrutalLegend
+name: "Br\xFCtal Legend"
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Doublefine\BrutalLegend
+contributors:
+- GameSave.Info
+- Arc Angel

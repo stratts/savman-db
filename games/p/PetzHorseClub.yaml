@@ -1,0 +1,8 @@
+id: PetzHorseClub
+name: Petz Horse Club
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Horsez08
+contributors:
+- Anonymous Hero

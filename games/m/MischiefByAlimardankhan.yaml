@@ -1,0 +1,8 @@
+name: Mischief by Alimardankhan
+id: MischiefByAlimardankhan
+locations:
+-   type: variable
+    variable: userprofile
+    subdir: Saved Games\Mischief by Alimardankhan
+contributors:
+- GameSaveManager

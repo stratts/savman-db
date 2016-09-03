@@ -1,0 +1,8 @@
+name: Shattered Horizon
+id: ShatteredHorizon
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\Futuremark\Shattered Horizon
+contributors:
+- GameSaveManager

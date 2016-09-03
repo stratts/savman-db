@@ -1,0 +1,8 @@
+name: McPixel
+id: McPixel
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\gd.sos.McPixel
+contributors:
+- GameSaveManager

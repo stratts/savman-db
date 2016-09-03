@@ -1,0 +1,8 @@
+id: SupremeCommander
+name: Supreme Commander
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\Gas Powered Games\SupremeCommander
+contributors:
+- duncans_pumpkin

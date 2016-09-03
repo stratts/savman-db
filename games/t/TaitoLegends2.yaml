@@ -1,0 +1,8 @@
+name: Taito Legends 2
+id: TaitoLegends2
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Taito Legends 2
+contributors:
+- GameSaveManager

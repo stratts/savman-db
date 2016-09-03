@@ -1,0 +1,8 @@
+name: Waking Mars
+id: WakingMars
+locations:
+-   type: variable
+    variable: userprofile
+    subdir: Saved Games\Waking Mars
+contributors:
+- GameSaveManager

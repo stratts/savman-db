@@ -1,0 +1,9 @@
+id: FarCry2
+name: Far Cry 2
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Far Cry 2
+contributors:
+- Arc Angel
+- AvvA

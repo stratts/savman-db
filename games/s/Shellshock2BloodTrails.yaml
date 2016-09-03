@@ -1,0 +1,8 @@
+name: 'Shellshock 2: Blood Trails'
+id: Shellshock2BloodTrails
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Eidos\Shellshock2
+contributors:
+- GameSaveManager

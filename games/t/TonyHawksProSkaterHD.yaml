@@ -1,0 +1,8 @@
+name: Tony Hawk's Pro Skater HD
+id: TonyHawksProSkaterHD
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Tony Hawk Pro Skater HD
+contributors:
+- GameSaveManager

@@ -1,0 +1,8 @@
+name: Miner Wars 2081
+id: MinerWars2081
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\MinerWars
+contributors:
+- GameSaveManager

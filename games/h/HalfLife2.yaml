@@ -1,0 +1,12 @@
+id: HalfLife2
+name: Half-Life 2
+locations:
+-   type: profile
+    profile_dir: Half-Life 2
+    profile_items:
+    - hl2.exe
+    - hl2
+    subdir: hl2
+    include:
+    - cfg/*.*
+    - save/*.*

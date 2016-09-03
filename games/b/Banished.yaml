@@ -1,0 +1,6 @@
+id: Banished
+name: Banished
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Banished

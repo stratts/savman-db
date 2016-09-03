@@ -1,0 +1,8 @@
+id: GrotesqueTacticsEvilHeroes
+name: 'Grotesque Tactics: Evil Heroes'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Grotesque-Tactics
+contributors:
+- Arc Angel

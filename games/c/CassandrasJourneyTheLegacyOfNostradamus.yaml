@@ -1,0 +1,8 @@
+name: 'Cassandra''s Journey: The Legacy of Nostradamus'
+id: CassandrasJourneyTheLegacyOfNostradamus
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\JoyBits\Cassandra's Journey
+contributors:
+- GameSaveManager

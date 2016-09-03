@@ -1,0 +1,9 @@
+name: Dead Island
+id: DeadIsland
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: DeadIsland
+contributors:
+- Arc Angel
+- GameSaveManager

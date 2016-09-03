@@ -1,0 +1,8 @@
+name: The Bridge
+id: Bridge
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: SavedGames\The Bridge\The Bridge Save
+contributors:
+- GameSaveManager

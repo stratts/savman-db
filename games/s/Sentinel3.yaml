@@ -1,0 +1,8 @@
+id: Sentinel3
+name: 'Sentinel 3: Homerworld'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Origin8\Sentinel 3
+contributors:
+- GameSave.Info

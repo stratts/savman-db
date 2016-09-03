@@ -1,0 +1,8 @@
+name: aeroflyFS
+id: aeroflyFS
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: aerofly FS
+contributors:
+- GameSaveManager

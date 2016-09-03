@@ -1,0 +1,8 @@
+name: 'LEGO Star Wars III: The Clone Wars'
+id: LEGOStarWars3TheCloneWars
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\LucasArts\LEGOStarWarsIII
+contributors:
+- GameSaveManager

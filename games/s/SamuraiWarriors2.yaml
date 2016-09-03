@@ -1,0 +1,8 @@
+name: Samurai Warriors 2
+id: SamuraiWarriors2
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: KOEI\SAMURAI WARRIORS 2
+contributors:
+- GameSaveManager

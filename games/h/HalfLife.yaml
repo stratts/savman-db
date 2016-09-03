@@ -1,0 +1,10 @@
+id: HalfLife
+name: Half-Life
+locations:
+-   type: profile
+    profile_items:
+    - hl.exe
+    - valve
+    - SDL2.dll
+    include:
+    - SAVE/*.*

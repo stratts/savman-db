@@ -1,0 +1,10 @@
+name: 'Assassin''s Creed: Revelations'
+id: AssassinsCreedRevelations
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Assassin's Creed Revelations
+contributors:
+- GameSave.Info
+- AdmiringWorm
+- GameSaveManager

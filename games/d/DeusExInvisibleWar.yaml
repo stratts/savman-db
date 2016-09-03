@@ -1,0 +1,8 @@
+id: DeusExInvisibleWar
+name: 'Deus Ex: Invisible War'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Deus Ex - Invisible War
+contributors:
+- GameSave.Info

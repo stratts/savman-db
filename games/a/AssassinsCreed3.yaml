@@ -1,0 +1,9 @@
+name: Assassin's Creed 3
+id: AssassinsCreed3
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Assassin's Creed III
+contributors:
+- GameSaveManager
+- GameSaveManager

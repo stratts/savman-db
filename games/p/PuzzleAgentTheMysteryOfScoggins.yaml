@@ -1,0 +1,8 @@
+name: 'Puzzle Agent: The Mystery of Scoggins'
+id: PuzzleAgentTheMysteryOfScoggins
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Telltale Games\The Mystery of Scoggins
+contributors:
+- GameSaveManager

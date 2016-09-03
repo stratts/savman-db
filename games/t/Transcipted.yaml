@@ -1,0 +1,9 @@
+name: Transcipted
+id: Transcipted
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\Transcripted
+contributors:
+- GameSaveManager
+- GameSaveManager

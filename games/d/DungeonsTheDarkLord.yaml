@@ -1,0 +1,8 @@
+name: 'Dungeons: The Dark Lord'
+id: DungeonsTheDarkLord
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Kalypso Media\Dungeons - The Dark Lord
+contributors:
+- GameSaveManager

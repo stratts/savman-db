@@ -1,0 +1,8 @@
+id: VirtualFamilies
+name: Virtual Families
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: LDW\Virtual Families
+contributors:
+- GameSave.Info

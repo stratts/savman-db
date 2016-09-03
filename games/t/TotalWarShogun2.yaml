@@ -1,0 +1,9 @@
+name: 'Total War: Shogun 2'
+id: TotalWarShogun2
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\The Creative Assembly\Shogun2
+contributors:
+- GameSaveManager
+- Arc Angel

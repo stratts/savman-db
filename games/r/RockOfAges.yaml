@@ -1,0 +1,9 @@
+name: Rock of Ages
+id: RockOfAges
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\UnrealEngine3\BoulderGame
+contributors:
+- GameSave.Info
+- GameSaveManager

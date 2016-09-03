@@ -1,0 +1,8 @@
+name: 'NyxQuest: Kindred Sprits'
+id: NyxQuestKindredSprits
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Over the Top Games\NyxQuest
+contributors:
+- GameSaveManager

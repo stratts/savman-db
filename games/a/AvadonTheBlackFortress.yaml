@@ -1,0 +1,8 @@
+id: AvadonTheBlackFortress
+name: 'Avadon: The Black Fortress'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Spiderweb Software\Avadon Saved Games
+contributors:
+- Arc Angel

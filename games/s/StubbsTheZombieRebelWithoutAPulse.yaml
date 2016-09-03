@@ -1,0 +1,8 @@
+id: StubbsTheZombieRebelWithoutAPulse
+name: 'Stubbs the Zombie: Rebel Without a Pulse'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Stubbs the Zombie
+contributors:
+- Arc Angel

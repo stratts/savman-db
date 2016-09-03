@@ -1,0 +1,8 @@
+name: Heroes of Newerth
+id: HeroesOfNewerth
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Heroes of Newerth
+contributors:
+- GameSaveManager

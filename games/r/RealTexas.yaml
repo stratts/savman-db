@@ -1,0 +1,8 @@
+name: The Real Texas
+id: RealTexas
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\The Real Texas\2002
+contributors:
+- GameSaveManager

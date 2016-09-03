@@ -1,0 +1,8 @@
+id: Inversion
+name: Inversion
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Inversion Saves
+contributors:
+- Arc Angel

@@ -1,0 +1,8 @@
+id: KaneAndLynch2DogDays
+name: 'Kane & Lynch 2: Dog Days'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Square Enix\Kane & Lynch 2 - Dog Days
+contributors:
+- Arc Angel

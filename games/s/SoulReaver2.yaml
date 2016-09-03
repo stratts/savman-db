@@ -1,0 +1,8 @@
+name: Soul Reaver 2
+id: SoulReaver2
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Soul Reaver 2
+contributors:
+- GameSaveManager

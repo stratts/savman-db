@@ -1,0 +1,9 @@
+name: Shank 2
+id: Shank2
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Shank 2
+contributors:
+- GameSaveManager
+- GameSaveManager

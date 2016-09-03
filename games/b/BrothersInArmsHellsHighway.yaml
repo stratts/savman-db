@@ -1,0 +1,8 @@
+name: 'Brothers In Arms: Hell''s Highway'
+id: BrothersInArmsHellsHighway
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\BIA Hells Highway
+contributors:
+- GameSaveManager

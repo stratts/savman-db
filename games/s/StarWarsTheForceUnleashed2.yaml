@@ -1,0 +1,8 @@
+id: StarWarsTheForceUnleashed2
+name: 'Star Wars: The Force Unleashed II'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: LucasArts\Star Wars The Force Unleashed 2
+contributors:
+- Arc Angel

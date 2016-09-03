@@ -1,0 +1,12 @@
+name: Dark Sector
+id: DarkSector
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Dark Sector
+-   type: variable
+    variable: userdoc
+    subdir: Aspyr\Dark Sector
+contributors:
+- Arc Angel
+- GameSaveManager

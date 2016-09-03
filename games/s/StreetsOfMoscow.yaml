@@ -1,0 +1,8 @@
+id: StreetsOfMoscow
+name: Streets of Moscow
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Streets of Moscow
+contributors:
+- AdmiringWorm

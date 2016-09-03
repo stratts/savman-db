@@ -1,0 +1,8 @@
+name: LEGO Indiana Jones
+id: LEGOIndianaJones
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\LucasArts\LEGOIndianaJones
+contributors:
+- GameSaveManager

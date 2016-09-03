@@ -1,0 +1,18 @@
+name: 'Command & Conquer 3: Kane''s Wrath'
+id: CommandAndConquer3KanesWrath
+locations:
+-   type: variable
+    variable: userprofile
+    subdir: Saved Games\Command & Conquer 3 Kane's Wrath
+-   type: variable
+    variable: userdoc
+    subdir: Command & Conquer 3 Kane's Wrath
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Command & Conquer 3 La Ira de Kane
+-   type: variable
+    variable: userdoc
+    subdir: Command & Conquer 3 La Ira de Kane
+contributors:
+- Paul Taylor
+- GameSaveManager

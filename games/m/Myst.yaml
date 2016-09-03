@@ -1,0 +1,8 @@
+id: Myst
+name: Myst
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Myst
+contributors:
+- GameSave.Info

@@ -1,0 +1,8 @@
+id: Singularity
+name: Singularity
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Singularity
+contributors:
+- Arc Angel

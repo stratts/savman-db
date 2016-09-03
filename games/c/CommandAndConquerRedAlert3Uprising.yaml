@@ -1,0 +1,14 @@
+name: 'Command & Conquer: Red Alert 3 Uprising'
+id: CommandAndConquerRedAlert3Uprising
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Red Alert 3 Uprising
+-   type: variable
+    variable: userprofile
+    subdir: Saved Games\Red Alert 3 Uprising
+-   type: variable
+    variable: userdoc
+    subdir: Red Alert 3 Uprising
+contributors:
+- GameSaveManager

@@ -1,0 +1,8 @@
+name: Supertuxcart
+id: Supertuxcart
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\supertuxkart
+contributors:
+- GameSaveManager

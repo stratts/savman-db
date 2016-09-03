@@ -1,0 +1,8 @@
+id: GeneForge4
+name: Geneforge 4
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Geneforge 4 Saved Games
+contributors:
+- Arc Angel

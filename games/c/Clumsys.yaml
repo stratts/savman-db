@@ -1,0 +1,8 @@
+name: The Clumsys
+id: Clumsys
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Gogii Games\The Clumsys
+contributors:
+- GameSaveManager

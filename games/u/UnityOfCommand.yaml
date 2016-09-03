@@ -1,0 +1,8 @@
+name: Unity of Command
+id: UnityOfCommand
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Unity of Command
+contributors:
+- GameSaveManager

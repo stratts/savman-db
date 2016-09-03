@@ -1,0 +1,8 @@
+id: Starscape
+name: Starscape
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Starscape
+contributors:
+- GameSave.Info

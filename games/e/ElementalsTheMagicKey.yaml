@@ -1,0 +1,8 @@
+name: 'Elementals: The Magic Key'
+id: ElementalsTheMagicKey
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\ElementalsTheMagicKey
+contributors:
+- GameSaveManager

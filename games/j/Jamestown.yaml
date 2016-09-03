@@ -1,0 +1,8 @@
+id: Jamestown
+name: Jamestown
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Saved Games\Jamestown
+contributors:
+- Arc Angel

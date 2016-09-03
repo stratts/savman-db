@@ -1,0 +1,8 @@
+name: Little Inferno
+id: LittleInferno
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Little Inferno
+contributors:
+- GameSaveManager

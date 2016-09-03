@@ -1,0 +1,9 @@
+id: SamAndMaxTheDevilsPlayhouseEpisode5
+name: Sam & Max - The Devil's Playhouse Episode 5 - The City That Dares Not Sleep
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Telltale Games\The City That Dares Not Sleep
+contributors:
+- AdmiringWorm
+- GameSave.Info

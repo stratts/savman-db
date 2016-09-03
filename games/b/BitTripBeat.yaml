@@ -1,0 +1,9 @@
+name: BIT.TRIP BEAT
+id: BitTripBeat
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\Bit.Trip Beat
+contributors:
+- GameSaveManager
+- GameSaveManager

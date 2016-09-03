@@ -1,0 +1,8 @@
+name: Dark Age of Camelot
+id: DarkAgeofCamelot
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Electronic Arts\Dark Age of Camelot
+contributors:
+- GameSaveManager

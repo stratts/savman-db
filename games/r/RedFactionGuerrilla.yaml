@@ -1,0 +1,9 @@
+id: RedFactionGuerrilla
+name: 'Red Faction: Guerrilla'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Red Faction Guerrilla
+contributors:
+- GameSave.Info
+- Arc Angel

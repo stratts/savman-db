@@ -1,0 +1,8 @@
+name: Mr. Jones' Graveyard Shift
+id: MrJonesGraveyardShift
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\GraveyardShift
+contributors:
+- GameSaveManager

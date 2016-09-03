@@ -1,0 +1,9 @@
+name: Dead Horde
+id: DeadHorde
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: DeadHorde
+contributors:
+- GameSaveManager
+- telroa

@@ -1,0 +1,8 @@
+name: You Don't Know Jack
+id: YouDontKnowJack
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\YOUDONTKNOWJACK
+contributors:
+- GameSaveManager

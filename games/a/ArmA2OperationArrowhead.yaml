@@ -1,0 +1,8 @@
+id: ArmA2OperationArrowhead
+name: 'ArmA II: Operation Arrowhead'
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\ArmA 2 OA
+contributors:
+- simtech76

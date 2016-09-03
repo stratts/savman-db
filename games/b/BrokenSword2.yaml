@@ -1,0 +1,9 @@
+id: BrokenSword2
+name: 'Broken Sword II: The Smoking Mirror'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Broken Sword II - Remastered
+contributors:
+- GameSave.Info
+- GameSave.Info

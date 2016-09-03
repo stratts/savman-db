@@ -1,0 +1,12 @@
+id: TalesOfMonkeyIsland2
+name: 'Tales of Monkey Island Chapter 2: The Siege of Spinner Cay'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Telltale Games\tales of monkey island - chapter 2
+-   type: variable
+    variable: userdoc
+    subdir: Telltale Games\The Siege of Spinner Cay
+contributors:
+- AdmiringWorm
+- GameSave.Info

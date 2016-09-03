@@ -1,0 +1,8 @@
+id: MLB2K11
+name: Major League Baseball 2K11
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\2K Sports\MLB 2k11
+contributors:
+- GameSave.Info

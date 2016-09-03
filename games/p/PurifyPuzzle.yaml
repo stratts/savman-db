@@ -1,0 +1,8 @@
+name: Purify Puzzle
+id: PurifyPuzzle
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Purify Puzzle
+contributors:
+- GameSaveManager

@@ -1,0 +1,8 @@
+name: Wizard's Hat
+id: WizardsHat
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\MBT\WizardsHat
+contributors:
+- GameSaveManager

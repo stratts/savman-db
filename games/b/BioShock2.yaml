@@ -1,0 +1,8 @@
+id: BioShock2
+name: BioShock 2
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Bioshock2
+contributors:
+- "H\xE5vard Kr\xFCger"

@@ -1,0 +1,8 @@
+name: Take On Helicopters
+id: TakeOnHelicopters
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Take On Helicopters
+contributors:
+- GameSaveManager

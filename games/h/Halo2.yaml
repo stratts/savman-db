@@ -1,0 +1,11 @@
+name: Halo 2
+id: Halo2
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\microsoft\halo 2
+-   type: variable
+    variable: userprofile
+    subdir: Saved Games\Halo 2
+contributors:
+- GameSaveManager

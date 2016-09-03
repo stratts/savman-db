@@ -1,0 +1,8 @@
+id: RigNRoll
+name: Rig 'n' Roll
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\RigNRoll_usa_ws
+contributors:
+- Arc Angel

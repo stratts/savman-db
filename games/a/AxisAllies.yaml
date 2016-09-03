@@ -1,0 +1,8 @@
+name: Axis & Allies
+id: AxisAllies
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: A&A
+contributors:
+- GameSaveManager

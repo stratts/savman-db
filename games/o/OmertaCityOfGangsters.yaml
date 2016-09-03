@@ -1,0 +1,8 @@
+id: OmertaCityOfGangsters
+name: 'Omerta: City of Gangsters'
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Omerta
+contributors:
+- AdmiringWorm

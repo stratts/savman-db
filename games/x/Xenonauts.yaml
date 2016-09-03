@@ -1,0 +1,8 @@
+name: Xenonauts
+id: Xenonauts
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Xenonauts
+contributors:
+- GameSaveManager

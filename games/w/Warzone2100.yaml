@@ -1,0 +1,12 @@
+name: Warzone 2100
+id: Warzone2100
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Warzone 2100
+-   type: variable
+    variable: userdoc
+    subdir: Warzone 2100 v3.0
+contributors:
+- slake_jones
+- GameSaveManager

@@ -1,0 +1,8 @@
+name: Memento Mori 2
+id: MementoMori2
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: MEMENTO2
+contributors:
+- GameSaveManager

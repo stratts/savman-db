@@ -1,0 +1,8 @@
+id: MarsWarLogs
+name: 'Mars: War Logs'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Mars - War Logs
+contributors:
+- Arc Angel

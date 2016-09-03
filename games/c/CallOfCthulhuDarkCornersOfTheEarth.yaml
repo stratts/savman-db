@@ -1,0 +1,8 @@
+id: CallOfCthulhuDarkCornersOfTheEarth
+name: 'Call of Cthulhu: Dark Corners of the Earth'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Bethesda\Call of Cthulhu
+contributors:
+- Arc Angel

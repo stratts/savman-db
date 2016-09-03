@@ -1,0 +1,8 @@
+name: 'Mysterious City: Vegas'
+id: MysteriousCityVegas
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Gold Casual Games\The Mysterious City - Vegas
+contributors:
+- GameSaveManager

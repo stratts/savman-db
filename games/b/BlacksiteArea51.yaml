@@ -1,0 +1,8 @@
+name: 'Blacksite: Area 51'
+id: BlacksiteArea51
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\Midway\Blacksite
+contributors:
+- GameSaveManager

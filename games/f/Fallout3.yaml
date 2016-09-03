@@ -1,0 +1,8 @@
+id: Fallout3
+name: Fallout 3
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Fallout3
+contributors:
+- GameSave.Info

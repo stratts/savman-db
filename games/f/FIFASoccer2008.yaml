@@ -1,0 +1,8 @@
+name: FIFA Soccer 2008
+id: FIFASoccer2008
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: FIFA 08
+contributors:
+- GameSaveManager

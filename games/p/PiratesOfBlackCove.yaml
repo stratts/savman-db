@@ -1,0 +1,8 @@
+id: PiratesOfBlackCove
+name: Pirates of Black Cove
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Nitro Games\PiratesOfBlackCove
+contributors:
+- GameSave.Info

@@ -1,0 +1,8 @@
+name: Virtua Tennis 4
+id: VirtuaTennis4
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Virtua Tennis 4
+contributors:
+- GameSaveManager

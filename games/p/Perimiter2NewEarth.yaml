@@ -1,0 +1,8 @@
+name: 'Perimiter 2: New Earth'
+id: Perimiter2NewEarth
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Perimiter2
+contributors:
+- GameSaveManager

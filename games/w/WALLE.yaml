@@ -1,0 +1,8 @@
+name: WALL-E
+id: WALLE
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: WALL-E
+contributors:
+- GameSaveManager

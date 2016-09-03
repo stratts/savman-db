@@ -1,0 +1,8 @@
+id: PetzHorsez
+name: Petz Horsez
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Horsez
+contributors:
+- Anonymous Hero

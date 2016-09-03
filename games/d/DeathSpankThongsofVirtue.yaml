@@ -1,0 +1,9 @@
+name: 'DeathSpank: Thongs of Virtue'
+id: DeathSpankThongsofVirtue
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Hothead Games\DeathSpankTOV
+contributors:
+- GameSaveManager
+- GameSaveManager

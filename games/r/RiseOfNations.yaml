@@ -1,0 +1,8 @@
+id: RiseOfNations
+name: Rise Of Nations
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Rise Of Nations
+contributors:
+- slake_jones

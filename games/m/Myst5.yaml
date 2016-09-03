@@ -1,0 +1,8 @@
+id: Myst5
+name: 'Myst V: End of Ages'
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\Myst V End of Ages
+contributors:
+- GameSave.Info

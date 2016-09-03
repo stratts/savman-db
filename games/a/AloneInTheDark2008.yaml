@@ -1,0 +1,8 @@
+name: Alone in the Dark (2008)
+id: AloneInTheDark2008
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\Atari\AITD
+contributors:
+- GameSaveManager

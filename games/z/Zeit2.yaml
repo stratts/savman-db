@@ -1,0 +1,8 @@
+name: "Zeit\xB2"
+id: Zeit2
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: SavedGames\Zeit2
+contributors:
+- GameSaveManager

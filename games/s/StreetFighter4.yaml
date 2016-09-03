@@ -1,0 +1,8 @@
+id: StreetFighter4
+name: Street Fighter IV
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: CAPCOM\STREETFIGHTERIV
+contributors:
+- Arc Angel

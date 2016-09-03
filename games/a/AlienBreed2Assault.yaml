@@ -1,0 +1,8 @@
+id: AlienBreed2Assault
+name: 'Alien Breed 2: Assault'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\UnrealEngine3\AlienBreed2AssaultGame
+contributors:
+- Arc Angel

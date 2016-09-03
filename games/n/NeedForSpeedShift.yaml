@@ -1,0 +1,8 @@
+id: NeedForSpeedShift
+name: 'Need For Speed: Shift'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: NFS SHIFT
+contributors:
+- Arc Angel

@@ -1,0 +1,8 @@
+name: 'Lionheart: Kings'' Crusade'
+id: LionheartKingsCrusade
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: NeocoreGames\Lionheart
+contributors:
+- GameSaveManager

@@ -1,0 +1,8 @@
+id: SASSecureTomorrow
+name: 'SAS: Secure Tomorrow'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: City Interactive\SAS Secure Tomorrow
+contributors:
+- Arc Angel

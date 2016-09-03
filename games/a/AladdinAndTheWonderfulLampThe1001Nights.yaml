@@ -1,0 +1,8 @@
+name: 'Aladdin and the Wonderful Lamp: The 1001 Nights'
+id: AladdinAndTheWonderfulLampThe1001Nights
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\HdO Adventure\Aladin
+contributors:
+- GameSaveManager

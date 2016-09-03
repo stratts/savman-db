@@ -1,0 +1,8 @@
+id: ScourgeProject
+name: 'The Scourge Project: Episodes 1 and 2'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\The Scourge Project Ep1-2\ScourgeGame
+contributors:
+- Arc Angel

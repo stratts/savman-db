@@ -1,0 +1,8 @@
+name: Silent Hunter 3
+id: SilentHunter3
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: SH3
+contributors:
+- GameSaveManager

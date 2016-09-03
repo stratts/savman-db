@@ -1,0 +1,8 @@
+name: 'Gothic 3: Forsaken Gods'
+id: Gothic3ForsakenGods
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Gothic3ForsakenGods
+contributors:
+- GameSaveManager

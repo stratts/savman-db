@@ -1,0 +1,8 @@
+name: 'Medal of Honor: Pacific Assault'
+id: MedalOfHonorPacificAssault
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: EA Games\Medal of Honor Pacific Assault(tm)
+contributors:
+- GameSaveManager

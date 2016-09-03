@@ -1,0 +1,8 @@
+name: Company of Heroes Online
+id: CompanyOfHeroesOnline
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Company of Heroes Online
+contributors:
+- GameSaveManager

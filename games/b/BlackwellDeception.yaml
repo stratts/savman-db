@@ -1,0 +1,11 @@
+id: BlackwellDeception
+name: Blackwell Deception
+locations:
+-   type: variable
+    variable: userprofile
+    subdir: Saved Games\Blackwell Deception
+-   type: variable
+    variable: userdoc
+    subdir: My Saved Games\Blackwell Deception
+contributors:
+- GameSave.Info

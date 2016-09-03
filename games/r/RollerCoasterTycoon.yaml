@@ -1,0 +1,9 @@
+id: RollerCoasterTycoon
+name: Roller Coaster Tycoon
+locations:
+-   type: profile
+    profile_items:
+    - RCT.exe
+    - Saved Games
+    include:
+    - Saved Games/*

@@ -1,0 +1,9 @@
+name: Dynamite Jack
+id: DynamiteJack
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Dynamite Jack
+contributors:
+- GameSaveManager
+- Arc Angel

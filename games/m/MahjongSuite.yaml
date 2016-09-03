@@ -1,0 +1,8 @@
+name: Mahjong Suite
+id: MahjongSuite
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Mahjong Suite
+contributors:
+- GameSaveManager

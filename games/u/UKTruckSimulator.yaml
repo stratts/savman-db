@@ -1,0 +1,8 @@
+name: UK Truck Simulator
+id: UKTruckSimulator
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: UK Truck Simulator
+contributors:
+- GameSaveManager

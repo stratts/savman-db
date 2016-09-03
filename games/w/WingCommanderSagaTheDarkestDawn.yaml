@@ -1,0 +1,8 @@
+name: 'Wing Commander Saga: The Darkest Dawn'
+id: WingCommanderSagaTheDarkestDawn
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Volition\Wing Commander Saga
+contributors:
+- GameSaveManager

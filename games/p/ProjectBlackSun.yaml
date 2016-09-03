@@ -1,0 +1,8 @@
+id: ProjectBlackSun
+name: Project Black Sun
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: ProjectBlackSun
+contributors:
+- Arc Angel

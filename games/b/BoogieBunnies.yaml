@@ -1,0 +1,8 @@
+name: Boogie Bunnies
+id: BoogieBunnies
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Boogie Bunnies
+contributors:
+- GameSaveManager

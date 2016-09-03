@@ -1,0 +1,8 @@
+name: Zen of Sudoku
+id: ZenOfSudoku
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Zen of Sudoku
+contributors:
+- GameSaveManager

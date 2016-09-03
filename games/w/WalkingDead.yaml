@@ -1,0 +1,8 @@
+id: WalkingDead
+name: The Walking Dead
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Telltale Games\The Walking Dead
+contributors:
+- Arc Angel

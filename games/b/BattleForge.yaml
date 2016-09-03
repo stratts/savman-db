@@ -1,0 +1,8 @@
+name: BattleForge
+id: BattleForge
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: BattleForge
+contributors:
+- GameSaveManager

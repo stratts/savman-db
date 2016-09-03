@@ -1,0 +1,8 @@
+name: Restaurant Empire 2
+id: RestaurantEmpire2
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Restaurant Empire 2
+contributors:
+- GameSaveManager

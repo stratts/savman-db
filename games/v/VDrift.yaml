@@ -1,0 +1,8 @@
+name: VDrift
+id: VDrift
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\VDrift
+contributors:
+- GameSaveManager

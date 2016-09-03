@@ -1,0 +1,8 @@
+name: 'Ice Age 4: Continental Drift'
+id: IceAge4ContinentalDrift
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Activision\IceAge4
+contributors:
+- GameSaveManager

@@ -1,0 +1,8 @@
+id: ExodusFromTheEarth
+name: Exodus from the Earth
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Exodus
+contributors:
+- Arc Angel

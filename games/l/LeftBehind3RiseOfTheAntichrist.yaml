@@ -1,0 +1,8 @@
+name: 'Left Behind 3: Rise of the Antichrist'
+id: LeftBehind3RiseOfTheAntichrist
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Left Behind Games\Eternal Forces
+contributors:
+- GameSaveManager

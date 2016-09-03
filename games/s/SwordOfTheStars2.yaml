@@ -1,0 +1,8 @@
+name: Sword of the Stars 2
+id: SwordOfTheStars2
+locations:
+-   type: variable
+    variable: userprofile
+    subdir: Saved Games\Sword of the Stars II
+contributors:
+- GameSaveManager

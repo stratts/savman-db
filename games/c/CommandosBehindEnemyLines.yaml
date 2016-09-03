@@ -1,0 +1,8 @@
+name: 'Commandos: Behind Enemy Lines'
+id: CommandosBehindEnemyLines
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Pyro Studios\Commandos
+contributors:
+- GameSaveManager

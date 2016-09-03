@@ -1,0 +1,8 @@
+id: Legendary
+name: Legendary
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Legendary
+contributors:
+- Arc Angel

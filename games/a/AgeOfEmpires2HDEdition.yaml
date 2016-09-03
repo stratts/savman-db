@@ -1,0 +1,9 @@
+id: AgeOfEmpires2HDEdition
+name: 'Age of Empires II: HD Edition'
+locations:
+-   type: profile
+    profile_items:
+    - AoK HD.exe
+    - savegame
+    include:
+    - savegame/*.*

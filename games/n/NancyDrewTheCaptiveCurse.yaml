@@ -1,0 +1,8 @@
+name: 'Nancy Drew: The Captive Curse'
+id: NancyDrewTheCaptiveCurse
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: The Captive Curse
+contributors:
+- GameSaveManager

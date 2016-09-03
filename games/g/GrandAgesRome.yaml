@@ -1,0 +1,8 @@
+name: 'Grand Ages: Rome'
+id: GrandAgesRome
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Grand Ages Rome
+contributors:
+- GameSaveManager

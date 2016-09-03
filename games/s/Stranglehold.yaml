@@ -1,0 +1,11 @@
+name: Stranglehold
+id: Stranglehold
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Stranglehold
+-   type: variable
+    variable: userdoc
+    subdir: StrangleholdSaves
+contributors:
+- GameSaveManager

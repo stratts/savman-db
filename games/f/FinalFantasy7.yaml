@@ -1,0 +1,14 @@
+name: Final Fantasy VII
+id: FinalFantasy7
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Square Enix\FINAL FANTASY VII
+-   type: variable
+    variable: userdoc
+    subdir: Square Enix\FINAL FANTASY VII Steam
+contributors:
+- GameSave.Info
+- Caleb Love
+- GameSaveManager
+- GameSave.Info

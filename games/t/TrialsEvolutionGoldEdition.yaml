@@ -1,0 +1,8 @@
+name: 'Trials Evolution: Gold Edition'
+id: TrialsEvolutionGoldEdition
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Ubisoft\Trials Evolution Gold Edition
+contributors:
+- GameSaveManager

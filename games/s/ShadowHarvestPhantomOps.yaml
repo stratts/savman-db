@@ -1,0 +1,8 @@
+id: ShadowHarvestPhantomOps
+name: 'Shadow Harvest: Phantom Ops'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Shadow Harvest
+contributors:
+- Arc Angel

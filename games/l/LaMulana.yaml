@@ -1,0 +1,8 @@
+name: La-Mulana
+id: LaMulana
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: NIGORO\La-Mulana
+contributors:
+- GameSaveManager

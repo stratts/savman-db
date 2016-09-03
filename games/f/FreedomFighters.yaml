@@ -1,0 +1,8 @@
+name: Freedom Fighters
+id: FreedomFighters
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Freedom Fighters
+contributors:
+- GameSaveManager

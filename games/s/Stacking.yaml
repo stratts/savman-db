@@ -1,0 +1,9 @@
+name: Stacking
+id: Stacking
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Doublefine\Stacking
+contributors:
+- AdmiringWorm
+- GameSaveManager

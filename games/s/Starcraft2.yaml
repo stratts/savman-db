@@ -1,0 +1,8 @@
+id: Starcraft2
+name: 'Starcraft II: Wings of Liberty'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: StarCraft II
+contributors:
+- Caleb Love

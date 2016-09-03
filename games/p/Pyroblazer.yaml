@@ -1,0 +1,8 @@
+name: Pyroblazer
+id: Pyroblazer
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Pyroblazer
+contributors:
+- GameSaveManager

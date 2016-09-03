@@ -1,0 +1,9 @@
+name: Shatter
+id: Shatter
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\Sidhe\SH
+contributors:
+- GameSave.Info
+- GameSaveManager

@@ -1,0 +1,8 @@
+name: TeeWorlds
+id: TeeWorlds
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\TeeWorlds
+contributors:
+- GameSaveManager

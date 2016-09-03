@@ -1,0 +1,8 @@
+name: '18 Wheels of Steel: American Long Haul'
+id: 18WheelsOfSteelAmericanLongHaul
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: 18 WoS American Long Haul
+contributors:
+- GameSaveManager

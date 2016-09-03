@@ -1,0 +1,8 @@
+name: Future Wars
+id: FutureWars
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Future Wars
+contributors:
+- GameSaveManager

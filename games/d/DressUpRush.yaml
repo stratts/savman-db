@@ -1,0 +1,8 @@
+name: Dress Up Rush
+id: DressUpRush
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Realore_DressUpRush
+contributors:
+- GameSaveManager

@@ -1,0 +1,8 @@
+name: World of Tanks
+id: WorldOfTanks
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Wargaming.net\WorldOfTanks
+contributors:
+- GameSaveManager

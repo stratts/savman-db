@@ -1,0 +1,8 @@
+name: Quantum of Solace
+id: QuantumOfSolace
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Activision\Quantum of Solace
+contributors:
+- GameSaveManager

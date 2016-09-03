@@ -1,0 +1,11 @@
+id: Fable3
+name: Fable III
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Lionhead Studios\Fable 3
+-   type: variable
+    variable: userprofile
+    subdir: Saved Games\Lionhead Studios\Fable 3
+contributors:
+- Christian Hamann

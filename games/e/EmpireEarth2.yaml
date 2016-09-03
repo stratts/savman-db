@@ -1,0 +1,8 @@
+id: EmpireEarth2
+name: Empire Earth II
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Empire Earth II
+contributors:
+- GameSave.Info

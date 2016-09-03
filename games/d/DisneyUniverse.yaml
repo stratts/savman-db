@@ -1,0 +1,11 @@
+name: Disney Universe
+id: DisneyUniverse
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\Disney Interactive Studios\Disney Universe
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Disney Interactive Studios\Disney Universe
+contributors:
+- GameSaveManager

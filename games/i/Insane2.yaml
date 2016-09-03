@@ -1,0 +1,8 @@
+name: Insane 2
+id: Insane2
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\insane2
+contributors:
+- GameSaveManager

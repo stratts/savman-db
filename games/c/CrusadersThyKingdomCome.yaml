@@ -1,0 +1,8 @@
+name: 'Crusaders: Thy Kingdom Come'
+id: CrusadersThyKingdomCome
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: NeocoreGames\Crusaders - Thy Kingdom Come
+contributors:
+- GameSaveManager

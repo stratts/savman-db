@@ -1,0 +1,8 @@
+name: 'Storm: Frontline Nation'
+id: StormFrontlineNation
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\STORM - Frontline Nation
+contributors:
+- GameSaveManager

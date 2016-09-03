@@ -1,0 +1,8 @@
+id: Ziro
+name: Ziro
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Ziro
+contributors:
+- GameSave.Info

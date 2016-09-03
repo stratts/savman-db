@@ -1,0 +1,8 @@
+name: Dynasty Warriors 4
+id: DynastyWarriors4
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: KOEI\Dynasty Warriors 4 Hyper
+contributors:
+- GameSaveManager

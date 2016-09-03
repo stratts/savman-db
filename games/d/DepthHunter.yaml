@@ -1,0 +1,8 @@
+id: DepthHunter
+name: Depth Hunter
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: DepthHunter
+contributors:
+- Arc Angel

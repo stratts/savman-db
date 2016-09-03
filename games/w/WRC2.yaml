@@ -1,0 +1,8 @@
+name: WRC 2
+id: WRC2
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Blackbean\WRC2
+contributors:
+- GameSaveManager

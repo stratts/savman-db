@@ -1,0 +1,8 @@
+name: All Zombies Must Die!
+id: AllZombiesMustDie
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\UnrealEngine3\Bzb2Game
+contributors:
+- GameSaveManager

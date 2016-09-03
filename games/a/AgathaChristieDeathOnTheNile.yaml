@@ -1,0 +1,8 @@
+name: 'Agatha Christie: Death on the Nile'
+id: AgathaChristieDeathOnTheNile
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\FloodLightGames\Death on the Nile
+contributors:
+- GameSaveManager

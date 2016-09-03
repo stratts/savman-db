@@ -1,0 +1,8 @@
+name: 'Red Orchestra 2: Heroes of Stalingrad'
+id: RedOrchestra2HeroesOfStalingrad
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\RedOrchestra2
+contributors:
+- GameSaveManager

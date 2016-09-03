@@ -1,0 +1,8 @@
+name: Dungeon Siege
+id: DungeonSiege
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Dungeon Siege
+contributors:
+- GameSaveManager

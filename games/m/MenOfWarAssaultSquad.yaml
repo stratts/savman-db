@@ -1,0 +1,8 @@
+name: 'Men of War: Assault Squad'
+id: MenOfWarAssaultSquad
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\men of war - assault squad
+contributors:
+- GameSaveManager

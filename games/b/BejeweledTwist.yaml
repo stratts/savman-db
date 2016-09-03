@@ -1,0 +1,8 @@
+name: Bejeweled Twist
+id: BejeweledTwist
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\PopCap Games\BejeweledTwist
+contributors:
+- GameSaveManager

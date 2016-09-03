@@ -1,0 +1,8 @@
+name: LEGO Indiana Jones 2
+id: LEGOIndianaJones2
+locations:
+-   type: variable
+    variable: appdata
+    subdir: "Roaming\\LucasArts\\LEGO\xAE Indiana Jones\u2122 2"
+contributors:
+- GameSaveManager

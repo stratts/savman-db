@@ -1,0 +1,8 @@
+id: Overlord2
+name: Overlord II
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Overlord II
+contributors:
+- Arc Angel

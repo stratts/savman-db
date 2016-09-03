@@ -1,0 +1,8 @@
+id: Majesty2
+name: Majesty 2
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: majesty2
+contributors:
+- GameSave.Info

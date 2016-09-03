@@ -1,0 +1,8 @@
+name: Rigonauts
+id: Rigonauts
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\rigonauts
+contributors:
+- GameSaveManager

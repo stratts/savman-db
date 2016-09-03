@@ -1,0 +1,9 @@
+name: Bioshock Infinite
+id: BioshockInfinite
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\BioShock Infinite
+contributors:
+- Arc Angel
+- GameSaveManager

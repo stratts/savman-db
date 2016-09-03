@@ -1,0 +1,8 @@
+name: Xotic
+id: Xotic
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Xotic
+contributors:
+- GameSaveManager

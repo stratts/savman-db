@@ -1,0 +1,8 @@
+name: Algodoo
+id: Algodoo
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Algodoo
+contributors:
+- GameSaveManager

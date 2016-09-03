@@ -1,0 +1,9 @@
+name: Just Cause 2
+id: JustCause2
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Square Enix\Just Cause 2
+contributors:
+- Arc Angel
+- GameSaveManager

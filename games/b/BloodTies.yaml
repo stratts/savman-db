@@ -1,0 +1,8 @@
+name: Blood Ties
+id: BloodTies
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\BloodTies
+contributors:
+- GameSaveManager

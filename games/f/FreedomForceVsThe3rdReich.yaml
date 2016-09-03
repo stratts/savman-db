@@ -1,0 +1,8 @@
+id: FreedomForceVsThe3rdReich
+name: Freedom Force vs. The 3rd Reich
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\Irrational Games\Freedom Force vs the 3rd Reich
+contributors:
+- Mark Barbour

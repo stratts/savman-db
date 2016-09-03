@@ -1,0 +1,8 @@
+name: Hamilton's Great Adventure
+id: HamiltonsGreatAdventure
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\FatShark\Hamilton
+contributors:
+- GameSaveManager

@@ -1,0 +1,8 @@
+name: Cargo! Quest for Gravity
+id: CargoQuestForGravity
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Cargo
+contributors:
+- GameSaveManager

@@ -1,0 +1,8 @@
+id: DragonAgeOrigins
+name: 'Dragon Age: Origins'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: BioWare\Dragon Age
+contributors:
+- GameSave.Info

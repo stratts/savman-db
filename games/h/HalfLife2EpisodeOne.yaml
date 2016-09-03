@@ -1,0 +1,11 @@
+id: HalfLife2EpisodeOne
+name: 'Half-Life 2: Episode One'
+locations:
+-   type: profile
+    profile_items:
+    - hl2.exe
+    - episodic
+    subdir: episodic
+    include:
+    - cfg/*.*
+    - saves/*.*

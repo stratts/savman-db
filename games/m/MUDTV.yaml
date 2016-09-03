@@ -1,0 +1,8 @@
+id: MUDTV
+name: M.U.D. TV
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\MudTV
+contributors:
+- AdmiringWorm

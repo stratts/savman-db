@@ -1,0 +1,8 @@
+id: DontTakeItPersonallyBabeItJustAintYourStory
+name: don't take it personally, babe, it just ain't your story
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\RenPy\digital2-1298756237
+contributors:
+- GameSave.Info

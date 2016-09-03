@@ -1,0 +1,8 @@
+name: 'Global Ops: Commando Libya'
+id: GlobalOpsCommandoLibya
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\GlobalOps-CommandoLibya
+contributors:
+- GameSaveManager

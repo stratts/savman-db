@@ -1,0 +1,8 @@
+name: A Game of Dwarves
+id: AGameOfDwarves
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Zeal Game Studio\A Game of Dwarves
+contributors:
+- GameSaveManager

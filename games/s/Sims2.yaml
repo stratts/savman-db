@@ -1,0 +1,9 @@
+id: Sims2
+name: The Sims 2
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: EA Games\The Sims 2
+contributors:
+- AdmiringWorm
+- Samuel Barbour

@@ -1,0 +1,8 @@
+name: Saving Private Sheep
+id: SavingPrivateSheep
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\BULKYPIX\Saving Private Sheep
+contributors:
+- GameSaveManager

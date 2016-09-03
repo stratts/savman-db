@@ -1,0 +1,8 @@
+id: NeedForSpeedTheRun
+name: 'Need For Speed: The Run'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: NFSTR
+contributors:
+- Arc Angel

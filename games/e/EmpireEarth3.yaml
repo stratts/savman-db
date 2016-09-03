@@ -1,0 +1,8 @@
+id: EmpireEarth3
+name: Empire Earth III
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Empire Earth III
+contributors:
+- GameSave.Info

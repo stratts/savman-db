@@ -1,0 +1,8 @@
+name: 'Nancy Drew: Ransom of the Seven Ships'
+id: NancyDrewRansomOfTheSevenShips
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Ransom of the Seven Ships
+contributors:
+- GameSaveManager

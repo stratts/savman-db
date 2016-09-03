@@ -1,0 +1,9 @@
+name: Rush
+id: Rush
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\Two Tribes\RUSH
+contributors:
+- GameSaveManager
+- GameSaveManager

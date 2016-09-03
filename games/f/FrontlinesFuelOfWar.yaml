@@ -1,0 +1,8 @@
+id: FrontlinesFuelOfWar
+name: 'Frontlines: Fuel of War'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Frontlines - Fuel of War
+contributors:
+- Arc Angel

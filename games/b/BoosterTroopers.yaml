@@ -1,0 +1,8 @@
+name: Booster Troopers
+id: BoosterTroopers
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: BTroopers
+contributors:
+- GameSaveManager

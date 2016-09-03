@@ -1,0 +1,12 @@
+id: BlackwellConvergence
+name: Blackwell Convergence
+locations:
+-   type: variable
+    variable: userprofile
+    subdir: Saved Games\Blackwell Convergence
+-   type: variable
+    variable: userdoc
+    subdir: My Saved Games\Blackwell Convergence
+contributors:
+- Arc Angel
+- GameSave.Info

@@ -1,0 +1,8 @@
+name: Men of War
+id: MenOfWar
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Men of War
+contributors:
+- GameSaveManager

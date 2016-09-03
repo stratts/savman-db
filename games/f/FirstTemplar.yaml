@@ -1,0 +1,8 @@
+name: The First Templar
+id: FirstTemplar
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\The First Templar
+contributors:
+- GameSaveManager

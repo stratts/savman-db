@@ -1,0 +1,6 @@
+name: Stardew Valley
+id: StardewValley
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming/StardewValley

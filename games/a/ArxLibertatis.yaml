@@ -1,0 +1,8 @@
+name: Arx Libertatis
+id: ArxLibertatis
+locations:
+-   type: variable
+    variable: userprofile
+    subdir: Saved Games\Arx Libertatis
+contributors:
+- GameSaveManager

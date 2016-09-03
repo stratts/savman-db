@@ -1,0 +1,9 @@
+id: SamAndMaxTheDevilsPlayhouseEpisode3
+name: Sam & Max - The Devil's Playhouse Episode 3 - They Stole Max's Brain
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Telltale Games\They Stole Maxs Brain
+contributors:
+- AdmiringWorm
+- GameSave.Info

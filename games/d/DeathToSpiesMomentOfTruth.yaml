@@ -1,0 +1,8 @@
+id: DeathToSpiesMomentOfTruth
+name: 'Death to Spies: Moment of Truth'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Smersh_MT
+contributors:
+- Arc Angel

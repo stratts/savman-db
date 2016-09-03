@@ -1,0 +1,9 @@
+name: Stealth Bastard Deluxe
+id: StealthBastardDeluxe
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\StealthBastard[Steam]
+contributors:
+- GameSaveManager
+- GameSaveManager

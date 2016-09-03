@@ -1,0 +1,8 @@
+name: Universe Sandbox
+id: UniverseSandbox
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Universe Sandbox
+contributors:
+- GameSaveManager

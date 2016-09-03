@@ -1,0 +1,8 @@
+id: SupremeCommanderForgedAlliance
+name: 'Supreme Commander: Forged Alliance'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Gas Powered Games\Supreme Commander Forged Alliance
+contributors:
+- duncans_pumpkin

@@ -1,0 +1,10 @@
+id: VVVVVV
+name: VVVVVV
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: VVVVVV
+contributors:
+- AvvA
+- GameSave.Info
+- telroa

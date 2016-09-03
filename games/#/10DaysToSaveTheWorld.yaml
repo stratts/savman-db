@@ -1,0 +1,8 @@
+name: 10 Days to Save the World
+id: 10DaysToSaveTheWorld
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\FlyWheelGames\10DaysToSaveTheWorld
+contributors:
+- GameSaveManager

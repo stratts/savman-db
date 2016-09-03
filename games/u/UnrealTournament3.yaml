@@ -1,0 +1,9 @@
+id: UnrealTournament3
+name: Unreal Tournament III
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Unreal Tournament 3
+contributors:
+- GameSave.Info
+- GameSave.Info

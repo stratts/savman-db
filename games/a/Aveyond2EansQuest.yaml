@@ -1,0 +1,8 @@
+name: 'Aveyond II: Ean''s Quest'
+id: Aveyond2EansQuest
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Aveyond II
+contributors:
+- GameSaveManager

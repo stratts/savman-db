@@ -1,0 +1,8 @@
+id: Anno1404
+name: Anno 1404
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Anno 1404
+contributors:
+- Caleb Love

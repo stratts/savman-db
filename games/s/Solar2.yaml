@@ -1,0 +1,11 @@
+id: Solar2
+name: Solar 2
+locations:
+-   type: variable
+    variable: userprofile
+    subdir: Saved Games\Solar 2
+-   type: variable
+    variable: userdoc
+    subdir: SavedGames\Solar2
+contributors:
+- AvvA

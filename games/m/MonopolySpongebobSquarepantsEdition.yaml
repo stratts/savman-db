@@ -1,0 +1,8 @@
+name: Monopoly - Spongebob Squarepants Edition
+id: MonopolySpongebobSquarepantsEdition
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Hasbro\Monopoly-SpongeBob
+contributors:
+- GameSaveManager

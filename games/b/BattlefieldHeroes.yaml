@@ -1,0 +1,8 @@
+name: Battlefield Heroes
+id: BattlefieldHeroes
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Battlefield Heroes
+contributors:
+- GameSaveManager

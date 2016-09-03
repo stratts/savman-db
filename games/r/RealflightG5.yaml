@@ -1,0 +1,8 @@
+id: RealflightG5
+name: Realflight G5
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: RealFlight G5
+contributors:
+- GameSave.Info

@@ -1,0 +1,8 @@
+name: Lost Via Domus
+id: LostViaDomus
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Lost Via Domus
+contributors:
+- GameSaveManager

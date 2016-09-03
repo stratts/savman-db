@@ -1,0 +1,8 @@
+name: 'Dragon Age: Legends'
+id: DragonAgeLegends
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Dragon Age Legends
+contributors:
+- GameSaveManager

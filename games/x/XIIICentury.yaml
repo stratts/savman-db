@@ -1,0 +1,8 @@
+name: XIII Century
+id: XIIICentury
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: XIII Century Rusich
+contributors:
+- GameSaveManager

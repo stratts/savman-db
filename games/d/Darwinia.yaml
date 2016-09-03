@@ -1,0 +1,11 @@
+id: Darwinia
+name: Darwinia
+locations:
+-   type: variable
+    variable: userprofile
+    subdir: Saved Games\Darwinia
+-   type: variable
+    variable: userdoc
+    subdir: Saved Games\Darwinia
+contributors:
+- AvvA

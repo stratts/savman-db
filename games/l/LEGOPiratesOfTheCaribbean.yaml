@@ -1,0 +1,8 @@
+name: LEGO Pirates of the Caribbean
+id: LEGOPiratesOfTheCaribbean
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\DisneyInteractiveStudios\LEGOPirates
+contributors:
+- GameSaveManager

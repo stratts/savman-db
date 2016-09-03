@@ -1,0 +1,8 @@
+name: Call of Juarez
+id: CallOfJuarez
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Call of Juarez
+contributors:
+- GameSaveManager

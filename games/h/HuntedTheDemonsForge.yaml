@@ -1,0 +1,11 @@
+id: HuntedTheDemonsForge
+name: 'Hunted: The Demon''s Forge'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Hunted
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Hunted
+contributors:
+- Arc Angel

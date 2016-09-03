@@ -1,0 +1,8 @@
+name: 'The Otherside: Realm of Eons'
+id: OthersideRealmOfEons
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\OtherSide Realm of Eons
+contributors:
+- GameSaveManager

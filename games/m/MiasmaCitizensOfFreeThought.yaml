@@ -1,0 +1,8 @@
+name: 'Miasma: Citizens of Free Thought'
+id: MiasmaCitizensOfFreeThought
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: SavedGames\Miasma
+contributors:
+- GameSaveManager

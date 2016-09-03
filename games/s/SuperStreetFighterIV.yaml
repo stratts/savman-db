@@ -1,0 +1,8 @@
+name: Super Street Fighter IV
+id: SuperStreetFighterIV
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: capcom\SUPERSTREETFIGHTERIV
+contributors:
+- GameSaveManager

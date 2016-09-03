@@ -1,0 +1,8 @@
+name: FreeOrion
+id: FreeOrion
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\FreeOrion
+contributors:
+- GameSaveManager

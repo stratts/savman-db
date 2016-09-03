@@ -1,0 +1,8 @@
+name: 'Nancy Drew: The Phantom of Venice'
+id: NancyDrewThePhantomOfVenice
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: The Phantom of Venice
+contributors:
+- GameSaveManager

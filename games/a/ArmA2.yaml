@@ -1,0 +1,8 @@
+id: ArmA2
+name: ArmA II
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: ArmA 2
+contributors:
+- Arc Angel

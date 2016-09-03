@@ -1,0 +1,8 @@
+name: 'Need for Speed: Carbon'
+id: NeedForSpeedCarbon
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: NFS Carbon
+contributors:
+- GameSaveManager

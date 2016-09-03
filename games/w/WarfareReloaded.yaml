@@ -1,0 +1,8 @@
+name: Warfare Reloaded
+id: WarfareReloaded
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: __P3D__
+contributors:
+- GameSaveManager

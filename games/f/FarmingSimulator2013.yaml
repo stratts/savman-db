@@ -1,0 +1,8 @@
+name: Farming Simulator 2013
+id: FarmingSimulator2013
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\FarmingSimulator2013
+contributors:
+- GameSaveManager

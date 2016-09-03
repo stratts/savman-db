@@ -1,0 +1,8 @@
+name: 'LEGO Star Wars: The Complete Saga'
+id: LEGOStarWarsTheCompleteSaga
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\LucasArts\LEGO Star Wars - The Complete Saga
+contributors:
+- GameSaveManager

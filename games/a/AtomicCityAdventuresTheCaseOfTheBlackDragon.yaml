@@ -1,0 +1,8 @@
+name: 'Atomic City Adventures: The Case of the Black Dragon'
+id: AtomicCityAdventuresTheCaseOfTheBlackDragon
+locations:
+-   type: variable
+    variable: userprofile
+    subdir: Saved Games\Atomic City
+contributors:
+- GameSaveManager

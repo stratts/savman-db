@@ -1,0 +1,11 @@
+name: Flight Simulator X
+id: FlightSimulatorX
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Flight Simulator X Files
+-   type: variable
+    variable: userdoc
+    subdir: Flight Simulator X-Dateien
+contributors:
+- GameSaveManager

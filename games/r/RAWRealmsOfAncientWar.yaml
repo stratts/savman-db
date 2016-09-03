@@ -1,0 +1,8 @@
+name: R.A.W. Realms of Ancient War
+id: RAWRealmsOfAncientWar
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Realms of Ancient War
+contributors:
+- GameSaveManager

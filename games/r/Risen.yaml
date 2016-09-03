@@ -1,0 +1,11 @@
+id: Risen
+name: Risen
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\Risen
+-   type: variable
+    variable: userdoc
+    subdir: Risen
+contributors:
+- Arc Angel

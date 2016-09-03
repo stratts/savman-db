@@ -1,0 +1,11 @@
+name: 'Heroes of Might and Magic V: Tribes of the East'
+id: HeroesOfMightAndMagic5TribesOfTheEast
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Heroes of Might and Magic V - Tribes of the East
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Heroes of Might and Magic V - Tribes of the East
+contributors:
+- GameSaveManager

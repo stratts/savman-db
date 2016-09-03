@@ -1,0 +1,8 @@
+name: 'Painkiller: Resurrection'
+id: PainkillerResurrection
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\Painkiller Resurrection
+contributors:
+- GameSaveManager

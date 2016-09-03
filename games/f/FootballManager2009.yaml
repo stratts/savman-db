@@ -1,0 +1,8 @@
+name: Football Manager 2009
+id: FootballManager2009
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Sports Interactive\Football Manager 2009
+contributors:
+- GameSaveManager

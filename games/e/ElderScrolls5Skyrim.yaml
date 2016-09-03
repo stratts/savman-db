@@ -1,0 +1,6 @@
+id: ElderScrolls5Skyrim
+name: 'The Elder Scrolls V: Skyrim'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games/Skyrim

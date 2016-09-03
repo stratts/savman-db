@@ -1,0 +1,8 @@
+name: HISTORY Great Battles Medieval
+id: HISTORYGreatBattlesMedieval
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: GBM
+contributors:
+- GameSaveManager

@@ -1,0 +1,9 @@
+name: Fate of the World
+id: FateOfTheWorld
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\fotw
+contributors:
+- GameSaveManager
+- GameSaveManager

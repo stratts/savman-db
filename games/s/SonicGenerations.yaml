@@ -1,0 +1,9 @@
+name: Sonic Generations
+id: SonicGenerations
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Sonic Generations
+contributors:
+- GameSaveManager
+- GameSaveManager

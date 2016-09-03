@@ -1,0 +1,8 @@
+id: NBA2K11
+name: NBA 2K11
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\2K Sports\NBA 2k11
+contributors:
+- GameSave.Info

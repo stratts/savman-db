@@ -1,0 +1,8 @@
+name: Hot Wheels
+id: HotWheels
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Hot Wheels
+contributors:
+- GameSaveManager

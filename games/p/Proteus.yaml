@@ -1,0 +1,8 @@
+name: Proteus
+id: Proteus
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Proteus
+contributors:
+- GameSaveManager

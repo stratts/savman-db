@@ -1,0 +1,10 @@
+name: BladeKitten
+id: BladeKitten
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Krome Studios\BladeKitten
+contributors:
+- GameSaveManager
+- GameSave.Info
+- GameSaveManager

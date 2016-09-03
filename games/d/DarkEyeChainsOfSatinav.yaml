@@ -1,0 +1,8 @@
+id: DarkEyeChainsOfSatinav
+name: The Dark Eye - Chains of Satinav
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\Daedalic Entertainment\Satinav
+contributors:
+- GameSave.Info

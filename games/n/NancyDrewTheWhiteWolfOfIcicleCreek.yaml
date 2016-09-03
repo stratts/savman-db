@@ -1,0 +1,8 @@
+name: 'Nancy Drew: The White Wolf of Icicle Creek'
+id: NancyDrewTheWhiteWolfOfIcicleCreek
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: The White Wolf of Icicle Creek
+contributors:
+- GameSaveManager

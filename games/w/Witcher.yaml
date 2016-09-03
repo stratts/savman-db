@@ -1,0 +1,8 @@
+id: Witcher
+name: The Witcher
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: The Witcher
+contributors:
+- GameSave.Info

@@ -1,0 +1,8 @@
+name: X-Blades
+id: XBlades
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\XBlades
+contributors:
+- GameSaveManager

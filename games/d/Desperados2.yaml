@@ -1,0 +1,8 @@
+id: Desperados2
+name: 'Desperados 2: Cooper''s Revenge'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Cooper's Revenge
+contributors:
+- Arc Angel

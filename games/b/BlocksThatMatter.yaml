@@ -1,0 +1,9 @@
+name: Blocks That Matter
+id: BlocksThatMatter
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: BlocksThatMatterUserDatas
+contributors:
+- GameSaveManager
+- hadderakk

@@ -1,0 +1,8 @@
+name: Tom Clancy's H.A.W.X
+id: HAWX
+locations:
+-   type: variable
+    variable: userprofile
+    subdir: Saved Games\Tom Clancy's H.A.W.X
+contributors:
+- GameSaveManager

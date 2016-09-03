@@ -1,0 +1,8 @@
+name: "Lego\xAE Harry Potter\u2122 Years 1 - 4"
+id: LegoHarryPotterYears14
+locations:
+-   type: variable
+    variable: appdata
+    subdir: "Roaming\\WB Games\\LEGO\xAE Harry Potter\u2122\\SavedGames"
+contributors:
+- GameSaveManager

@@ -1,0 +1,8 @@
+name: Wasteland Angel
+id: WastelandAngel
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Octane Games\WastelandAngel
+contributors:
+- GameSaveManager

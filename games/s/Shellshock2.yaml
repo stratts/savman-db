@@ -1,0 +1,8 @@
+id: Shellshock2
+name: Shellshock 2
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Eidos\Shellshock2
+contributors:
+- GameSave.Info

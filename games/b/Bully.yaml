@@ -1,0 +1,8 @@
+id: Bully
+name: Bully
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Bully Scholarship Edition
+contributors:
+- Arc Angel

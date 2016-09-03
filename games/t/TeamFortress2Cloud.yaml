@@ -1,0 +1,8 @@
+id: TeamFortress2Cloud
+name: Team Fortress 2 (Cloud)
+locations:
+-   type: profile
+    profile_dir: '440'
+    profile_items:
+    - remote
+    - remotecache.vdf

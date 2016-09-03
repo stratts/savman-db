@@ -1,0 +1,8 @@
+name: Torchlight II
+id: Torchlight2
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Runic Games\Torchlight 2
+contributors:
+- GameSaveManager

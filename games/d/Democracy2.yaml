@@ -1,0 +1,8 @@
+name: Democracy 2
+id: Democracy2
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: democracy2
+contributors:
+- GameSaveManager

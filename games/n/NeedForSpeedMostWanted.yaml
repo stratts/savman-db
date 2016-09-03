@@ -1,0 +1,12 @@
+name: 'Need for Speed: Most Wanted'
+id: NeedForSpeedMostWanted
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: NFS Most Wanted
+-   type: variable
+    variable: userdoc
+    subdir: Criterion Games\Need For Speed(TM) Most Wanted
+contributors:
+- GameSaveManager
+- GameSaveManager

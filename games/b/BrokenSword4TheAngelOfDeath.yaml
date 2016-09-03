@@ -1,0 +1,8 @@
+id: BrokenSword4TheAngelOfDeath
+name: 'Broken Sword: The Angel of Death'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Broken Sword - The Angel of Death
+contributors:
+- GameSave.Info

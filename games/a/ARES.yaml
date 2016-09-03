@@ -1,0 +1,8 @@
+id: ARES
+name: A.R.E.S
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: ARES
+contributors:
+- Arc Angel

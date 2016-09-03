@@ -1,0 +1,9 @@
+name: Impire
+id: Impire
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Impire\Save
+contributors:
+- GameSaveManager
+- GameSaveManager

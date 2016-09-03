@@ -1,0 +1,8 @@
+name: The Godfather II
+id: Godfather2
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: "EA Games\\The Godfather\u2122 II"
+contributors:
+- GameSaveManager

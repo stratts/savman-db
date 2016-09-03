@@ -1,0 +1,8 @@
+name: The Sea Will Claim Everything
+id: SeaWillClaimEverything
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\The Sea Will Claim Everything
+contributors:
+- GameSaveManager

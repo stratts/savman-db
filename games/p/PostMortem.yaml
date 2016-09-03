@@ -1,0 +1,8 @@
+id: PostMortem
+name: Post Mortem
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Post_Mortem Saves
+contributors:
+- GameSave.Info

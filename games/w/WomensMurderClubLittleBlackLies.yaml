@@ -1,0 +1,8 @@
+name: 'Women''s Murder Club: Little Black Lies'
+id: WomensMurderClubLittleBlackLies
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Flood Light Games\WMC4
+contributors:
+- GameSaveManager

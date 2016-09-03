@@ -1,0 +1,8 @@
+name: 'Stoked: Big Air Edition'
+id: StokedBigAirEdition
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\StokedBigAir
+contributors:
+- GameSaveManager

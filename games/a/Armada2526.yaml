@@ -1,0 +1,15 @@
+name: Armada 2526
+id: Armada2526
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Armada 2526
+-   type: variable
+    variable: userdoc
+    subdir: Saved Games\Armada 2526
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Armada 2526 Gold
+contributors:
+- GameSave.Info
+- GameSaveManager

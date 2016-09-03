@@ -1,0 +1,11 @@
+name: Viva Pinata
+id: VivaPinata
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Microsoft Games\Viva Pinata
+-   type: variable
+    variable: appdata
+    subdir: Local\Saved Games\Microsoft Games\Viva Pinata
+contributors:
+- GameSaveManager

@@ -1,0 +1,8 @@
+id: GuiltyGearX2
+name: Guilty Gear X2
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\ZOO Digital Publishing\GuiltyGearX2
+contributors:
+- GameSave.Info

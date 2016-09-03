@@ -1,0 +1,8 @@
+id: ScorpionDisfigured
+name: 'Scorpion: Disfigured'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Atari\Scorpion-Disfigured
+contributors:
+- Arc Angel

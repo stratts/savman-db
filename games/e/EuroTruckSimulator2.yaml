@@ -1,0 +1,8 @@
+id: EuroTruckSimulator2
+name: Euro Truck Simulator 2
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Euro Truck Simulator 2
+contributors:
+- AdmiringWorm

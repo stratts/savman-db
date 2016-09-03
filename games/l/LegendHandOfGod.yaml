@@ -1,0 +1,8 @@
+name: 'Legend: Hand of God'
+id: LegendHandOfGod
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Legend - Hand of God
+contributors:
+- GameSaveManager

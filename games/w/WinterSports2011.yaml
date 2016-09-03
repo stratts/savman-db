@@ -1,0 +1,8 @@
+name: Winter Sports 2011
+id: WinterSports2011
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Winter Sports 2011
+contributors:
+- GameSaveManager

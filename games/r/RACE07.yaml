@@ -1,0 +1,8 @@
+id: RACE07
+name: RACE 07
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: SimBin\RACE 07
+contributors:
+- AdmiringWorm

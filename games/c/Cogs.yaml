@@ -1,0 +1,9 @@
+name: Cogs
+id: Cogs
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Lazy 8 Studios\Cogs
+contributors:
+- GameSaveManager
+- GameSave.Info

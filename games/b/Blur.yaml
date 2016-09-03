@@ -1,0 +1,8 @@
+id: Blur
+name: Blur
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\bizarre creations\blur
+contributors:
+- GameSave.Info

@@ -1,0 +1,9 @@
+name: DeathSpank
+id: DeathSpank
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Hothead Games\DeathSpank
+contributors:
+- GameSaveManager
+- GameSaveManager

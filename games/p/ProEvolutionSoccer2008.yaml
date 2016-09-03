@@ -1,0 +1,8 @@
+name: Pro Evolution Soccer 2008
+id: ProEvolutionSoccer2008
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: KONAMI\Pro Evolution Soccer 2008
+contributors:
+- GameSaveManager

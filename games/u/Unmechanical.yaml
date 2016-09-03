@@ -1,0 +1,8 @@
+id: Unmechanical
+name: Unmechanical
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Unmechanical
+contributors:
+- GameSave.Info

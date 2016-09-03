@@ -1,0 +1,8 @@
+name: 'James Bond: Quantom of Solace'
+id: JamesBondQuantomOfSolace
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Activision\Quantom of Solace
+contributors:
+- GameSaveManager

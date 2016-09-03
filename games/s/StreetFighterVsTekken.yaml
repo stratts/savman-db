@@ -1,0 +1,8 @@
+name: Street Fighter vs. Tekken
+id: StreetFighterVsTekken
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: CAPCOM\SFTK
+contributors:
+- GameSaveManager

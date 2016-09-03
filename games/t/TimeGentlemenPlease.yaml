@@ -1,0 +1,11 @@
+id: TimeGentlemenPlease
+name: Time Gentlemen, Please!
+locations:
+-   type: variable
+    variable: userprofile
+    subdir: Saved Games\Time Gentlemen, Please
+-   type: variable
+    variable: userdoc
+    subdir: My Saved Games\Time Gentlemen, Please
+contributors:
+- GameSave.Info

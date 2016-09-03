@@ -1,0 +1,8 @@
+name: Mata Hari
+id: MataHari
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: MataHari
+contributors:
+- GameSaveManager

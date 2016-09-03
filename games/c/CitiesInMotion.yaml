@@ -1,0 +1,8 @@
+id: CitiesInMotion
+name: Cities in Motion
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Cities In Motion
+contributors:
+- AdmiringWorm

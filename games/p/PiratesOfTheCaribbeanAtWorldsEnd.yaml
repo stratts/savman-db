@@ -1,0 +1,9 @@
+name: 'Pirates of the Caribbean: At World''s End'
+id: PiratesOfTheCaribbeanAtWorldsEnd
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Disney Interactive Studios\Pirates of the Caribbean - At Worlds
+        End
+contributors:
+- GameSaveManager

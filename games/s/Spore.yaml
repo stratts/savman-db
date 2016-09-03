@@ -1,0 +1,8 @@
+id: Spore
+name: Spore
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Spore
+contributors:
+- duncans_pumpkin

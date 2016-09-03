@@ -1,0 +1,8 @@
+name: 'Dungeon Siege 2: Broken World'
+id: DungeonSiege2BrokenWorld
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Dungeon Siege 2 Broken World
+contributors:
+- GameSaveManager

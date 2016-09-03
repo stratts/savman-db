@@ -1,0 +1,8 @@
+name: Hoyle Card Games
+id: HoyleCardGames
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Hoyle Card Games
+contributors:
+- GameSaveManager

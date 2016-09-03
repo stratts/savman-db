@@ -1,0 +1,8 @@
+name: The Tales of Bingwood
+id: TalesOfBingwood
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: BugFactory\The Tales of Bingwood
+contributors:
+- GameSaveManager

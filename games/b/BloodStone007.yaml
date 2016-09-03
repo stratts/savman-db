@@ -1,0 +1,8 @@
+id: BloodStone007
+name: Blood Stone 007
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\bizarre creations\blood stone
+contributors:
+- Arc Angel

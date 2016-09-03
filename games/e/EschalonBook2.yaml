@@ -1,0 +1,8 @@
+id: EschalonBook2
+name: 'Eschalon: Book II'
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Basilisk Games\Book 2 Saved Games
+contributors:
+- Arc Angel

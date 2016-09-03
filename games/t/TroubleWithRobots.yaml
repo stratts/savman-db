@@ -1,0 +1,8 @@
+name: The Trouble With Robots
+id: TroubleWithRobots
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: The Trouble With Robots
+contributors:
+- GameSaveManager

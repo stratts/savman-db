@@ -1,0 +1,8 @@
+id: GeneForge1
+name: Geneforge
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Spiderweb Software\Geneforge Saved Games
+contributors:
+- Arc Angel

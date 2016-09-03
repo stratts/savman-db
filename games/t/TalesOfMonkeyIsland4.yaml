@@ -1,0 +1,12 @@
+id: TalesOfMonkeyIsland4
+name: 'Tales of Monkey Island Chapter 4: The Trial and Execution of Guybrush Threepwood'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Telltale Games\tales of monkey island - chapter 4
+-   type: variable
+    variable: userdoc
+    subdir: Telltale Games\The Trial and Execution of Guybrush Threepwood
+contributors:
+- AdmiringWorm
+- GameSave.Info

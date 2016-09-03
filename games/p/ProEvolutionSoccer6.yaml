@@ -1,0 +1,8 @@
+name: Pro Evolution Soccer 6
+id: ProEvolutionSoccer6
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: KONAMI\Pro Evolution Soccer 6
+contributors:
+- GameSaveManager

@@ -1,0 +1,11 @@
+id: Halo
+name: 'Halo: Combat Evolved'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Halo
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Halo CE
+contributors:
+- GameSave.Info

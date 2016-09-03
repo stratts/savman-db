@@ -1,0 +1,8 @@
+id: RainbowSixVegas
+name: 'Tom Clancy''s Rainbow Six: Vegas'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Ubisoft\R6Vegas
+contributors:
+- Arc Angel

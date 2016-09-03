@@ -1,0 +1,8 @@
+name: Harry Potter and the Prisoner of Azkaban
+id: HarryPotterAndThePrisonerOfAzkaban
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Harry Potter and the Prisoner of Azkaban
+contributors:
+- GameSaveManager

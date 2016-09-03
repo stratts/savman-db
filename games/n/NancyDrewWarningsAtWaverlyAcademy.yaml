@@ -1,0 +1,8 @@
+name: 'Nancy Drew: Warnings at Waverly Academy'
+id: NancyDrewWarningsAtWaverlyAcademy
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Warnings at Waverly Academy
+contributors:
+- GameSaveManager

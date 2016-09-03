@@ -1,0 +1,8 @@
+name: Shaun White Snowboarding
+id: ShaunWhiteSnowboarding
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\Ubisoft\SWSnow
+contributors:
+- GameSaveManager

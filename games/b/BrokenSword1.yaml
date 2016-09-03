@@ -1,0 +1,9 @@
+id: BrokenSword1
+name: 'Broken Sword: The Shadow of the Templars'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Broken Sword - Director's Cut
+contributors:
+- GameSave.Info
+- GameSave.Info

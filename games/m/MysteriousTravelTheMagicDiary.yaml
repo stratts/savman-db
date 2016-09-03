@@ -1,0 +1,8 @@
+name: 'Mysterious Travel: The Magic Diary'
+id: MysteriousTravelTheMagicDiary
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\ERS G-Studio\Mysterious Travel
+contributors:
+- GameSaveManager

@@ -1,0 +1,8 @@
+id: PoliceForce
+name: Police Force - The realistic simulation of the German police
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\Quadriga Games\Police Force
+contributors:
+- AdmiringWorm

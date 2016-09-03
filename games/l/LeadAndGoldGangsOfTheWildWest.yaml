@@ -1,0 +1,8 @@
+name: 'Lead and Gold: Gangs of the Wild West'
+id: LeadAndGoldGangsOfTheWildWest
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\LAG
+contributors:
+- GameSaveManager

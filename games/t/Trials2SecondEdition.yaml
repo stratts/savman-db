@@ -1,0 +1,9 @@
+id: Trials2SecondEdition
+name: 'Trials 2: Second Edition'
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\Redlynx\Trials 2 SE
+contributors:
+- AdmiringWorm
+- Arc Angel

@@ -1,0 +1,9 @@
+name: 'Aliens: Colonial Marines'
+id: AliensColonialMarines
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Aliens Colonial Marines
+contributors:
+- Arc Angel
+- GameSaveManager

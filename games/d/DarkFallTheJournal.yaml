@@ -1,0 +1,8 @@
+id: DarkFallTheJournal
+name: 'Dark Fall: The Journal'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Dark Fall
+contributors:
+- GameSave.Info

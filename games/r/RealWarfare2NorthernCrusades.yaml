@@ -1,0 +1,8 @@
+name: 'Real Warfare 2: Northern Crusades'
+id: RealWarfare2NorthernCrusades
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Real Warfare 2 - Teutonic order
+contributors:
+- GameSaveManager

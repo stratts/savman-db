@@ -1,0 +1,8 @@
+name: Animal Color Cross
+id: AnimalColorCross
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Little Worlds Online\AnimalColorCross
+contributors:
+- GameSaveManager

@@ -1,0 +1,10 @@
+id: EvilGenius
+name: Evil Genius
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Evil Genius
+contributors:
+- duncans_pumpkin
+- GameSave.Info
+- slake_jones

@@ -1,0 +1,9 @@
+name: 'Metro: Last Light'
+id: MetroLastLight
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: 4A Games\Metro LL
+contributors:
+- GameSaveManager
+- Arc Angel

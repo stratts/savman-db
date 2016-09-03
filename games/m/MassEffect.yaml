@@ -1,0 +1,6 @@
+id: MassEffect
+name: Mass Effect
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: BioWare/Mass Effect

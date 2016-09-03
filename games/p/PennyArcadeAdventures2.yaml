@@ -1,0 +1,8 @@
+id: PennyArcadeAdventures2
+name: 'Penny Arcade Adventures: On the Rain-Slick Precipice of Darkness, Episode Two'
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\HotheadGames\RainSlickEp2
+contributors:
+- GameSave.Info

@@ -1,0 +1,8 @@
+name: 'Ghostbusters: Sanctum of Slime'
+id: GhostbustersSanctumOfSlime
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Atari\GhostbustersSOS
+contributors:
+- GameSaveManager

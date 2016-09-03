@@ -1,0 +1,8 @@
+name: Confrontation
+id: Confrontation
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Confrontation
+contributors:
+- GameSaveManager

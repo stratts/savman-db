@@ -1,0 +1,8 @@
+id: Wolfenstein
+name: Wolfenstein
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\id software\WolfSP
+contributors:
+- Arc Angel

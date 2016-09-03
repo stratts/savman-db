@@ -1,0 +1,8 @@
+name: 'Chivalry: Medieval Warfare'
+id: ChivalryMedievalWarfare
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Chivalry Medieval Warfare
+contributors:
+- GameSaveManager

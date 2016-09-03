@@ -1,0 +1,8 @@
+name: Battlefield 2142
+id: Battlefield2142
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Battlefield 2142
+contributors:
+- GameSaveManager

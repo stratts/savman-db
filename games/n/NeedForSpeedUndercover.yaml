@@ -1,0 +1,8 @@
+id: NeedForSpeedUndercover
+name: 'Need For Speed: Undercover'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: NFS Undercover
+contributors:
+- Arc Angel

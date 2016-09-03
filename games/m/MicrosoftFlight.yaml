@@ -1,0 +1,8 @@
+name: Microsoft Flight
+id: MicrosoftFlight
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\Microsoft\Flight
+contributors:
+- GameSaveManager

@@ -1,0 +1,8 @@
+name: Jekyll & Hyde
+id: JekyllHyde
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: J&H
+contributors:
+- GameSaveManager

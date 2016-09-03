@@ -1,0 +1,8 @@
+name: Major League Baseball 2011
+id: MajorLeagueBaseball2011
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\2K Sports\Major League Baseball 2K11
+contributors:
+- GameSaveManager

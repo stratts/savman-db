@@ -1,0 +1,8 @@
+id: RogueWarrior
+name: Rogue Warrior
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Bethesda\Rogue Warrior
+contributors:
+- Arc Angel

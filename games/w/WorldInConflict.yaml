@@ -1,0 +1,8 @@
+name: World in Conflict
+id: WorldInConflict
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: World in Conflict
+contributors:
+- GameSaveManager

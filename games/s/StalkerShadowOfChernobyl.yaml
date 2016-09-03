@@ -1,0 +1,11 @@
+id: StalkerShadowOfChernobyl
+name: 'STALKER: Shadow of Chernobyl'
+locations:
+-   type: profile
+    profile_items:
+    - XR_3DA.exe
+    - xrcore.dll
+    subdir: ..
+    include:
+    - _appdata_/*.*
+    - mods/*.*

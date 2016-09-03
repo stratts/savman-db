@@ -1,0 +1,8 @@
+name: Creatures 3
+id: Creatures3
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Creatures\Creatures 3
+contributors:
+- GameSaveManager

@@ -1,0 +1,8 @@
+name: Many Years Ago
+id: ManyYearsAgo
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\ERS G-Studio\Many Years Ago
+contributors:
+- GameSaveManager

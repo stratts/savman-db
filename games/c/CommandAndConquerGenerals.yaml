@@ -1,0 +1,8 @@
+id: CommandAndConquerGenerals
+name: 'Command & Conquer: Generals'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Command and Conquer Generals Data
+contributors:
+- GameSave.Info

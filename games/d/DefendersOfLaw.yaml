@@ -1,0 +1,8 @@
+name: Defenders of Law
+id: DefendersOfLaw
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: GameInvest\Defenders of Law
+contributors:
+- GameSaveManager

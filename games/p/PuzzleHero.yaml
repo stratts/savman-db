@@ -1,0 +1,8 @@
+name: Puzzle Hero
+id: PuzzleHero
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Reflexive\Puzzle Hero
+contributors:
+- GameSaveManager

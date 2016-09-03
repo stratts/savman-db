@@ -1,0 +1,13 @@
+name: Zombie Driver
+id: ZombieDriver
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\ZombieDriver
+-   type: variable
+    variable: userdoc
+    subdir: ZombieDriverHD
+contributors:
+- GameSaveManager
+- Arc Angel
+- GameSaveManager

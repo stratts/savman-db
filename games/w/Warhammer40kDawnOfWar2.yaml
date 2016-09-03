@@ -1,0 +1,8 @@
+id: Warhammer40kDawnOfWar2
+name: 'Warhammer 40,000: Dawn of War II'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Dawn of War 2
+contributors:
+- AvvA

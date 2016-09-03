@@ -1,0 +1,8 @@
+name: 'Giana Sisters: Twisted Dreams'
+id: GianaSistersTwistedDreams
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: giana sisters - twisted dreams
+contributors:
+- GameSaveManager

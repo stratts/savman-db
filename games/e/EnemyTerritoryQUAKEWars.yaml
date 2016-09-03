@@ -1,0 +1,8 @@
+name: 'Enemy Territory: QUAKE Wars'
+id: EnemyTerritoryQUAKEWars
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: id Software\Enemy Territory - QUAKE Wars
+contributors:
+- GameSaveManager

@@ -1,0 +1,8 @@
+name: Winter Sports 2012
+id: WinterSports2012
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: WinterSports2012Saves
+contributors:
+- GameSaveManager

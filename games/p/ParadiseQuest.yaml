@@ -1,0 +1,8 @@
+name: Paradise Quest
+id: ParadiseQuest
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\Oberon Games\Paradise Quest
+contributors:
+- GameSaveManager

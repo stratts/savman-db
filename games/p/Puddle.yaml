@@ -1,0 +1,8 @@
+name: Puddle
+id: Puddle
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Puddle
+contributors:
+- GameSaveManager

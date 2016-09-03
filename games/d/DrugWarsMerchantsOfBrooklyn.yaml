@@ -1,0 +1,8 @@
+id: DrugWarsMerchantsOfBrooklyn
+name: 'Drug Wars: Merchants of Brooklyn'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\MOB
+contributors:
+- Arc Angel

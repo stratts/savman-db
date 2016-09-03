@@ -1,0 +1,8 @@
+name: 'Azada: Ancient Magic'
+id: AzadaAncientMagic
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Big Fish Games\Azada Ancient Magic
+contributors:
+- GameSaveManager

@@ -1,0 +1,8 @@
+name: Marvins' Mittens
+id: MarvinsMittens
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: SavedGames\MarvinsMittens
+contributors:
+- GameSaveManager

@@ -1,0 +1,8 @@
+name: Stacked with Daniel Negreanu
+id: StackedWithDanielNegreanu
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: StackedPoker
+contributors:
+- GameSaveManager

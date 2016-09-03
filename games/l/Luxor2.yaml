@@ -1,0 +1,8 @@
+name: Luxor 2
+id: Luxor2
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: MumboJumbo\luxor2
+contributors:
+- GameSaveManager

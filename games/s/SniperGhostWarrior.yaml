@@ -1,0 +1,9 @@
+id: SniperGhostWarrior
+name: 'Sniper: Ghost Warrior'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Sniper - Ghost Warrior
+contributors:
+- AdmiringWorm
+- Arc Angel

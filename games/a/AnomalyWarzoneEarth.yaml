@@ -1,0 +1,9 @@
+name: 'Anomaly: Warzone Earth'
+id: AnomalyWarzoneEarth
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Anomaly Warzone Earth
+contributors:
+- Arc Angel
+- GameSaveManager

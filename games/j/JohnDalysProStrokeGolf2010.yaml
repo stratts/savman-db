@@ -1,0 +1,8 @@
+name: John Daly's Pro Stroke Golf 2010
+id: JohnDalysProStrokeGolf2010
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\John Daly's Pro Stroke Golf 2010
+contributors:
+- GameSaveManager

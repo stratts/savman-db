@@ -1,0 +1,8 @@
+id: ShootManyRobots
+name: Shoot Many Robots
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\Demiurge Studios\Shoot Many Robots
+contributors:
+- GameSave.Info

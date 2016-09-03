@@ -1,0 +1,8 @@
+id: LostPlanet2
+name: Lost Planet 2
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: CAPCOM\LOST PLANET 2
+contributors:
+- Arc Angel

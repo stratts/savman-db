@@ -1,0 +1,8 @@
+name: 'Luxor: Fifth Passage'
+id: LuxorFifthPassage
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\MumboJumbo\Luxor - Fifth Passage
+contributors:
+- GameSaveManager

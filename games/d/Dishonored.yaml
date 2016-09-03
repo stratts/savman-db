@@ -1,0 +1,9 @@
+id: Dishonored
+name: Dishonored
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Dishonored
+contributors:
+- Arc Angel
+- Arc Angel

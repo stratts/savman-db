@@ -1,0 +1,8 @@
+name: 'Supreme Ruler: Cold War'
+id: SupremeRulerColdWar
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Supreme Ruler Cold War
+contributors:
+- GameSaveManager

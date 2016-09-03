@@ -1,0 +1,8 @@
+name: Kitten Sanctuary
+id: KittenSanctuary
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Pi Eye Games\KittenSanctuary
+contributors:
+- GameSaveManager

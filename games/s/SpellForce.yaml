@@ -1,0 +1,8 @@
+id: SpellForce
+name: 'SpellForce: The Order of the Dawn'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: SpellForce
+contributors:
+- Arc Angel

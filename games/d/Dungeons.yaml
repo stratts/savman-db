@@ -1,0 +1,8 @@
+name: Dungeons
+id: Dungeons
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Kalypso Media\Dungeons
+contributors:
+- GameSaveManager

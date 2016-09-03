@@ -1,0 +1,8 @@
+name: 'Defender''s Quest: Valley of the Forgotten'
+id: DefendersQuestValleyOfTheForgotten
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\DefendersQuest
+contributors:
+- GameSaveManager

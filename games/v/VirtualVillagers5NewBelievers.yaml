@@ -1,0 +1,8 @@
+name: 'Virtual Villagers 5: New Believers'
+id: VirtualVillagers5NewBelievers
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: LDW\Virtual Villagers - New Believers
+contributors:
+- GameSaveManager

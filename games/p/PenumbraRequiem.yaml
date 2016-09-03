@@ -1,0 +1,8 @@
+id: PenumbraRequiem
+name: 'Penumbra: Requiem'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Penumbra\Requiem
+contributors:
+- GameSave.Info

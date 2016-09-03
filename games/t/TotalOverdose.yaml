@@ -1,0 +1,8 @@
+name: Total Overdose
+id: TotalOverdose
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Total Overdose
+contributors:
+- GameSaveManager

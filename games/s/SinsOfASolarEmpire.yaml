@@ -1,0 +1,8 @@
+id: SinsOfASolarEmpire
+name: Sins of a Solar Empire
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\Ironclad Games\Sins of a Solar Empire
+contributors:
+- GameSave.Info

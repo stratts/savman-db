@@ -1,0 +1,8 @@
+name: APOX
+id: APOX
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: APOX\Save
+contributors:
+- GameSaveManager

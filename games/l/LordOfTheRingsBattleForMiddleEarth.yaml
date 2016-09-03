@@ -1,0 +1,8 @@
+name: 'The Lord of the Rings: Battle for Middle Earth'
+id: LordOfTheRingsBattleForMiddleEarth
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\My Battle for Middle-earth Files
+contributors:
+- GameSaveManager

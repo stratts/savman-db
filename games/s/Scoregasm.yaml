@@ -1,0 +1,8 @@
+name: Scoregasm
+id: Scoregasm
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Scoregasm
+contributors:
+- GameSaveManager

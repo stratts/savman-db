@@ -1,0 +1,8 @@
+id: BattlefieldBadCompany2
+name: 'Battlefield: Bad Company 2'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: BFBC2
+contributors:
+- Arc Angel

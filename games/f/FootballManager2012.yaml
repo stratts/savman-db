@@ -1,0 +1,8 @@
+name: Football Manager 2012
+id: FootballManager2012
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Sports Interactive\Football Manager 2012
+contributors:
+- GameSaveManager

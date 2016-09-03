@@ -1,0 +1,8 @@
+id: EmpireEarth2TheArtOfSupremacy
+name: 'Empire Earth II: The Art of Supremacy'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Empire Earth II The Art of Supremacy
+contributors:
+- GameSave.Info

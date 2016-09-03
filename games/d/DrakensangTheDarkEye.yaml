@@ -1,0 +1,8 @@
+name: 'Drakensang: The Dark Eye'
+id: DrakensangTheDarkEye
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Drakensang
+contributors:
+- GameSaveManager

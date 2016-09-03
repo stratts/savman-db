@@ -1,0 +1,9 @@
+id: Braid
+name: Braid
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Braid
+contributors:
+- GameSave.Info
+- GameSave.Info

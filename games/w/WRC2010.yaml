@@ -1,0 +1,8 @@
+name: WRC 2010
+id: WRC2010
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\BlackBean\WRC
+contributors:
+- GameSaveManager

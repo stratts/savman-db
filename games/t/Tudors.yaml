@@ -1,0 +1,8 @@
+name: The Tudors
+id: Tudors
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Merscom\The Tudors
+contributors:
+- GameSaveManager

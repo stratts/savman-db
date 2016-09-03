@@ -1,0 +1,8 @@
+name: Asterix at the Olympic Games
+id: AsterixAtTheOlympicGames
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Atari\Asterix at the Olympic Games
+contributors:
+- GameSaveManager

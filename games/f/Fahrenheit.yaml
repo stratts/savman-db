@@ -1,0 +1,11 @@
+id: Fahrenheit
+name: Fahrenheit
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: atari\Fahrenheit
+-   type: variable
+    variable: userdoc
+    subdir: atari\Fahrenheit Profile
+contributors:
+- slake_jones

@@ -1,0 +1,8 @@
+name: Prison Architect
+id: PrisonArchitect
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\Introversion\Prison Architect
+contributors:
+- GameSaveManager

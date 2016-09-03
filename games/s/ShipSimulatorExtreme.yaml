@@ -1,0 +1,8 @@
+name: Ship Simulator Extreme
+id: ShipSimulatorExtreme
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: ShipSimExtremes Userdata
+contributors:
+- GameSaveManager

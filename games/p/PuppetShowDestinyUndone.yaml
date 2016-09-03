@@ -1,0 +1,8 @@
+name: 'PuppetShow: Destiny Undone'
+id: PuppetShowDestinyUndone
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\ERS Game Studios\PuppetShow - Destiny Undone
+contributors:
+- GameSaveManager

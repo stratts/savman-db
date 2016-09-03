@@ -1,0 +1,8 @@
+id: TerminatorSalvation
+name: 'Terminator: Salvation'
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\salvation
+contributors:
+- Arc Angel

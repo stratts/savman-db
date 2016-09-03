@@ -1,0 +1,9 @@
+name: 'Virtual Villagers 2: The Lost Children'
+id: VirtualVillagers2TheLostChildren
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: LDW\Virtual Villagers - The Lost Children
+contributors:
+- AdmiringWorm
+- GameSaveManager

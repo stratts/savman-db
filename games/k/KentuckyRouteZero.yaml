@@ -1,0 +1,8 @@
+name: Kentucky Route Zero
+id: KentuckyRouteZero
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: KentuckyRouteZero
+contributors:
+- GameSaveManager

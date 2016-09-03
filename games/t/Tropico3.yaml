@@ -1,0 +1,8 @@
+id: Tropico3
+name: Tropico 3
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Tropico 3
+contributors:
+- slake_jones

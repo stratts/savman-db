@@ -1,0 +1,8 @@
+name: 'Leisure Suit Larry: Box Office Bust'
+id: LeisureSuitLarryBoxOfficeBust
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\LeisureSuitLarry
+contributors:
+- GameSaveManager

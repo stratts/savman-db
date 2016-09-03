@@ -1,0 +1,8 @@
+name: 'Transformers: The Game'
+id: TransformersTheGame
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Activision\Transformers
+contributors:
+- GameSaveManager

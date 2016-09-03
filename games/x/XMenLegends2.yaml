@@ -1,0 +1,9 @@
+name: 'X-Men Legends II: Rise of Apocalypse'
+id: XMenLegends2
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Activision\X-Men Legends 2
+contributors:
+- GameSave.Info
+- GameSaveManager

@@ -1,0 +1,8 @@
+name: Pro Evolution Soccer 2012
+id: ProEvolutionSoccer2012
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: KONAMI\Pro Evolution Soccer 2012
+contributors:
+- GameSaveManager

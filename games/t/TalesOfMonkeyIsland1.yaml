@@ -1,0 +1,12 @@
+id: TalesOfMonkeyIsland1
+name: 'Tales of Monkey Island Chapter 1: Launch of the Screaming Narwhal'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Telltale Games\Launch of the Screaming Narwhal
+-   type: variable
+    variable: userdoc
+    subdir: Telltale Games\tales of monkey island - chapter 1
+contributors:
+- AdmiringWorm
+- GameSave.Info

@@ -1,0 +1,8 @@
+name: 'PuppetShow: Lost Town'
+id: PuppetShowLostTown
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\ERS Game Studios\Puppet Show Lost Town
+contributors:
+- GameSaveManager

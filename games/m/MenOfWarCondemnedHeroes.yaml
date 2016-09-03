@@ -1,0 +1,8 @@
+name: 'Men of War: Condemned Heroes'
+id: MenOfWarCondemnedHeroes
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\mow condemned heroes\profiles
+contributors:
+- GameSaveManager

@@ -1,0 +1,8 @@
+id: AtomZombieSmasher
+name: Atom Zombie Smasher
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\AtomZombieData
+contributors:
+- Arc Angel

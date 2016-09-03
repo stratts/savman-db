@@ -1,0 +1,8 @@
+id: LongestJourney
+name: The Longest Journey
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\The Longest Journey
+contributors:
+- GameSave.Info

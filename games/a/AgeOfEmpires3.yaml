@@ -1,0 +1,8 @@
+id: AgeOfEmpires3
+name: Age of Empires III
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Age of Empires 3
+contributors:
+- SamuelTaylor

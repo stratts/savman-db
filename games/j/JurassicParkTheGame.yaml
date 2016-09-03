@@ -1,0 +1,11 @@
+id: JurassicParkTheGame
+name: 'Jurassic Park: The Game'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Telltale Games\Jurassic Park The Game
+-   type: variable
+    variable: userdoc
+    subdir: Telltale Games\jurassicpark
+contributors:
+- Arc Angel

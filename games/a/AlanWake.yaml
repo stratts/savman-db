@@ -1,0 +1,12 @@
+id: AlanWake
+name: Alan Wake
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Remedy\AlanWake
+-   type: variable
+    variable: userdoc
+    subdir: Remedy\AlanWake_GOG_Version
+contributors:
+- Arc Angel
+- GameSave.Info

@@ -1,0 +1,8 @@
+name: 'Autumn''s Treasures: The Jade Coin'
+id: AutumnsTreasuresTheJadeCoin
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\PoBros\Autumns Treasures
+contributors:
+- GameSaveManager

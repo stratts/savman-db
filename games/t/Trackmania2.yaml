@@ -1,0 +1,8 @@
+id: Trackmania2
+name: Trackmania 2 Canyon
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: ManiPlanet
+contributors:
+- AdmiringWorm

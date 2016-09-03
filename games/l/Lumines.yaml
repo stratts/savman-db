@@ -1,0 +1,9 @@
+id: Lumines
+name: Lumines
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Valve\Lumines
+contributors:
+- duncans_pumpkin
+- GameSave.Info

@@ -1,0 +1,8 @@
+name: Angry Birds Rio
+id: AngryBirdsRio
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Rovio\Angry Birds Rio
+contributors:
+- GameSaveManager

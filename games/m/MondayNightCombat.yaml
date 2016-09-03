@@ -1,0 +1,9 @@
+name: Monday Night Combat
+id: MondayNightCombat
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\UnrealEngine3\HostileGame
+contributors:
+- GameSaveManager
+- GameSaveManager

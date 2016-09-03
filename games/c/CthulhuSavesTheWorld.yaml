@@ -1,0 +1,8 @@
+id: CthulhuSavesTheWorld
+name: Cthulhu Saves The World
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: SavedGames\CSTW\Cthulhu Saves the World
+contributors:
+- Arc Angel

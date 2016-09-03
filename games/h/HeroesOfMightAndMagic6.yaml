@@ -1,0 +1,12 @@
+name: Heroes of Might and Magic VI
+id: HeroesOfMightAndMagic6
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Might & Magic Heroes VI
+-   type: variable
+    variable: userdoc
+    subdir: might and magic heroes 6
+contributors:
+- GameSaveManager
+- GameSave.Info

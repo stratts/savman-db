@@ -1,0 +1,8 @@
+id: GUN
+name: GUN
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Activision\Gun
+contributors:
+- Arc Angel

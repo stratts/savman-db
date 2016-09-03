@@ -1,0 +1,8 @@
+name: 'Nancy Drew: The Deadly Device'
+id: NancyDrewTheDeadlyDevice
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: The Deadly Device
+contributors:
+- GameSaveManager

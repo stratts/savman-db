@@ -1,0 +1,9 @@
+id: FinalFantasy8
+name: Final Fantasy VIII
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Square Enix\FINAL FANTASY VIII Steam
+contributors:
+- GameSave.Info
+- GameSave.Info

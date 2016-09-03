@@ -1,0 +1,8 @@
+name: 'Cassandra''s Journey 2: The Fifth Sun of Nostradamus'
+id: CassandrasJourney2TheFifthSunOfNostradamus
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\JoyBits\The Fifth Sun of Nostradamus
+contributors:
+- GameSaveManager

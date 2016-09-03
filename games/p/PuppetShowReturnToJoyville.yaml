@@ -1,0 +1,8 @@
+name: 'PuppetShow: Return to Joyville'
+id: PuppetShowReturnToJoyville
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\ERS Game Studios\PuppetShow - Return to Joyville
+contributors:
+- GameSaveManager

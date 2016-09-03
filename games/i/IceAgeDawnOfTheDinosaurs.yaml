@@ -1,0 +1,8 @@
+name: 'Ice Age: Dawn Of The Dinosaurs'
+id: IceAgeDawnOfTheDinosaurs
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Activision\IceAge3
+contributors:
+- GameSaveManager

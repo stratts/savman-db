@@ -1,0 +1,8 @@
+name: 'FTL: Faster Than Light'
+id: FTLFasterThanLight
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\FasterThanLight
+contributors:
+- GameSaveManager

@@ -1,0 +1,8 @@
+name: Patrician 4
+id: Patrician4
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Kalypso Media\Patrician 4
+contributors:
+- GameSaveManager

@@ -1,0 +1,8 @@
+name: PegIt
+id: PegIt
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\PegIt
+contributors:
+- GameSaveManager

@@ -1,0 +1,12 @@
+id: BlackwellLegacy
+name: The Blackwell Legacy
+locations:
+-   type: variable
+    variable: userprofile
+    subdir: Saved Games\Blackwell Legacy v1.7
+-   type: variable
+    variable: userdoc
+    subdir: My Saved Games\Blackwell Legacy v1.7
+contributors:
+- Arc Angel
+- GameSave.Info

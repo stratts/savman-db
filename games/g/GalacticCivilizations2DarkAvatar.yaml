@@ -1,0 +1,8 @@
+id: GalacticCivilizations2DarkAvatar
+name: 'Galactic Civilizations II: Dark Avatar'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\GC2DarkAvatar
+contributors:
+- Mark Barbour

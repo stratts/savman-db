@@ -1,0 +1,8 @@
+id: Battlefield4
+name: Battlefield 4
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Battlefield 4
+contributors:
+- Arc Angel

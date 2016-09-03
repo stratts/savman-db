@@ -1,0 +1,9 @@
+name: 'Spec Ops: The Line'
+id: SpecOpsTheLine
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\SpecOps-TheLine
+contributors:
+- GameSaveManager
+- GameSaveManager

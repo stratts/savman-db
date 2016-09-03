@@ -1,0 +1,8 @@
+name: The Tiny Bang Story
+id: TinyBangStory
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Colibri Games\The Tiny Bang Story
+contributors:
+- GameSaveManager

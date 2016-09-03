@@ -1,0 +1,8 @@
+name: Children of the Nile
+id: ChildrenOfTheNile
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Tilted Mill\Children of the Nile
+contributors:
+- GameSaveManager

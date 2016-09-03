@@ -1,0 +1,11 @@
+id: Deadlight
+name: Deadlight
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Deadlight
+-   type: variable
+    variable: userdoc
+    subdir: My Games\UnrealEngine3\LOTDGame
+contributors:
+- Arc Angel

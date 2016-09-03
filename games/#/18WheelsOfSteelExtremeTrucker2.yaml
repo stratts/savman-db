@@ -1,0 +1,8 @@
+name: '18 Wheels of Steel: Extreme Trucker 2'
+id: 18WheelsOfSteelExtremeTrucker2
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: 18 WoS Extreme Trucker 2
+contributors:
+- GameSaveManager

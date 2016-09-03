@@ -1,0 +1,9 @@
+name: Zen Bound 2
+id: ZenBound2
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\ZenBound2
+contributors:
+- GameSave.Info
+- GameSaveManager

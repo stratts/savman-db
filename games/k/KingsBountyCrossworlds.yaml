@@ -1,0 +1,8 @@
+name: 'King''s Bounty: Crossworlds'
+id: KingsBountyCrossworlds
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Kings Bounty Crossworlds
+contributors:
+- GameSaveManager

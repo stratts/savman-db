@@ -1,0 +1,8 @@
+name: OpenTTD
+id: OpenTTD
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: OpenTTD
+contributors:
+- GameSaveManager

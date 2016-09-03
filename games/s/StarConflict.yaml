@@ -1,0 +1,8 @@
+name: Star Conflict
+id: StarConflict
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\StarConflict
+contributors:
+- GameSaveManager

@@ -1,0 +1,11 @@
+name: 'Spider-Man: Shattered Dimensions'
+id: SpiderManShatteredDimensions
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\Activision\Spider-Man (TM) SD
+-   type: variable
+    variable: userdoc
+    subdir: Activision\Spider-Man (TM) SD
+contributors:
+- GameSaveManager

@@ -1,0 +1,8 @@
+id: BattleForMiddleEarth2
+name: The Battle For Middle Earth II
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\My Battle for Middle-earth(tm) II Files
+contributors:
+- GameSave.Info

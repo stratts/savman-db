@@ -1,0 +1,8 @@
+name: BBC Battlefield Academy
+id: BBCBattlefieldAcademy
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\BBCBA
+contributors:
+- GameSaveManager

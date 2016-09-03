@@ -1,0 +1,8 @@
+id: Civilization4Colonization
+name: 'Sid Meier''s Civilization IV: Colonization'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Sid Meier's Civilization IV Colonization
+contributors:
+- GameSave.Info

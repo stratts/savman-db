@@ -1,0 +1,8 @@
+id: Dreamkiller
+name: Dreamkiller
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Aspyr\Dreamkiller
+contributors:
+- Arc Angel

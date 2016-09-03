@@ -1,0 +1,8 @@
+name: FiNCK
+id: FiNCK
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Nifflas\FiNCK
+contributors:
+- GameSaveManager

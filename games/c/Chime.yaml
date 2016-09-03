@@ -1,0 +1,8 @@
+id: Chime
+name: Chime
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Chime
+contributors:
+- AvvA

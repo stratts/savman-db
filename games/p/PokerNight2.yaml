@@ -1,0 +1,8 @@
+name: Poker Night 2
+id: PokerNight2
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Telltale Games\Poker Night 2
+contributors:
+- GameSaveManager

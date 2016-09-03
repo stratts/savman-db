@@ -1,0 +1,8 @@
+name: Born Into Darkness
+id: BornIntoDarkness
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\PoBros\Born Into Darkness
+contributors:
+- GameSaveManager

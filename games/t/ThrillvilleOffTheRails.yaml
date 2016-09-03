@@ -1,0 +1,8 @@
+id: ThrillvilleOffTheRails
+name: 'Thrillville: Off The Rails'
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\LucasArts\Thrillville 07
+contributors:
+- AdmiringWorm

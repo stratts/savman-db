@@ -1,0 +1,9 @@
+name: Metro 2033
+id: Metro2033
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: 4A Games\Metro 2033
+contributors:
+- GameSaveManager
+- "H\xE5vard Kr\xFCger"

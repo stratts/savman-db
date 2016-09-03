@@ -1,0 +1,8 @@
+name: Puzzle Bots
+id: PuzzleBots
+locations:
+-   type: variable
+    variable: userprofile
+    subdir: Saved Games\Puzzle Bots
+contributors:
+- GameSaveManager

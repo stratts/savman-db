@@ -1,0 +1,8 @@
+name: 'Dungeon Siege: Legends Of Aranna'
+id: DungeonSiegeLegendsOfAranna
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Dungeon Siege LOA
+contributors:
+- GameSaveManager

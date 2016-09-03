@@ -1,0 +1,8 @@
+name: 'X-Men: The Official Game'
+id: XMenTheOfficialGame
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Activision\X-Men The Official Game
+contributors:
+- GameSaveManager

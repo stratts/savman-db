@@ -1,0 +1,8 @@
+id: PuzzleQuestGalactrix
+name: 'Puzzle Quest: Galactrix'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Puzzle Quest Galactrix
+contributors:
+- GameSave.Info

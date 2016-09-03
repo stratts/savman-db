@@ -1,0 +1,8 @@
+name: Bleed
+id: Bleed
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: SavedGames\Bleed
+contributors:
+- GameSaveManager

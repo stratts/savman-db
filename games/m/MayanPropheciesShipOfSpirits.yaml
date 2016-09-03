@@ -1,0 +1,8 @@
+name: 'Mayan Prophecies: Ship of Spirits'
+id: MayanPropheciesShipOfSpirits
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\EleFun Games\Mayan Prophecies Ship of Spirits\default
+contributors:
+- GameSaveManager

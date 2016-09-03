@@ -1,0 +1,11 @@
+name: And Yet It Moves
+id: AndYetItMoves
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Broken Rules\And Yet It Moves Greenhouse
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Broken Rules\And Yet It Moves Steam
+contributors:
+- GameSaveManager

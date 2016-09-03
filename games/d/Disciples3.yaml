@@ -1,0 +1,8 @@
+id: Disciples3
+name: 'Disciples III: Renaissance'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\DisciplesIII
+contributors:
+- Arc Angel

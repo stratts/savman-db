@@ -1,0 +1,6 @@
+id: CommandAndConquer3KW
+name: 'Command and Conquer 3: Kane''s Wrath'
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming/Command & Conquer 3 Kane's Wrath

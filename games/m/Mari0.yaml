@@ -1,0 +1,8 @@
+name: Mari0
+id: Mari0
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\LOVE\mari0
+contributors:
+- GameSaveManager

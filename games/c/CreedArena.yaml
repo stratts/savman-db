@@ -1,0 +1,8 @@
+name: Creed Arena
+id: CreedArena
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Creed Arena
+contributors:
+- GameSaveManager

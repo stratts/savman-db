@@ -1,0 +1,8 @@
+name: Doom and Destiny
+id: DoomAndDestiny
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Doom And Destiny
+contributors:
+- GameSaveManager

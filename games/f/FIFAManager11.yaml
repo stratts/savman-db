@@ -1,0 +1,8 @@
+name: FIFA Manager 11
+id: FIFAManager11
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: FIFA Manager 11
+contributors:
+- GameSaveManager

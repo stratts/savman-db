@@ -1,0 +1,9 @@
+name: 'Majesty: The Fantasy Kingdom Sim'
+id: Majesty
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\MajestyHD
+contributors:
+- GameSaveManager
+- GameSave.Info

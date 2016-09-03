@@ -1,0 +1,8 @@
+id: Jericho
+name: Clive Barker's Jericho
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Codemasters\Clive Barker's Jericho
+contributors:
+- Arc Angel

@@ -1,0 +1,9 @@
+id: TombRaiderAnniversary
+name: 'Tomb Raider: Anniversary'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Eidos\Tomb Raider - Anniversary
+contributors:
+- GameSave.Info
+- GameSave.Info

@@ -1,0 +1,8 @@
+name: 'Virtual Villagers 4: The Tree of Life'
+id: VirtualVillagers4TheTreeOfLife
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: LDW\Virtual Villagers - The Tree of Life
+contributors:
+- GameSaveManager

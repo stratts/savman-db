@@ -1,0 +1,8 @@
+id: BioShock
+name: BioShock
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Bioshock
+contributors:
+- GameSave.Info

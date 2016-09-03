@@ -1,0 +1,8 @@
+name: Fantastic Four
+id: FantasticFour
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Activision\Fantastic Four
+contributors:
+- GameSaveManager

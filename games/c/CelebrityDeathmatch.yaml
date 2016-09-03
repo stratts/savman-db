@@ -1,0 +1,8 @@
+name: Celebrity Deathmatch
+id: CelebrityDeathmatch
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: CelebrityDeathmatch
+contributors:
+- GameSaveManager

@@ -1,0 +1,8 @@
+id: ToTheMoon
+name: To the Moon
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\To the Moon - Freebird Games
+contributors:
+- GameSave.Info

@@ -1,0 +1,11 @@
+name: Flotilla
+id: Flotilla
+locations:
+-   type: variable
+    variable: userprofile
+    subdir: Saved Games\Flotilla
+-   type: variable
+    variable: userdoc
+    subdir: SavedGames\Flotilla
+contributors:
+- GameSaveManager

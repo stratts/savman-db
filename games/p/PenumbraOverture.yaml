@@ -1,0 +1,8 @@
+id: PenumbraOverture
+name: Penumbra Overture
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Penumbra Overture\Episode1
+contributors:
+- GameSave.Info

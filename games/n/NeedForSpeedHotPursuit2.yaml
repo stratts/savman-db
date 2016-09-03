@@ -1,0 +1,8 @@
+name: 'Need for Speed: Hot Pursuit 2'
+id: NeedForSpeedHotPursuit2
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: EA Games\Need For Speed Hot Pursuit 2
+contributors:
+- GameSaveManager

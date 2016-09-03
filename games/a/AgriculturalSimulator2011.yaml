@@ -1,0 +1,8 @@
+name: Agricultural Simulator 2011
+id: AgriculturalSimulator2011
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\agrar simulator 2011
+contributors:
+- GameSaveManager

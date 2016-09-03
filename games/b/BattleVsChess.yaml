@@ -1,0 +1,8 @@
+name: Battle vs. Chess
+id: BattleVsChess
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\battle vs chess
+contributors:
+- GameSaveManager

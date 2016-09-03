@@ -1,0 +1,8 @@
+name: Alien Hallway
+id: AlienHallway
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Sigma Team\Alien Hallway
+contributors:
+- GameSaveManager

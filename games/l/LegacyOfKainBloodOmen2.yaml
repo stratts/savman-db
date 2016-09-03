@@ -1,0 +1,8 @@
+id: LegacyOfKainBloodOmen2
+name: 'Legacy of Kain: Blood Omen 2'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Blood Omen 2
+contributors:
+- GameSave.Info

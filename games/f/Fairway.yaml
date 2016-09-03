@@ -1,0 +1,8 @@
+name: Fairway
+id: Fairway
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Big Fish Games\Fairway
+contributors:
+- GameSaveManager

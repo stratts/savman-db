@@ -1,0 +1,12 @@
+name: Hard Reset
+id: HardReset
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Hard Reset
+-   type: variable
+    variable: userdoc
+    subdir: Hard Reset Extended
+contributors:
+- Arc Angel
+- GameSaveManager

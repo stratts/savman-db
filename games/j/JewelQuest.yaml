@@ -1,0 +1,8 @@
+name: Jewel Quest
+id: JewelQuest
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: iWin\JewelQuest
+contributors:
+- GameSaveManager

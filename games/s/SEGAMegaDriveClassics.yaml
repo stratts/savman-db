@@ -1,0 +1,8 @@
+name: SEGA Mega Drive Classics
+id: SEGAMegaDriveClassics
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: SEGA Mega Drive Classics
+contributors:
+- GameSaveManager

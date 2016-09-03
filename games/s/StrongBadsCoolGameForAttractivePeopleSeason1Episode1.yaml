@@ -1,0 +1,11 @@
+name: 'Strong Bad''s Cool Game for Attractive People: Season 1 - Episode 1'
+id: StrongBadsCoolGameForAttractivePeopleSeason1Episode1
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Telltale Games\Episode 1 - Homestar Ruiner
+-   type: variable
+    variable: userdoc
+    subdir: Telltale Games\Homestar Ruiner
+contributors:
+- GameSaveManager

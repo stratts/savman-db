@@ -1,0 +1,8 @@
+id: Pirates
+name: Sid Meier's Pirates!
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Sid Meier's Pirates!
+contributors:
+- GameSave.Info

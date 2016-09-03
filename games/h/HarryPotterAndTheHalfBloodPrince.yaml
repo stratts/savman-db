@@ -1,0 +1,8 @@
+id: HarryPotterAndTheHalfBloodPrince
+name: Harry Potter and the Half-Blood Prince
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\Electronic Arts\Harry Potter and the Half Blood Prince
+contributors:
+- GameSave.Info

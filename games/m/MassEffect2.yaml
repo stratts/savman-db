@@ -1,0 +1,9 @@
+id: MassEffect2
+name: Mass Effect 2
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: BioWare\Mass Effect 2
+contributors:
+- GameSave.Info
+- Christian Hamann

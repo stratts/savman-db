@@ -1,0 +1,9 @@
+id: Bastion
+name: Bastion
+locations:
+-   type: variable
+    variable: userprofile
+    subdir: Saved Games\Bastion
+contributors:
+- Arc Angel
+- GameSave.Info

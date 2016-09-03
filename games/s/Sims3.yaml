@@ -1,0 +1,13 @@
+name: The Sims 3
+id: Sims3
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Electronic Arts\The Sims 3
+-   type: variable
+    variable: userdoc
+    subdir: Electronic Arts\Les Sims 3\Saves
+contributors:
+- AdmiringWorm
+- Caleb Love
+- GameSaveManager

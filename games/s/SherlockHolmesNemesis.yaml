@@ -1,0 +1,8 @@
+name: 'Sherlock Holmes: Nemesis'
+id: SherlockHolmesNemesis
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Games\Sherlock Holmes Nemesis
+contributors:
+- GameSaveManager

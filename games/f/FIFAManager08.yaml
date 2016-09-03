@@ -1,0 +1,8 @@
+name: FIFA Manager 08
+id: FIFAManager08
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: FIFA Manager 08
+contributors:
+- GameSaveManager

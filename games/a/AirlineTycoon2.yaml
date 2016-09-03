@@ -1,0 +1,8 @@
+name: Airline Tycoon 2
+id: AirlineTycoon2
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Kalypso Media\Airline Tycoon 2
+contributors:
+- GameSaveManager

@@ -1,0 +1,8 @@
+id: LostHorizon
+name: Lost Horizon
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Lost Horizon
+contributors:
+- Arc Angel

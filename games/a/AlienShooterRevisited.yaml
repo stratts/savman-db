@@ -1,0 +1,8 @@
+name: 'Alien Shooter: Revisited'
+id: AlienShooterRevisited
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: AlienShooter Revisited Saves
+contributors:
+- GameSaveManager

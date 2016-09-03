@@ -1,0 +1,8 @@
+name: Natural Selection 2
+id: NaturalSelection2
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Natural Selection 2
+contributors:
+- GameSaveManager

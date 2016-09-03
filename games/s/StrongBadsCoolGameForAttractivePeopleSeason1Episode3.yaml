@@ -1,0 +1,8 @@
+name: 'Strong Bad''s Cool Game for Attractive People: Season 1 - Episode 3'
+id: StrongBadsCoolGameForAttractivePeopleSeason1Episode3
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Telltale Games\Episode 3 - Baddest of the Bands
+contributors:
+- GameSaveManager

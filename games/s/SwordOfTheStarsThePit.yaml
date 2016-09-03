@@ -1,0 +1,8 @@
+name: 'Sword of the Stars: The Pit'
+id: SwordOfTheStarsThePit
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Sword of the Stars - The Pit
+contributors:
+- GameSaveManager

@@ -1,0 +1,8 @@
+name: 'Drakensang: The River of Time'
+id: DrakensangTheRiverofTime
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Drakensang_TRoT
+contributors:
+- GameSaveManager

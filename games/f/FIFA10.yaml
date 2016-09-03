@@ -1,0 +1,8 @@
+name: FIFA 10
+id: FIFA10
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: FIFA 10
+contributors:
+- GameSaveManager

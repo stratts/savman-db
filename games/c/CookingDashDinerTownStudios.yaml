@@ -1,0 +1,8 @@
+name: 'Cooking Dash: DinerTown Studios'
+id: CookingDashDinerTownStudios
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\PlayFirst\cooking-dash-dinertown-studios
+contributors:
+- GameSaveManager

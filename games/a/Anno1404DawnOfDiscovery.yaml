@@ -1,0 +1,8 @@
+name: 'Anno 1404: Dawn of Discovery'
+id: Anno1404DawnOfDiscovery
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Dawn of Discovery
+contributors:
+- GameSaveManager

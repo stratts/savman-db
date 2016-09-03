@@ -1,0 +1,8 @@
+id: ScratchesDirectorsCut
+name: 'Scratches: Director''s Cut'
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Nucleosys\Scratches Director's Cut
+contributors:
+- GameSave.Info

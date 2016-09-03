@@ -1,0 +1,8 @@
+id: WallaceAndGrommitsGrandAdventures3
+name: 'Wallace & Gromit''s Grand Adventures Episode 3: Muzzled!'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Telltale Games\Muzzled
+contributors:
+- GameSave.Info

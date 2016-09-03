@@ -1,0 +1,8 @@
+id: RogueTrooper
+name: Rogue Trooper
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Rogue Trooper
+contributors:
+- GameSave.Info

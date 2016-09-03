@@ -1,0 +1,8 @@
+name: Incredipede
+id: Incredipede
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\com.northwayGames.Incredipede
+contributors:
+- GameSaveManager

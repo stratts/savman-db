@@ -1,0 +1,9 @@
+name: 'Ys: The Oath in Felghana'
+id: YsTheOathInFelghana
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\FALCOM\YSF_Win
+contributors:
+- Arc Angel
+- GameSaveManager

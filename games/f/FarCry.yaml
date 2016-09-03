@@ -1,0 +1,10 @@
+id: FarCry
+name: Far Cry
+locations:
+-   type: profile
+    profile_dir: Bin32
+    profile_items:
+    - FarCry.exe
+    subdir: ..
+    include:
+    - Profiles/*.*

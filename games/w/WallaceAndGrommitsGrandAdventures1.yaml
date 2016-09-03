@@ -1,0 +1,8 @@
+id: WallaceAndGrommitsGrandAdventures1
+name: 'Wallace & Gromit''s Grand Adventures Episode 1: Fright of the Bumblebees'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Telltale Games\Fright of the Bumblebees
+contributors:
+- GameSave.Info

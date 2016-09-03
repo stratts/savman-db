@@ -1,0 +1,8 @@
+id: HarveysNewEyes
+name: Harvey's New Eyes
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\Daedalic Entertainment\Harvey
+contributors:
+- GameSave.Info

@@ -1,0 +1,12 @@
+id: LostPlanet
+name: 'Lost Planet: Extreme Condition'
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\CAPCOM\LOSTPLANET
+-   type: variable
+    variable: appdata
+    subdir: Local\CAPCOM\LOSTPLANETCOLONIES
+contributors:
+- Caleb Love
+- Caleb Love

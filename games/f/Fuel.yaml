@@ -1,0 +1,8 @@
+id: Fuel
+name: Fuel
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\FUEL
+contributors:
+- Arc Angel

@@ -1,0 +1,9 @@
+name: Space Pirates And Zombies
+id: SpacePiratesAndZombies
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\MinMaxGames\SpacePiratesAndZombies
+contributors:
+- AdmiringWorm
+- GameSaveManager

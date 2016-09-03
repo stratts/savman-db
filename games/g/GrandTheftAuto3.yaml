@@ -1,0 +1,9 @@
+id: GrandTheftAuto3
+name: Grand Theft Auto 3
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: GTA3 User Files
+contributors:
+- GameSave.Info
+- duncans_pumpkin

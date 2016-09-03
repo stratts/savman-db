@@ -1,0 +1,8 @@
+name: The Race for the White House
+id: RaceForTheWhiteHouse
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: The Race for the White House
+contributors:
+- GameSaveManager

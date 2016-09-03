@@ -1,0 +1,8 @@
+name: Airport Control Simulator
+id: AirportControlSimulator
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Airport Control Simulator
+contributors:
+- GameSaveManager

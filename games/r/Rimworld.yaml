@@ -1,0 +1,6 @@
+id: Rimworld
+name: Rimworld
+locations:
+-   type: variable
+    variable: appdata
+    subdir: LocalLow/Ludeon Studios/Rimworld

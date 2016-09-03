@@ -1,0 +1,8 @@
+id: LordOfTheRingsTheReturnOfTheKing
+name: 'The Lord of the Rings: The Return of the King'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: LOTR The Return of the King (tm) Data
+contributors:
+- GameSave.Info

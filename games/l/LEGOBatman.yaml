@@ -1,0 +1,8 @@
+name: LEGO Batman
+id: LEGOBatman
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\Warner Bros. Interactive Entertainment\LEGO Batman
+contributors:
+- GameSaveManager

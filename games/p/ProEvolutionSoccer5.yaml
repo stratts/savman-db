@@ -1,0 +1,8 @@
+name: Pro Evolution Soccer 5
+id: ProEvolutionSoccer5
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: KONAMI\Pro Evolution Soccer 5
+contributors:
+- GameSaveManager

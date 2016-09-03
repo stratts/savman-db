@@ -1,0 +1,8 @@
+id: FormulaOne
+name: Formula One
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: FormulaOne
+contributors:
+- simtech76

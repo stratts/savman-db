@@ -1,0 +1,8 @@
+name: Jane's Advanced Strike Fighters
+id: JanesAdvancedStrikeFighters
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Evolved\Jane's Advanced Strike Fighters
+contributors:
+- GameSaveManager

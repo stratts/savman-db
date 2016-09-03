@@ -1,0 +1,11 @@
+name: The Sims Medieval
+id: SimsMedieval
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Electronic Arts\Les Sims Medieval
+-   type: variable
+    variable: userdoc
+    subdir: Electronic Arts\The Sims Medieval
+contributors:
+- GameSaveManager

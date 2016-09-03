@@ -1,0 +1,8 @@
+name: Dimensity
+id: Dimensity
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Dimensity
+contributors:
+- GameSaveManager

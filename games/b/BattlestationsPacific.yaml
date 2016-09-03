@@ -1,0 +1,8 @@
+name: 'Battlestations: Pacific'
+id: BattlestationsPacific
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Battlestations-Pacific
+contributors:
+- GameSaveManager

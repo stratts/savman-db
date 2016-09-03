@@ -1,0 +1,9 @@
+name: Beat Hazard
+id: BeatHazard
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Beat Hazard
+contributors:
+- GameSave.Info
+- GameSaveManager

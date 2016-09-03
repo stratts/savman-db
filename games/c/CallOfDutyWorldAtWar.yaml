@@ -1,0 +1,8 @@
+id: CallOfDutyWorldAtWar
+name: 'Call of Duty: World at War'
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\Activision\CoDWaW
+contributors:
+- Arc Angel

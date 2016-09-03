@@ -1,0 +1,8 @@
+name: FIFA Soccer 2009
+id: FIFASoccer2009
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: FIFA 09
+contributors:
+- GameSaveManager

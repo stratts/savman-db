@@ -1,0 +1,9 @@
+name: Stronghold
+id: Stronghold
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Stronghold
+contributors:
+- GameSave.Info
+- GameSaveManager

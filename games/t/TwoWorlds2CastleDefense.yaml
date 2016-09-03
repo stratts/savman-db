@@ -1,0 +1,8 @@
+name: 'Two Worlds 2: Castle Defense'
+id: TwoWorlds2CastleDefense
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\TW2CD
+contributors:
+- GameSaveManager

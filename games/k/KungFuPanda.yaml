@@ -1,0 +1,8 @@
+name: Kung Fu Panda
+id: KungFuPanda
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Activision\Kung Fu Panda
+contributors:
+- GameSaveManager

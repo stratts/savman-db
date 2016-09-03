@@ -1,0 +1,8 @@
+name: 'Resident Evil: Operation Racoon City'
+id: ResidentEvilOperationRacoonCity
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: CAPCOM\RERC
+contributors:
+- GameSaveManager

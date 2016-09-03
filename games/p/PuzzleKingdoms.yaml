@@ -1,0 +1,8 @@
+name: Puzzle Kingdoms
+id: PuzzleKingdoms
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Puzzle Kingdoms
+contributors:
+- GameSaveManager

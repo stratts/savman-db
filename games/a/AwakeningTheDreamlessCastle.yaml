@@ -1,0 +1,8 @@
+name: 'Awakening: The Dreamless Castle'
+id: AwakeningTheDreamlessCastle
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Boomzap\awakening_dreamless_castle
+contributors:
+- GameSaveManager

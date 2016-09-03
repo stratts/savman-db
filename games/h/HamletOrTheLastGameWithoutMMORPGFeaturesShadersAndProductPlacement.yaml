@@ -1,0 +1,8 @@
+name: Hamlet or the Last Game without MMORPG Features, Shaders and Product Placement
+id: HamletOrTheLastGameWithoutMMORPGFeaturesShadersAndProductPlacement
+locations:
+-   type: variable
+    variable: userprofile
+    subdir: Saved Games\mif2000's Hamlet
+contributors:
+- GameSaveManager

@@ -1,0 +1,11 @@
+name: Guitar Hero World Tour
+id: GuitarHeroWorldTour
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\Aspyr\Guitar Hero World Tour
+-   type: variable
+    variable: userdoc
+    subdir: Aspyr\Guitar Hero World Tour
+contributors:
+- GameSaveManager

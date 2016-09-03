@@ -1,0 +1,8 @@
+id: ArcaniaFallOfSetarrif
+name: 'ArcaniA: Fall of Setarrif'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: ArcaniA - AddOn
+contributors:
+- Arc Angel

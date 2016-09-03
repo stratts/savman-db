@@ -1,0 +1,8 @@
+name: Planet Explorers
+id: PlanetExplorers
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: PlanetExplorers
+contributors:
+- GameSaveManager

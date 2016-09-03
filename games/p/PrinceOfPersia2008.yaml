@@ -1,0 +1,9 @@
+id: PrinceOfPersia2008
+name: Prince of Persia (2008)
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Prince of Persia
+contributors:
+- GameSave.Info
+- duncans_pumpkin

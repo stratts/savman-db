@@ -1,0 +1,9 @@
+name: 'Painkiller: Hell and Damnation'
+id: PainkillerHellAndDamnation
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Painkiller Hell and Damnation
+contributors:
+- GameSaveManager
+- GameSaveManager

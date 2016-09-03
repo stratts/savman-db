@@ -1,0 +1,8 @@
+id: SpiderManWebOfShadows
+name: 'Spider-Man: Web of Shadows'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Activision\Spider-Man Web of Shadows
+contributors:
+- Arc Angel

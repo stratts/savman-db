@@ -1,0 +1,8 @@
+name: Global Agenda
+id: GlobalAgenda
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Global Agenda
+contributors:
+- GameSaveManager

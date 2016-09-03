@@ -1,0 +1,8 @@
+name: Choplifter HD
+id: ChoplifterHD
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\UnrealEngine3\ChopGame
+contributors:
+- GameSaveManager

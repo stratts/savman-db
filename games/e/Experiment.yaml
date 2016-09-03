@@ -1,0 +1,8 @@
+name: The Experiment
+id: Experiment
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: the experiment
+contributors:
+- GameSaveManager

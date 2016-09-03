@@ -1,0 +1,8 @@
+id: Crysis2
+name: Crysis 2
+locations:
+-   type: variable
+    variable: userprofile
+    subdir: Saved Games\Crysis2
+contributors:
+- Arc Angel

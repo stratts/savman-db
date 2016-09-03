@@ -1,0 +1,8 @@
+name: 'Nancy Drew: The Haunting of Castle Malloy'
+id: NancyDrewTheHauntingOfCastleMalloy
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: The Haunting of Castle Malloy
+contributors:
+- GameSaveManager

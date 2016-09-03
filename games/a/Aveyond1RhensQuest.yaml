@@ -1,0 +1,8 @@
+name: 'Aveyond I: Rhen''s Quest'
+id: Aveyond1RhensQuest
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Aveyond I
+contributors:
+- GameSaveManager

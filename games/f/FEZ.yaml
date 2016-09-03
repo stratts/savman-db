@@ -1,0 +1,9 @@
+name: FEZ
+id: FEZ
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\FEZ
+contributors:
+- GameSaveManager
+- GameSaveManager

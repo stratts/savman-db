@@ -1,0 +1,8 @@
+id: Cyberstorm
+name: 'Missionforce: Cyberstorm'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Cyberstorm
+contributors:
+- GameSave.Info

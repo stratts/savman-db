@@ -1,0 +1,8 @@
+id: SpellForce2
+name: 'SpellForce 2: Shadow Wars'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: SpellForce2
+contributors:
+- Arc Angel

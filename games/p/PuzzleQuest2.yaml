@@ -1,0 +1,8 @@
+id: PuzzleQuest2
+name: Puzzle Quest 2
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\Namco\Puzzle Quest 2
+contributors:
+- Arc Angel

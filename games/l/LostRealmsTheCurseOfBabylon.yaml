@@ -1,0 +1,8 @@
+name: 'Lost Realms: The Curse of Babylon'
+id: LostRealmsTheCurseOfBabylon
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\blg\LostRealms-TheCurseOfBabylon
+contributors:
+- GameSaveManager

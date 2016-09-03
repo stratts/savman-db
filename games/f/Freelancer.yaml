@@ -1,0 +1,8 @@
+id: Freelancer
+name: Freelancer
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Freelancer
+contributors:
+- GameSave.Info

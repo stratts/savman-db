@@ -1,0 +1,12 @@
+name: 'Star Wars: Empire at War'
+id: StarWarsEmpireAtWar
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Petroglyph\Empire At War
+-   type: variable
+    variable: userprofile
+    subdir: Saved Games\Petroglyph\Empire At War
+contributors:
+- AvvA
+- GameSaveManager

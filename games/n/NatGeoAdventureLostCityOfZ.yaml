@@ -1,0 +1,8 @@
+name: 'Nat Geo Adventure: Lost City of Z'
+id: NatGeoAdventureLostCityOfZ
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Merscom\Nat Geo Adventure Lost City of Z
+contributors:
+- GameSaveManager

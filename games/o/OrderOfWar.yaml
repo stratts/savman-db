@@ -1,0 +1,8 @@
+name: Order of War
+id: OrderOfWar
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: ORDER OF WAR
+contributors:
+- GameSaveManager

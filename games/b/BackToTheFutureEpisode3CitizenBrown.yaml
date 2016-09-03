@@ -1,0 +1,11 @@
+id: BackToTheFutureEpisode3CitizenBrown
+name: 'Back to the Future: Episode 3: Citizen Brown'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Telltale Games\back to the future 103
+-   type: variable
+    variable: userdoc
+    subdir: Telltale Games\Episode 3
+contributors:
+- slake_jones

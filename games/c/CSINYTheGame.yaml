@@ -1,0 +1,8 @@
+id: CSINYTheGame
+name: 'CSI: NY The Game'
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Ubisoft\Legacy\CSI
+contributors:
+- AdmiringWorm

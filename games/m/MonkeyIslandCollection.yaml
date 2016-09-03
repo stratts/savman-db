@@ -1,0 +1,8 @@
+name: "Monkey Island\u2122 Collection"
+id: MonkeyIslandCollection
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\LucasArts\Monkey Island Collection
+contributors:
+- GameSaveManager

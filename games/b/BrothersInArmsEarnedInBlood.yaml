@@ -1,0 +1,8 @@
+name: 'Brothers In Arms: Earned in Blood'
+id: BrothersInArmsEarnedInBlood
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Gearbox Software\Earned In Blood
+contributors:
+- GameSaveManager

@@ -1,0 +1,8 @@
+name: Bunch of Heroes
+id: BunchOfHeroes
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\BoH
+contributors:
+- GameSaveManager

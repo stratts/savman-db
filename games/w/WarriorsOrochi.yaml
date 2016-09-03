@@ -1,0 +1,8 @@
+name: Warriors Orochi
+id: WarriorsOrochi
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: KOEI\Warriors OROCHI
+contributors:
+- GameSaveManager

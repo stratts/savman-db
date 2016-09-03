@@ -1,0 +1,8 @@
+name: 'Real Crimes: Jack the Ripper'
+id: RealCrimesJackTheRipper
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Gamers Digital\Jack the Ripper
+contributors:
+- GameSaveManager

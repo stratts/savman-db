@@ -1,0 +1,8 @@
+name: Pro Cycling Manager 2012
+id: ProCyclingManager2012
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Pro Cycling Manager 2012
+contributors:
+- GameSaveManager

@@ -1,0 +1,8 @@
+name: Dark Places
+id: DarkPlaces
+locations:
+-   type: variable
+    variable: userprofile
+    subdir: Saved Games\darkplaces
+contributors:
+- GameSaveManager

@@ -1,0 +1,8 @@
+id: NeedForSpeedHotPursuit
+name: 'Need For Speed: Hot Pursuit'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Criterion Games\Need for Speed(TM) Hot Pursuit
+contributors:
+- Arc Angel

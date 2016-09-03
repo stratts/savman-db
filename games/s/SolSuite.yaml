@@ -1,0 +1,8 @@
+name: SolSuite
+id: SolSuite
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\SolSuite
+contributors:
+- GameSaveManager

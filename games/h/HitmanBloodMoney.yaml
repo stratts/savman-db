@@ -1,0 +1,8 @@
+id: HitmanBloodMoney
+name: 'Hitman: Blood Money'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Hitman Blood Money
+contributors:
+- GameSave.Info

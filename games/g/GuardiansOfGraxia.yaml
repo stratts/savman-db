@@ -1,0 +1,8 @@
+name: Guardians of Graxia
+id: GuardiansOfGraxia
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Petroglyph\GuardiansofGraxia
+contributors:
+- GameSaveManager

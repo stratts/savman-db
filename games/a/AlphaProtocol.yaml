@@ -1,0 +1,8 @@
+id: AlphaProtocol
+name: Alpha Protocol
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Alpha Protocol
+contributors:
+- Arc Angel

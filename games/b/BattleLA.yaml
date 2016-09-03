@@ -1,0 +1,8 @@
+id: BattleLA
+name: 'Battle: Los Angeles'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: BattleLA Saves
+contributors:
+- Arc Angel

@@ -1,0 +1,8 @@
+name: Gas Guzzlers Combat Carnage
+id: GasGuzzlersCombatCarnage
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Gamepires\GasGuzzlersCombatCarnage
+contributors:
+- GameSaveManager

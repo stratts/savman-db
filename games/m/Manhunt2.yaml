@@ -1,0 +1,14 @@
+id: Manhunt2
+name: Manhunt 2
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Rockstar Games\Manhunt 2
+-   type: variable
+    variable: appdata
+    subdir: Local\Rockstar Games\Manhunt 2
+-   type: variable
+    variable: userdoc
+    subdir: Rockstar Games\Manhunt 2
+contributors:
+- Arc Angel

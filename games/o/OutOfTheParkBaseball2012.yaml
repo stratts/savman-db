@@ -1,0 +1,8 @@
+name: Out of the Park Baseball 2012
+id: OutOfTheParkBaseball2012
+locations:
+-   type: variable
+    variable: userprofile
+    subdir: Saved Games\OOTP Baseball 12
+contributors:
+- GameSaveManager

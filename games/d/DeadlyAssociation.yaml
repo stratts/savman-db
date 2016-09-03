@@ -1,0 +1,8 @@
+id: DeadlyAssociation
+name: Deadly Association
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Hidden Objects DeadlyAssociation
+contributors:
+- AdmiringWorm

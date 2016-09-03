@@ -1,0 +1,8 @@
+name: 'UFO: Alien Invasion'
+id: UFOAlienInvasion
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\UFOAI\2.4
+contributors:
+- GameSaveManager

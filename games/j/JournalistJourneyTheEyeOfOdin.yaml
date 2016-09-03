@@ -1,0 +1,8 @@
+name: 'Journalist Journey: The Eye of Odin'
+id: JournalistJourneyTheEyeOfOdin
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Namco\JournalistJourney
+contributors:
+- GameSaveManager

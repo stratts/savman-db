@@ -1,0 +1,9 @@
+id: IndigoProphecy
+name: Indigo Prophecy
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Atari\Indigo Prophecy Profile
+contributors:
+- GameSave.Info
+- slake_jones

@@ -1,0 +1,9 @@
+name: Trine 2
+id: Trine2
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Trine2
+contributors:
+- Arc Angel
+- GameSaveManager

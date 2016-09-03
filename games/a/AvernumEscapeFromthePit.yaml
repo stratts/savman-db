@@ -1,0 +1,8 @@
+id: AvernumEscapeFromthePit
+name: Avernum Escape From the Pit
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Spiderweb Software\Avernum Saved Games
+contributors:
+- Arc Angel

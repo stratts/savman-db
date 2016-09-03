@@ -1,0 +1,8 @@
+id: Cyberstorm2
+name: 'Cyberstorm 2: Corporate Wars'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Cyberstorm 2
+contributors:
+- GameSave.Info

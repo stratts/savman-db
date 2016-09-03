@@ -1,0 +1,8 @@
+name: You Are Empty
+id: YouAreEmpty
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\YaE
+contributors:
+- GameSaveManager

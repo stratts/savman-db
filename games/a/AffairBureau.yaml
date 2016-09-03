@@ -1,0 +1,8 @@
+name: Affair Bureau
+id: AffairBureau
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Azuzaz Games\Bureau
+contributors:
+- GameSaveManager

@@ -1,0 +1,9 @@
+name: 'IL-2 Sturmovik: Cliffs of Dover'
+id: IL2SturmovikCliffsOfDover
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: 1C SoftClub\il-2 sturmovik cliffs of dover
+contributors:
+- GameSaveManager
+- GameSaveManager

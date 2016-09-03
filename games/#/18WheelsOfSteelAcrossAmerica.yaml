@@ -1,0 +1,8 @@
+name: '18 Wheels of Steel: Across America'
+id: 18WheelsOfSteelAcrossAmerica
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: 18 WoS Across America
+contributors:
+- GameSaveManager

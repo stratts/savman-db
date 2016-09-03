@@ -1,0 +1,12 @@
+id: TalesOfMonkeyIsland3
+name: 'Tales of Monkey Island Chapter 3: Lair of the Leviathan'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Telltale Games\Lair of the Leviathan
+-   type: variable
+    variable: userdoc
+    subdir: Telltale Games\tales of monkey island - chapter 3
+contributors:
+- AdmiringWorm
+- GameSave.Info

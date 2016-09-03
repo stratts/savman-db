@@ -1,0 +1,9 @@
+name: 'DiRT: Showdown'
+id: DiRTShowdown
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\DiRT Showdown
+contributors:
+- GameSaveManager
+- GameSaveManager

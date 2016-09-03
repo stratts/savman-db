@@ -1,0 +1,9 @@
+name: Star Trek (2013)
+id: StarTrek2013
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\StarTrekPC
+contributors:
+- Arc Angel
+- GameSaveManager

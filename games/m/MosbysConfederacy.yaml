@@ -1,0 +1,8 @@
+id: MosbysConfederacy
+name: Mosby's Confederacy
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Tilted Mill\Mosby's Confederacy
+contributors:
+- GameSave.Info

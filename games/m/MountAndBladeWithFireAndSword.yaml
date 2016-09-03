@@ -1,0 +1,11 @@
+name: 'Mount & Blade: With Fire & Sword'
+id: MountAndBladeWithFireAndSword
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Mount&Blade With Fire and Sword
+-   type: variable
+    variable: userdoc
+    subdir: Mount&Blade With Fire and Sword
+contributors:
+- GameSaveManager

@@ -1,0 +1,8 @@
+name: Star Ruler
+id: StarRuler
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Star Ruler
+contributors:
+- GameSaveManager

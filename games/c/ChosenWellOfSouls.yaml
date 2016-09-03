@@ -1,0 +1,8 @@
+name: 'The Chosen: Well of Souls'
+id: ChosenWellOfSouls
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\The Chosen
+contributors:
+- GameSaveManager

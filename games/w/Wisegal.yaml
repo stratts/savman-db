@@ -1,0 +1,8 @@
+name: Wisegal
+id: Wisegal
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Merscom\Wisegal
+contributors:
+- GameSaveManager

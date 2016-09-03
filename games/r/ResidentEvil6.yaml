@@ -1,0 +1,9 @@
+name: Resident Evil 6
+id: ResidentEvil6
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: CAPCOM\RESIDENT EVIL 6
+contributors:
+- Arc Angel
+- GameSaveManager

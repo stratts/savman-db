@@ -1,0 +1,9 @@
+name: Shad'O
+id: ShadO
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: ShadO
+contributors:
+- GameSaveManager
+- GameSaveManager

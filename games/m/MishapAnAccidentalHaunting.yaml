@@ -1,0 +1,8 @@
+id: MishapAnAccidentalHaunting
+name: 'Mishap: An Accidental Haunting'
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Virtual Prophecy\Mishap
+contributors:
+- AdmiringWorm

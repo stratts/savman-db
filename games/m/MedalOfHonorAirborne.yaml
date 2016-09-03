@@ -1,0 +1,8 @@
+name: 'Medal of Honor: Airborne'
+id: MedalOfHonorAirborne
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: EA Games\Medal of Honor Airborne(tm)
+contributors:
+- GameSaveManager

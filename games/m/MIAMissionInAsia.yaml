@@ -1,0 +1,8 @@
+name: M.I.A. Mission in Asia
+id: MIAMissionInAsia
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: SO
+contributors:
+- GameSaveManager

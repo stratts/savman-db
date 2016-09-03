@@ -1,0 +1,8 @@
+name: Backyard Sports Sandlot Sluggers
+id: BackyardSportsSandlotSluggers
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Saved Game\Sandlot Sluggers
+contributors:
+- GameSaveManager

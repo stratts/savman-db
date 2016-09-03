@@ -1,0 +1,11 @@
+id: Minecraft
+name: Minecraft
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\.minecraft
+    include:
+    - saves/*.*
+contributors:
+- GameSave.Info
+- GameSave.Info

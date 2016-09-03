@@ -1,0 +1,8 @@
+name: Toy Story 3
+id: ToyStory3
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Disney Interactive Studios\Toy Story 3
+contributors:
+- GameSaveManager

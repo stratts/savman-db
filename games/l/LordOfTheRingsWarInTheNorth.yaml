@@ -1,0 +1,9 @@
+name: 'The Lord of The Rings: War in the North'
+id: LordOfTheRingsWarInTheNorth
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\WB Games\War in the North
+contributors:
+- GameSaveManager
+- GameSaveManager

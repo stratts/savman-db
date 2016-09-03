@@ -1,0 +1,8 @@
+name: Ultimate Spider-Man
+id: UltimateSpiderMan
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Activision\Ultimate Spider-Man
+contributors:
+- GameSaveManager

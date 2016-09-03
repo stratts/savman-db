@@ -1,0 +1,8 @@
+name: DoomsDay
+id: DoomsDay
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Doomsday Frontend
+contributors:
+- GameSaveManager

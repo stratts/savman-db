@@ -1,0 +1,8 @@
+name: Loom
+id: Loom
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\LucasArts\Loom
+contributors:
+- GameSaveManager

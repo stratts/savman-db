@@ -1,0 +1,12 @@
+id: AssassinsCreedBrotherhood
+name: 'Assassin''s Creed: Brotherhood'
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Ubisoft\Assassin's Creed Brotherhood
+-   type: variable
+    variable: userprofile
+    subdir: Saved Games\Assassin's Creed Brotherhood
+contributors:
+- AdmiringWorm
+- Arc Angel

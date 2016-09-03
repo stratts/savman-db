@@ -1,0 +1,8 @@
+name: 'Romancing the Seven Wonders: Taj Mahal'
+id: RomancingTheSevenWondersTajMahal
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\PlayFirst\TajMahal
+contributors:
+- GameSaveManager

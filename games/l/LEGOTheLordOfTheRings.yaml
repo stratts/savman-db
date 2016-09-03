@@ -1,0 +1,8 @@
+name: LEGO The Lord of the Rings
+id: LEGOTheLordOfTheRings
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Warner Bros. Interactive Entertainment\LEGO The Lord of the Rings
+contributors:
+- GameSaveManager

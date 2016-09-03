@@ -1,0 +1,8 @@
+name: New Star Soccer 5
+id: NewStarSoccer5
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: New Star Soccer 5
+contributors:
+- GameSaveManager

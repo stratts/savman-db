@@ -1,0 +1,8 @@
+id: ChroniclesOfRiddickEscapeFromButcherBay
+name: 'The Chronicles of Riddick: Escape From Butcher Bay'
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Starbreeze\Riddick
+contributors:
+- GameSave.Info

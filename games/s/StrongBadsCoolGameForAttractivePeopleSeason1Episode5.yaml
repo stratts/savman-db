@@ -1,0 +1,8 @@
+name: 'Strong Bad''s Cool Game for Attractive People: Season 1 - Episode 5'
+id: StrongBadsCoolGameForAttractivePeopleSeason1Episode5
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Telltale Games\Episode 5 - 8-Bit Is Enough
+contributors:
+- GameSaveManager

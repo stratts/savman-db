@@ -1,0 +1,8 @@
+id: Aquanox
+name: Aquanox
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\AquaNox
+contributors:
+- GameSave.Info

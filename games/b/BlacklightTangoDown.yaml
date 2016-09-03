@@ -1,0 +1,8 @@
+id: BlacklightTangoDown
+name: 'Blacklight: Tango Down'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Blacklight-Tango Down
+contributors:
+- Arc Angel

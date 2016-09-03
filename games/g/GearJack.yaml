@@ -1,0 +1,8 @@
+name: Gear Jack
+id: GearJack
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\Piwot Games
+contributors:
+- GameSaveManager

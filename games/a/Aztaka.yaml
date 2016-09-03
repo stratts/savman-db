@@ -1,0 +1,9 @@
+name: Aztaka
+id: Aztaka
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\Aztaka
+contributors:
+- GameSaveManager
+- telroa

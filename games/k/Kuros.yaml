@@ -1,0 +1,8 @@
+name: Kuros
+id: Kuros
+locations:
+-   type: variable
+    variable: userprofile
+    subdir: Saved Games\Sandlot Games\Kuros
+contributors:
+- GameSaveManager

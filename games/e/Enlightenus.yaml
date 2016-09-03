@@ -1,0 +1,8 @@
+name: Enlightenus
+id: Enlightenus
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Enlightenus
+contributors:
+- GameSaveManager

@@ -1,0 +1,8 @@
+name: Runes of Magic
+id: RunesOfMagic
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Runes of Magic
+contributors:
+- GameSaveManager

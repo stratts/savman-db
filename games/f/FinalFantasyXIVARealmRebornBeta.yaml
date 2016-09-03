@@ -1,0 +1,11 @@
+name: 'Final Fantasy XIV: A Realm Reborn Beta'
+id: FinalFantasyXIVARealmRebornBeta
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: FINAL FANTASY XIV - A Realm Reborn (Beta Version)
+-   type: variable
+    variable: userdoc
+    subdir: My Games\FINAL FANTASY XIV - A Realm Reborn (Beta Version)
+contributors:
+- GameSaveManager

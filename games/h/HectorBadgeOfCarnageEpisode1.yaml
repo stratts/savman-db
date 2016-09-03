@@ -1,0 +1,8 @@
+name: 'Hector: Badge of Carnage Episode 1'
+id: HectorBadgeOfCarnageEpisode1
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Telltale Games\Hector Episode 1
+contributors:
+- GameSaveManager

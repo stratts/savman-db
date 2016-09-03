@@ -1,0 +1,8 @@
+name: Empire at War
+id: EmpireAtWar
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Petroglyph\Empire at War
+contributors:
+- GameSaveManager

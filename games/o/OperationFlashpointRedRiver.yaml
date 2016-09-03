@@ -1,0 +1,8 @@
+id: OperationFlashpointRedRiver
+name: 'Operation Flashpoint: Red River'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\OFRR
+contributors:
+- Arc Angel

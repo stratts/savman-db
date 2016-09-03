@@ -1,0 +1,8 @@
+id: MedalOfHonor2010
+name: Medal of Honor (2010)
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: EA Games\Medal of Honor
+contributors:
+- Arc Angel

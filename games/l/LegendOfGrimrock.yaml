@@ -1,0 +1,8 @@
+id: LegendOfGrimrock
+name: Legend of Grimrock
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Almost Human\Legend of Grimrock
+contributors:
+- Arc Angel

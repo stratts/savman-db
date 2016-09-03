@@ -1,0 +1,18 @@
+name: 'Command & Conquer 3: Tiberium Wars'
+id: CommandAndConquer3TiberiumWars
+locations:
+-   type: variable
+    variable: userprofile
+    subdir: Saved Games\Command & Conquer 3 Tiberium Wars
+-   type: variable
+    variable: userdoc
+    subdir: Command & Conquer 3 Tiberium Wars
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Command & Conquer 3 Wojny o tyberium
+-   type: variable
+    variable: userdoc
+    subdir: Command & Conquer 3 Wojny o tyberium
+contributors:
+- Paul Taylor
+- GameSaveManager

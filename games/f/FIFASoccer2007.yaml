@@ -1,0 +1,8 @@
+name: FIFA Soccer 2007
+id: FIFASoccer2007
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: FIFA 07
+contributors:
+- GameSaveManager

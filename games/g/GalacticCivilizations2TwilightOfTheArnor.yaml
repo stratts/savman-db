@@ -1,0 +1,8 @@
+name: 'Galactic Civilizations II: Twilight of the Arnor'
+id: GalacticCivilizations2TwilightOfTheArnor
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\GC2TwilightArnor
+contributors:
+- GameSaveManager

@@ -1,0 +1,11 @@
+name: Fifa Manager 2012
+id: FifaManager2012
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: FIFA MANAGER 12
+-   type: variable
+    variable: userdoc
+    subdir: FUSSBALL MANAGER 12
+contributors:
+- GameSaveManager

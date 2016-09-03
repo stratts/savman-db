@@ -1,0 +1,8 @@
+name: LEGO Racers 2
+id: LEGORacers2
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\LEGO Racers 2\Saved Games
+contributors:
+- GameSaveManager

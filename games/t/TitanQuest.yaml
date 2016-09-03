@@ -1,0 +1,8 @@
+id: TitanQuest
+name: Titan Quest
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Titan Quest
+contributors:
+- slake_jones

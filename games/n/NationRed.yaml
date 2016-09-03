@@ -1,0 +1,8 @@
+id: NationRed
+name: Nation Red
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\NationRed
+contributors:
+- Arc Angel

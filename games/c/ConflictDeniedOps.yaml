@@ -1,0 +1,8 @@
+id: ConflictDeniedOps
+name: Conflict Denied Ops
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Eidos\ConflictDeniedOps
+contributors:
+- GameSave.Info

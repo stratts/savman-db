@@ -1,0 +1,8 @@
+name: DC Universe Online
+id: DCUniverseOnline
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\DC Universe Online
+contributors:
+- GameSaveManager

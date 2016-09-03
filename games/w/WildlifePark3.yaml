@@ -1,0 +1,8 @@
+name: Wildlife Park 3
+id: WildlifePark3
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: bitComposer Games\Wildlife Park 3
+contributors:
+- GameSaveManager

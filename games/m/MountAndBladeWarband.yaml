@@ -1,0 +1,14 @@
+id: MountAndBladeWarband
+name: 'Mount & Blade: Warband'
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Mount&Blade Warband
+-   type: variable
+    variable: userdoc
+    subdir: Mount&Blade Warband
+-   type: variable
+    variable: userdoc
+    subdir: Mount&Blade Warband Savegames
+contributors:
+- Arc Angel

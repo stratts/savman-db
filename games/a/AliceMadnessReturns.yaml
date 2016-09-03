@@ -1,0 +1,11 @@
+id: AliceMadnessReturns
+name: 'Alice: Madness Returns'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Alice Madness Returns
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Alice Retour au pays de la folie
+contributors:
+- Arc Angel

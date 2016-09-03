@@ -1,0 +1,9 @@
+name: Sanctum
+id: Sanctum
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Sanctum
+contributors:
+- GameSaveManager
+- GameSave.Info

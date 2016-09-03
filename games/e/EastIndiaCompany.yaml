@@ -1,0 +1,8 @@
+name: East India Company
+id: EastIndiaCompany
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: East India Company
+contributors:
+- GameSaveManager

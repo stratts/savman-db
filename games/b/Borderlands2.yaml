@@ -1,0 +1,9 @@
+id: Borderlands2
+name: Borderlands 2
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Borderlands 2
+contributors:
+- Arc Angel
+- simtech76

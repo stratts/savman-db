@@ -1,0 +1,8 @@
+id: Civilization4BeyondTheSword
+name: 'Sid Meier''s Civilization IV: Beyond the Sword'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Beyond the Sword
+contributors:
+- GameSave.Info

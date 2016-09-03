@@ -1,0 +1,8 @@
+id: SplitSecond
+name: Split/Second
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Disney Interactive Studios\Split Second
+contributors:
+- Arc Angel

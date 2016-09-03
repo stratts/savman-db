@@ -1,0 +1,8 @@
+id: RollerCoasterTycoon3
+name: RollerCoaster Tycoon 3
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: RCT3
+contributors:
+- slake_jones

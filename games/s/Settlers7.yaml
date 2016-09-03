@@ -1,0 +1,8 @@
+name: The Settlers 7
+id: Settlers7
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Settlers7
+contributors:
+- GameSaveManager

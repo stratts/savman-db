@@ -1,0 +1,8 @@
+id: TribesAscend
+name: 'Tribes: Ascend'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Tribes Ascend\TribesGame
+contributors:
+- Paul Taylor

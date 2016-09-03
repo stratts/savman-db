@@ -1,0 +1,8 @@
+name: 'BlazBlue: Calamity Trigger'
+id: BlazBlueCalamityTrigger
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: ARC SYSTEM WORKS\BLAZBLUE-CT
+contributors:
+- GameSaveManager

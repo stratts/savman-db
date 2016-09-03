@@ -1,0 +1,8 @@
+id: AgeOfMythologyTheTitansExpansion
+name: 'Age of Mythology: The Titans Expansion'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Age of Mythology
+contributors:
+- GameSave.Info

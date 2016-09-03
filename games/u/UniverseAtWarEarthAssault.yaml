@@ -1,0 +1,8 @@
+id: UniverseAtWarEarthAssault
+name: 'Universe At War: Earth Assault'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Sega\UAWEA
+contributors:
+- slake_jones

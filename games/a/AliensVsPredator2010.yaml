@@ -1,0 +1,8 @@
+id: AliensVsPredator2010
+name: Aliens vs. Predator (2010)
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\AliensVsPredator
+contributors:
+- Michael Lamere

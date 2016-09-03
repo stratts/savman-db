@@ -1,0 +1,8 @@
+id: ChroniclesOfRiddickAssaultOnDarkAthena
+name: 'The Chronicles of Riddick: Assault on Dark Athena'
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Atari\The Chronicles of Riddick - Assault on Dark Athena
+contributors:
+- GameSave.Info

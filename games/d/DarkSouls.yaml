@@ -1,0 +1,8 @@
+id: DarkSouls
+name: Dark Souls
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: NBGI\DarkSouls
+contributors:
+- lonepie

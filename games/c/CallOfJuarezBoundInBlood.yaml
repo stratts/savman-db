@@ -1,0 +1,8 @@
+id: CallOfJuarezBoundInBlood
+name: 'Call of Juarez: Bound in Blood'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Call of Juarez - Bound in Blood
+contributors:
+- Michael Lamere

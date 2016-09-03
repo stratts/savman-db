@@ -1,0 +1,12 @@
+name: 'Star Wars: Empire at War - Forces of Corruption'
+id: StarWarsEmpireAtWarForcesOfCorruption
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Petroglyph\Empire At War - Forces of Corruption
+-   type: variable
+    variable: userprofile
+    subdir: Saved Games\Petroglyph\Empire At War - Forces of Corruption
+contributors:
+- AvvA
+- GameSaveManager

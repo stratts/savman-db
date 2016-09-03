@@ -1,0 +1,8 @@
+id: DarkVoid
+name: Dark Void
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Airtight\Dark Void
+contributors:
+- Arc Angel

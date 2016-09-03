@@ -1,0 +1,8 @@
+name: 'Order of War: Challenge'
+id: OrderOfWarChallenge
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: order of war - challenge
+contributors:
+- GameSaveManager

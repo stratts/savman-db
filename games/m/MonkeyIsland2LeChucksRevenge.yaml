@@ -1,0 +1,9 @@
+id: MonkeyIsland2LeChucksRevenge
+name: "Monkey Island\u2122 2 LeChuck\u2019s Revenge"
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\ LucasArts\Monkey Island 2 Special Edition
+contributors:
+- slake_jones
+- slake_jones

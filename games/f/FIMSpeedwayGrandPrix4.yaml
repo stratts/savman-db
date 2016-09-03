@@ -1,0 +1,8 @@
+name: FIM Speedway Grand Prix 4
+id: FIMSpeedwayGrandPrix4
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: sgp4
+contributors:
+- GameSaveManager

@@ -1,0 +1,8 @@
+name: Mecho Wars
+id: MechoWars
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Oyaji Games\Mecho Wars
+contributors:
+- GameSaveManager

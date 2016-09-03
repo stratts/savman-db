@@ -1,0 +1,6 @@
+id: Tropico4
+name: Tropico 4
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming/tropico 4

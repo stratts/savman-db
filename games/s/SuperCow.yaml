@@ -1,0 +1,8 @@
+name: Super Cow
+id: SuperCow
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Super-Cow
+contributors:
+- GameSaveManager

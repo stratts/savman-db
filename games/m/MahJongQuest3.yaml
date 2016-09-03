@@ -1,0 +1,8 @@
+name: Mah Jong Quest 3
+id: MahJongQuest3
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\iWin\MahjongQuest3
+contributors:
+- GameSaveManager

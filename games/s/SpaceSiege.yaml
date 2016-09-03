@@ -1,0 +1,8 @@
+name: Space Siege
+id: SpaceSiege
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Space Siege
+contributors:
+- GameSaveManager

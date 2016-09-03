@@ -1,0 +1,8 @@
+name: Space Colony
+id: SpaceColony
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Space Colony
+contributors:
+- GameSaveManager

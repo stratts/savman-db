@@ -1,0 +1,9 @@
+id: BrokenAge
+name: Broken Age
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: BrokenAge
+contributors:
+- GameSave.Info
+- GameSave.Info

@@ -1,0 +1,8 @@
+name: 'The Clumsys 2: Butterfly Effect'
+id: Clumsys2ButterflyEffect
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\BanzaiInteractive\Clumsys2
+contributors:
+- GameSaveManager

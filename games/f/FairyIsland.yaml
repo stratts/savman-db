@@ -1,0 +1,8 @@
+name: Fairy Island
+id: FairyIsland
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\FairyIsland
+contributors:
+- GameSaveManager

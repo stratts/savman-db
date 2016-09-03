@@ -1,0 +1,8 @@
+id: RiseOfTheArgonauts
+name: Rise of the Argonauts
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Rise of the Argonauts
+contributors:
+- Arc Angel

@@ -1,0 +1,8 @@
+name: Virtual City
+id: VirtualCity
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Virtual City
+contributors:
+- GameSaveManager

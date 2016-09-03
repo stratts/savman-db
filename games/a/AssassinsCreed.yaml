@@ -1,0 +1,9 @@
+id: AssassinsCreed
+name: Assassin's Creed
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Ubisoft\Assassin's Creed
+contributors:
+- GameSave.Info
+- Joe Looney

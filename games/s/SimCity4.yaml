@@ -1,0 +1,9 @@
+id: SimCity4
+name: SimCity 4
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: SimCity 4
+    include:
+    - SimCity 4.cfg
+    - Regions/*

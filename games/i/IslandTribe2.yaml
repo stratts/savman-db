@@ -1,0 +1,8 @@
+name: Island Tribe 2
+id: IslandTribe2
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Islands2
+contributors:
+- GameSaveManager

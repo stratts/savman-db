@@ -1,0 +1,8 @@
+name: A New Beginning
+id: ANewBeginning
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\Daedalic Entertainment\A New Beginning
+contributors:
+- GameSaveManager

@@ -1,0 +1,8 @@
+id: LANoire
+name: L.A. Noire
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Rockstar Games\L.A. Noire
+contributors:
+- Arc Angel

@@ -1,0 +1,9 @@
+name: 'Star Wars: Knights of the Old Republic II'
+id: StarWarsKOTOR2
+locations:
+-   type: profile
+    profile_items:
+    - swkotor2.exe
+    - saves
+    include:
+    - saves/*

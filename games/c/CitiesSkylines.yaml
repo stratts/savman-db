@@ -1,0 +1,6 @@
+id: CitiesSkylines
+name: 'Cities: Skylines'
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local/Colossal Order/Cities_Skylines

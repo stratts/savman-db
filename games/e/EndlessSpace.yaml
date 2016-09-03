@@ -1,0 +1,8 @@
+id: EndlessSpace
+name: Endless Space
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Endless Space
+contributors:
+- GameSave.Info

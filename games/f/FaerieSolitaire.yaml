@@ -1,0 +1,8 @@
+name: Faerie Solitaire
+id: FaerieSolitaire
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Faerie Solitaire
+contributors:
+- GameSaveManager

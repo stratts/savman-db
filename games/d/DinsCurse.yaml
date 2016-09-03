@@ -1,0 +1,8 @@
+id: DinsCurse
+name: Din's Curse
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\DinsCurse
+contributors:
+- GameSave.Info

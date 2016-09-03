@@ -1,0 +1,8 @@
+name: HitBlock
+id: HitBlock
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\GR Games\HitBlock
+contributors:
+- GameSaveManager

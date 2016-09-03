@@ -1,0 +1,8 @@
+name: Chessmaster 9000
+id: Chessmaster9000
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Chessmaster 9000
+contributors:
+- GameSaveManager

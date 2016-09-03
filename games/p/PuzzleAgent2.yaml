@@ -1,0 +1,8 @@
+name: Puzzle Agent 2
+id: PuzzleAgent2
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Telltale Games\Puzzle Agent 2
+contributors:
+- GameSaveManager

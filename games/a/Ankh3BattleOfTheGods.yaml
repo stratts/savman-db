@@ -1,0 +1,8 @@
+name: 'Ankh 3: Battle of the Gods'
+id: Ankh3BattleOfTheGods
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Ankh - Battle of the Gods
+contributors:
+- GameSaveManager

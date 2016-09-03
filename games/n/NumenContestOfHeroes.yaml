@@ -1,0 +1,8 @@
+name: 'Numen: Contest of Heroes'
+id: NumenContestOfHeroes
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: numen
+contributors:
+- GameSaveManager

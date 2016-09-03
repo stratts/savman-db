@@ -1,0 +1,8 @@
+id: HospitalTycoon
+name: Hospital Tycoon
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: HospitalTycoon
+contributors:
+- GameSave.Info

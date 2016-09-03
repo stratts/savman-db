@@ -1,0 +1,8 @@
+id: MutantMudds
+name: Mutant Mudds
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Renegade Kid\Mutant Mudds
+contributors:
+- GameSave.Info

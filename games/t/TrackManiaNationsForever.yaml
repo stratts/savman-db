@@ -1,0 +1,9 @@
+id: TrackManiaNationsForever
+name: TrackMania Nations Forever
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: TrackMania
+contributors:
+- AdmiringWorm
+- GameSave.Info

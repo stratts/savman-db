@@ -1,0 +1,8 @@
+name: 'Shira Oka: Second Chances'
+id: ShiraOkaSecondChances
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\Okashi Studios\Shira Oka\Second Chances
+contributors:
+- GameSaveManager

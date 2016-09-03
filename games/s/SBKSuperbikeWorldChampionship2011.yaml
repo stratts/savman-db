@@ -1,0 +1,8 @@
+name: 'SBK: Superbike World Championship 2011'
+id: SBKSuperbikeWorldChampionship2011
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\BlackBean\SBK2011
+contributors:
+- GameSaveManager

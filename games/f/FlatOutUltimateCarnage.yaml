@@ -1,0 +1,8 @@
+id: FlatOutUltimateCarnage
+name: 'FlatOut: Ultimate Carnage'
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\FlatOut Ultimate Carnage
+contributors:
+- Arc Angel

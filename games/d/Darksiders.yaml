@@ -1,0 +1,8 @@
+id: Darksiders
+name: Darksiders
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Darksiders
+contributors:
+- Arc Angel

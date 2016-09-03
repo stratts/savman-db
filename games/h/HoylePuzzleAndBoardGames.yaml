@@ -1,0 +1,8 @@
+name: Hoyle Puzzle and Board Games
+id: HoylePuzzleAndBoardGames
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Hoyle Puzzle and Board Games
+contributors:
+- GameSaveManager

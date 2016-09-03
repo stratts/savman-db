@@ -1,0 +1,8 @@
+name: Guild Wars 2
+id: GuildWars2
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Guild Wars 2
+contributors:
+- GameSaveManager

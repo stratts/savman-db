@@ -1,0 +1,8 @@
+name: 'Nancy Drew: Danger by Design'
+id: NancyDrewDangerByDesign
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Danger by Design
+contributors:
+- GameSaveManager

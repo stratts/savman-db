@@ -1,0 +1,8 @@
+name: 'Claustrophobia: The Downward Struggle'
+id: ClaustrophobiaTheDownwardStruggle
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: SavedGames\Claustrophobia
+contributors:
+- GameSaveManager

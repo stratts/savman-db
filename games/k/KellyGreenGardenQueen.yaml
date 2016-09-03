@@ -1,0 +1,8 @@
+name: 'Kelly Green: Garden Queen'
+id: KellyGreenGardenQueen
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\iWin\KellyGreenGardenQueen
+contributors:
+- GameSaveManager

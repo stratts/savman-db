@@ -1,0 +1,9 @@
+id: GrandTheftAuto4
+name: Grand Theft Auto IV
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\Rockstar Games\GTA IV
+contributors:
+- AvvA
+- Virgile

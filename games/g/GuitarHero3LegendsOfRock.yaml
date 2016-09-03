@@ -1,0 +1,11 @@
+name: 'Guitar Hero III: Legends of Rock'
+id: GuitarHero3LegendsOfRock
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\Aspyr\Guitar Hero III
+-   type: variable
+    variable: userdoc
+    subdir: Aspyr\Guitar Hero III
+contributors:
+- GameSaveManager

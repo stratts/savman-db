@@ -1,0 +1,8 @@
+id: WallaceAndGrommitsGrandAdventures2
+name: 'Wallace & Gromit''s Grand Adventures Episode 2: The Last Resort'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Telltale Games\The Last Resort
+contributors:
+- GameSave.Info

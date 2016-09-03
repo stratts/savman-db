@@ -1,0 +1,6 @@
+id: Gnomoria
+name: Gnomoria
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games/Gnomoria

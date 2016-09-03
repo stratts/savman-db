@@ -1,0 +1,8 @@
+id: Prey
+name: Prey
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\PREY
+contributors:
+- GameSave.Info

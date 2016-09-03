@@ -1,0 +1,8 @@
+name: 'Women''s Murder Club: A Darker Shade of Grey'
+id: WomensMurderClubADarkerShadeOfGrey
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Flood Light Games\WMC2
+contributors:
+- GameSaveManager

@@ -1,0 +1,8 @@
+id: LunarFlight
+name: Lunar Flight
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Saved Games\LunarFlight
+contributors:
+- simtech76

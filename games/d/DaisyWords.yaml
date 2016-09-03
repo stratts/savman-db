@@ -1,0 +1,8 @@
+name: DaisyWords
+id: DaisyWords
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\DaisyWords
+contributors:
+- GameSaveManager

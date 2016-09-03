@@ -1,0 +1,9 @@
+name: Quantum Conundrum
+id: QuantumConundrum
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\UnrealEngine3\TryGame
+contributors:
+- GameSave.Info
+- GameSaveManager

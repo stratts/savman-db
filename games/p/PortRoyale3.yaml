@@ -1,0 +1,8 @@
+id: PortRoyale3
+name: 'Port Royale 3: Pirates & Merchants'
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\kalypso Media\Port Royal 3
+contributors:
+- GameSave.Info

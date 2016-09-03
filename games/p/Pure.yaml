@@ -1,0 +1,8 @@
+name: Pure
+id: Pure
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Disney Interactive Studios\Pure
+contributors:
+- GameSaveManager

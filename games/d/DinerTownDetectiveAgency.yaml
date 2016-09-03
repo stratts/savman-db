@@ -1,0 +1,8 @@
+name: DinerTown Detective Agency
+id: DinerTownDetectiveAgency
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\PlayFirst\dinertown-detective-agency
+contributors:
+- GameSaveManager

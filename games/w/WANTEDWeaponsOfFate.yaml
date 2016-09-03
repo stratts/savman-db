@@ -1,0 +1,9 @@
+name: 'WANTED: Weapons of Fate'
+id: WANTEDWeaponsOfFate
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\wanted
+contributors:
+- Arc Angel
+- GameSaveManager

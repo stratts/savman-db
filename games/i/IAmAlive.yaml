@@ -1,0 +1,8 @@
+id: IAmAlive
+name: I Am Alive
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: IAmAlive
+contributors:
+- Arc Angel

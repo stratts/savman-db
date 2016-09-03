@@ -1,0 +1,8 @@
+name: 'King''s Bounty: Warriors of the North'
+id: KingsBountyWarriorsOfTheNorth
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Kings Bounty Warriors of the North
+contributors:
+- GameSaveManager

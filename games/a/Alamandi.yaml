@@ -1,0 +1,8 @@
+name: Alamandi
+id: Alamandi
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\bitComposer\AirConflictsSW
+contributors:
+- GameSaveManager

@@ -1,0 +1,8 @@
+name: 'Vin Diesel: Wheelman'
+id: VinDieselWheelman
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\Wheelman
+contributors:
+- GameSaveManager

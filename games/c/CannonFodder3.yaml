@@ -1,0 +1,8 @@
+name: Cannon Fodder 3
+id: CannonFodder3
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: CannonFodder3
+contributors:
+- GameSaveManager

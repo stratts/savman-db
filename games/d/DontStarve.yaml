@@ -1,0 +1,9 @@
+name: Don't Starve
+id: DontStarve
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Klei\DoNotStarve
+contributors:
+- GameSaveManager
+- GameSaveManager

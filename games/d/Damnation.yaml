@@ -1,0 +1,8 @@
+id: Damnation
+name: Damnation
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Damnation
+contributors:
+- Arc Angel

@@ -1,0 +1,8 @@
+id: CrysisWars
+name: Crysis Wars
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Crysis Wars
+contributors:
+- slake_jones

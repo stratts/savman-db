@@ -1,0 +1,8 @@
+id: Tremulous
+name: Tremulous
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Tremulous
+contributors:
+- GameSave.Info

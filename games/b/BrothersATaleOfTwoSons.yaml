@@ -1,0 +1,8 @@
+id: BrothersATaleOfTwoSons
+name: 'Brothers: A Tale of Two Sons'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Brothers - A Tale of Two Sons
+contributors:
+- Scandalon

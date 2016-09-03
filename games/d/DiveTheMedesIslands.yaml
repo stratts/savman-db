@@ -1,0 +1,8 @@
+name: 'Dive: The Medes Islands'
+id: DiveTheMedesIslands
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Cosmonaut Games\Dive
+contributors:
+- GameSaveManager

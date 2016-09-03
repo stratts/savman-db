@@ -1,0 +1,8 @@
+id: Ghostbusters
+name: Ghostbusters
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: GHOSTBUSTERS (tm)
+contributors:
+- Arc Angel

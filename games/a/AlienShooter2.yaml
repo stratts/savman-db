@@ -1,0 +1,12 @@
+id: AlienShooter2
+name: 'Alien Shooter: Vengeance'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: AlienShooter2 Saves
+-   type: variable
+    variable: userdoc
+    subdir: AlienShooter2 Reloaded Saves
+contributors:
+- GameSave.Info
+- Arc Angel

@@ -1,0 +1,8 @@
+name: Nitronic Rush
+id: NitronicRush
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\digipen\nitronic_rush
+contributors:
+- GameSaveManager

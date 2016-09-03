@@ -1,0 +1,9 @@
+name: Aliens vs. Predator
+id: AliensVsPredator
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\Rebellion\AvP Classic
+contributors:
+- GameSaveManager
+- GameSave.Info

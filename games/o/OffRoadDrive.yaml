@@ -1,0 +1,8 @@
+name: Off-Road Drive
+id: OffRoadDrive
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\PP3
+contributors:
+- GameSaveManager

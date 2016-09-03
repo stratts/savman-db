@@ -1,0 +1,12 @@
+name: Devil May Cry 4
+id: DevilMayCry4
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\capcom\DEVILMAYCRY4
+-   type: variable
+    variable: userdoc
+    subdir: Capcom\Devilmaycry4
+contributors:
+- GameSave.Info
+- GameSaveManager

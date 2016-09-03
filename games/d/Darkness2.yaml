@@ -1,0 +1,8 @@
+id: Darkness2
+name: The Darkness II
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\DarknessII
+contributors:
+- Arc Angel

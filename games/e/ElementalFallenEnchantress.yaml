@@ -1,0 +1,8 @@
+name: 'Elemental: Fallen Enchantress'
+id: ElementalFallenEnchantress
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\FallenEnchantress
+contributors:
+- GameSaveManager

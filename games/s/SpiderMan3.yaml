@@ -1,0 +1,8 @@
+name: Spider-Man 3
+id: SpiderMan3
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Activision\Spider-Man 3
+contributors:
+- GameSaveManager

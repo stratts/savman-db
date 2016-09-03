@@ -1,0 +1,9 @@
+id: AgeOfMythology
+name: Age of Mythology
+locations:
+-   type: profile
+    profile_items:
+    - aom.exe
+    - savegame
+    include:
+    - savegame/*.*

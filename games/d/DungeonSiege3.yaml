@@ -1,0 +1,8 @@
+id: DungeonSiege3
+name: Dungeon Siege III
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Dungeon Siege III
+contributors:
+- Arc Angel

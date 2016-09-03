@@ -1,0 +1,8 @@
+name: NBA Live 07
+id: NBALive07
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: NBA LIVE 07
+contributors:
+- GameSaveManager

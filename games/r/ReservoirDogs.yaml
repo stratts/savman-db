@@ -1,0 +1,8 @@
+name: Reservoir Dogs
+id: ReservoirDogs
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\eidos\reservoir dogs
+contributors:
+- GameSaveManager

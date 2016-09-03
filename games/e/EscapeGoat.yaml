@@ -1,0 +1,8 @@
+id: EscapeGoat
+name: Escape Goat
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Escape Goat
+contributors:
+- GameSave.Info

@@ -1,0 +1,9 @@
+id: SamAndMaxTheDevilsPlayhouseEpisode2
+name: Sam & Max - The Devil's Playhouse Episode 2 - The Tomb of Sammun-Mak
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Telltale Games\The Tomb of Sammun-Mak
+contributors:
+- AdmiringWorm
+- GameSave.Info

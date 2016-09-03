@@ -1,0 +1,8 @@
+name: 'Nancy Drew: Legend of the Crystal Skull'
+id: NancyDrewLegendOfTheCrystalSkull
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Legend of the Crystal Skull
+contributors:
+- GameSaveManager

@@ -1,0 +1,8 @@
+name: Winning Eleven 9
+id: WinningEleven9
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: KONAMI\Winning Eleven 9
+contributors:
+- GameSaveManager

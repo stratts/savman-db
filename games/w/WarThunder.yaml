@@ -1,0 +1,8 @@
+name: War Thunder
+id: WarThunder
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\WarThunder
+contributors:
+- GameSaveManager

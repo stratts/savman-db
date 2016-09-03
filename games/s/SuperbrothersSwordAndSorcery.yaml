@@ -1,0 +1,9 @@
+id: SuperbrothersSwordAndSorcery
+name: 'Superbrothers: Sword & Sorcery'
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\capy\SwordAndSworcery
+contributors:
+- GameSave.Info
+- GameSave.Info

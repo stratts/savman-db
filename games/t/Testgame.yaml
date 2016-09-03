@@ -1,0 +1,9 @@
+name: TestGame
+id: Testgame
+locations:
+-   type: profile
+    profile_dir: TestGame
+    profile_items:
+    - testfile1.txt
+    - test1
+    - test2

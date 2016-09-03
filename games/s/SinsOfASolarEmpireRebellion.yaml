@@ -1,0 +1,8 @@
+id: SinsOfASolarEmpireRebellion
+name: 'Sins of a Solar Empire: Rebellion'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: my games\Ironclad Games\Sins of a Solar Empire Rebellion
+contributors:
+- simtech76

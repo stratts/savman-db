@@ -1,0 +1,8 @@
+name: Monopoly
+id: Monopoly
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: TikGames\Monopoly
+contributors:
+- GameSaveManager

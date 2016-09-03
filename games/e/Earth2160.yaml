@@ -1,0 +1,8 @@
+id: Earth2160
+name: Earth 2160
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Earth 2160
+contributors:
+- GameSave.Info

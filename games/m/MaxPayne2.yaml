@@ -1,0 +1,8 @@
+id: MaxPayne2
+name: 'Max Payne 2: The Fall of Max Payne'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Max Payne 2 Savegames
+contributors:
+- duncans_pumpkin

@@ -1,0 +1,10 @@
+id: FarCry3
+name: Far Cry 3
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Far Cry 3
+contributors:
+- simtech76
+- Reid
+- simtech76

@@ -1,0 +1,8 @@
+name: Hawken
+id: Hawken
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Hawken
+contributors:
+- GameSaveManager

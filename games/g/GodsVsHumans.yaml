@@ -1,0 +1,8 @@
+name: Gods vs Humans
+id: GodsVsHumans
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Gods vs Humans
+contributors:
+- GameSaveManager

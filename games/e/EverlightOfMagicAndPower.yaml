@@ -1,0 +1,8 @@
+id: EverlightOfMagicAndPower
+name: 'Everlight: Of Magic and Power'
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\everlight
+contributors:
+- Arc Angel

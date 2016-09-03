@@ -1,0 +1,8 @@
+name: 'DCS: World'
+id: DCSWorld
+locations:
+-   type: variable
+    variable: userprofile
+    subdir: Saved Games\DCS
+contributors:
+- GameSaveManager

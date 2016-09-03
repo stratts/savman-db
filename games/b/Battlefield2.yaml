@@ -1,0 +1,8 @@
+name: Battlefield 2
+id: Battlefield2
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Battlefield 2
+contributors:
+- GameSaveManager

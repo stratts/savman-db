@@ -1,0 +1,8 @@
+name: Archibald's Adventures
+id: ArchibaldsAdventures
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Archibald's Adventures
+contributors:
+- GameSaveManager

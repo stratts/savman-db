@@ -1,0 +1,8 @@
+id: Saboteur
+name: The Saboteur
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: "My Games\\The Saboteur\u2122"
+contributors:
+- Arc Angel

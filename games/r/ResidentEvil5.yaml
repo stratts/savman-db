@@ -1,0 +1,9 @@
+id: ResidentEvil5
+name: Resident Evil 5
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: CAPCOM\RESIDENT EVIL 5
+contributors:
+- GameSave.Info
+- Arc Angel

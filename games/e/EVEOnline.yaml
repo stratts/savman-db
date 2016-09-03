@@ -1,0 +1,8 @@
+name: EVE Online
+id: EVEOnline
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: EVE
+contributors:
+- GameSaveManager

@@ -1,0 +1,11 @@
+id: Crysis3
+name: Crysis 3
+locations:
+-   type: variable
+    variable: userprofile
+    subdir: Saved Games\Crysis3
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Crysis 3
+contributors:
+- Arc Angel

@@ -1,0 +1,8 @@
+name: Star-Twine
+id: StarTwine
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Star-Twine
+contributors:
+- GameSaveManager

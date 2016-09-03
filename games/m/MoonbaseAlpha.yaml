@@ -1,0 +1,8 @@
+id: MoonbaseAlpha
+name: Moonbase Alpha
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Moonbase Alpha
+contributors:
+- Arc Angel

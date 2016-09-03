@@ -1,0 +1,8 @@
+id: MLB2K9
+name: Major League Baseball 2K9
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\2K Sports\MLB 2k9
+contributors:
+- GameSave.Info

@@ -1,0 +1,8 @@
+name: 'Age of Oracles: Tara''s Journey'
+id: AgeOfOraclesTarasJourney
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\JollyBear\Age of Oracles Taras Journey
+contributors:
+- GameSaveManager

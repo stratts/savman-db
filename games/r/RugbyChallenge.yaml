@@ -1,0 +1,8 @@
+name: Rugby Challenge
+id: RugbyChallenge
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\Sidhe\RugbyChallenge
+contributors:
+- GameSaveManager

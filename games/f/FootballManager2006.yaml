@@ -1,0 +1,11 @@
+name: Football Manager 2006
+id: FootballManager2006
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Sports Interactive\Football Manager 2006
+-   type: variable
+    variable: userdoc
+    subdir: Sports Interactive\Football Manager 2006
+contributors:
+- GameSaveManager

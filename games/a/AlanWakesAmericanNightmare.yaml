@@ -1,0 +1,12 @@
+id: AlanWakesAmericanNightmare
+name: Alan Wake's American Nightmare
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Remedy\AmericanNightmare
+-   type: variable
+    variable: userdoc
+    subdir: Remedy\AmericanNightmare_GOG_Version
+contributors:
+- Arc Angel
+- GameSave.Info

@@ -1,0 +1,14 @@
+name: 'Anno 1404: Venice'
+id: Anno1404Venice
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Ubisoft\Anno1404Addon
+-   type: variable
+    variable: userdoc
+    subdir: Anno 1404 Venedig
+-   type: variable
+    variable: userdoc
+    subdir: Anno 1404 Venice
+contributors:
+- GameSaveManager

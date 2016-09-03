@@ -1,0 +1,14 @@
+name: 'Batman: Arkham City'
+id: BatmanArkhamCity
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: WB Games\Batman Arkham City
+-   type: variable
+    variable: userdoc
+    subdir: WB Games\Batman Arkham City GOTY
+contributors:
+- GameSaveManager
+- Jan
+- paul_taylor30
+- Jan

@@ -1,0 +1,8 @@
+name: 'Beowulf: The Game'
+id: BeowulfTheGame
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Ubisoft\Beowulf
+contributors:
+- GameSaveManager

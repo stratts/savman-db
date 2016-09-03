@@ -1,0 +1,8 @@
+name: Hack, Slash, Loot
+id: HackSlashLoot
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\HackSlashLoot
+contributors:
+- GameSaveManager

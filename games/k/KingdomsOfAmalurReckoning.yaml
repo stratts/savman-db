@@ -1,0 +1,9 @@
+name: 'Kingdoms of Amalur: Reckoning'
+id: KingdomsOfAmalurReckoning
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Reckoning
+contributors:
+- Arc Angel
+- GameSaveManager

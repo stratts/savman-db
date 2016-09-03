@@ -1,0 +1,8 @@
+id: XMenOriginsWolverine
+name: 'X-Men Origins: Wolverine'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Wolverine
+contributors:
+- Arc Angel

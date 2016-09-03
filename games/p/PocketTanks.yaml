@@ -1,0 +1,8 @@
+id: PocketTanks
+name: Pocket Tanks
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Pocket Tanks
+contributors:
+- GameSave.Info

@@ -1,0 +1,12 @@
+name: 'Sacred 2: Fallen Angel'
+id: Sacred2FallenAngel
+locations:
+-   type: variable
+    variable: userprofile
+    subdir: Saved Games\Ascaron Entertainment\Sacred 2
+-   type: variable
+    variable: userdoc
+    subdir: Ascaron Entertainment\Sacred 2
+contributors:
+- AdmiringWorm
+- GameSaveManager

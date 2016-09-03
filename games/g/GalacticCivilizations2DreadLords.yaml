@@ -1,0 +1,8 @@
+id: GalacticCivilizations2DreadLords
+name: 'Galactic Civilizations II: Dread Lords'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\GalCiv2
+contributors:
+- Mark Barbour

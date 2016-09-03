@@ -1,0 +1,8 @@
+id: AIMRacing
+name: A.I.M. Racing
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\A.I.M. Racing
+contributors:
+- AdmiringWorm

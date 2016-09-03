@@ -1,0 +1,8 @@
+id: EschalonBook1
+name: 'Eschalon: Book I'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Eschalon Book 1 Saved Games
+contributors:
+- Arc Angel

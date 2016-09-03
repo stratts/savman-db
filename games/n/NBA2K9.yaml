@@ -1,0 +1,8 @@
+name: NBA 2K9
+id: NBA2K9
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\2K Sports\NBA 2K9
+contributors:
+- GameSaveManager

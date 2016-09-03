@@ -1,0 +1,8 @@
+id: DragonAge2
+name: Dragon Age II
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: BioWare\Dragon Age 2
+contributors:
+- Arc Angel

@@ -1,0 +1,8 @@
+id: DeathToSpies
+name: Death to Spies
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Death to Spies
+contributors:
+- Arc Angel

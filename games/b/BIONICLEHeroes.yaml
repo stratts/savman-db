@@ -1,0 +1,8 @@
+name: BIONICLE Heroes
+id: BIONICLEHeroes
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\EIDOS\BIONICLE Heroes
+contributors:
+- GameSaveManager

@@ -1,0 +1,8 @@
+id: MiniNinjas
+name: Mini Ninjas
+locations:
+-   type: variable
+    variable: userprofile
+    subdir: Saved Games\Eidos\Mini Ninjas
+contributors:
+- Arc Angel

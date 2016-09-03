@@ -1,0 +1,8 @@
+id: CommandAndConquerGeneralsZeroHour
+name: 'Command & Conquer: Generals - Zero Hour'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Command and Conquer Generals Zero Hour Data
+contributors:
+- duncans_pumpkin

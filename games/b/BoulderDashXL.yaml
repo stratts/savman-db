@@ -1,0 +1,8 @@
+name: Boulder Dash XL
+id: BoulderDashXL
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\BoulderDashXL
+contributors:
+- GameSaveManager

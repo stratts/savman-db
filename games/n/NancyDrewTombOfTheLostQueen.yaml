@@ -1,0 +1,8 @@
+name: 'Nancy Drew: Tomb of the Lost Queen'
+id: NancyDrewTombOfTheLostQueen
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Tomb of the Lost Queen
+contributors:
+- GameSaveManager

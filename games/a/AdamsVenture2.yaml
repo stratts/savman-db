@@ -1,0 +1,8 @@
+name: Adam's Venture 2
+id: AdamsVenture2
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\VentureGame
+contributors:
+- GameSaveManager

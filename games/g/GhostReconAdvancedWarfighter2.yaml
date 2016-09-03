@@ -1,0 +1,8 @@
+id: GhostReconAdvancedWarfighter2
+name: 'Tom Clancy''s Ghost Recon: Advanced Warfighter 2'
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\GRAW2
+contributors:
+- Arc Angel

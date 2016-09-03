@@ -1,0 +1,8 @@
+id: MassEffect3
+name: Mass Effect 3
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: BioWare\Mass Effect 3
+contributors:
+- AdmiringWorm

@@ -1,0 +1,8 @@
+id: MedalOfHonorWarfighter
+name: 'Medal of Honor: Warfighter'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: MOHW
+contributors:
+- AdmiringWorm

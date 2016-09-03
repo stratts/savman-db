@@ -1,0 +1,8 @@
+id: XComEnemyUnknown
+name: 'X-Com: Enemy Unknown'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\XCOM - Enemy Unknown
+contributors:
+- Frozen Fire

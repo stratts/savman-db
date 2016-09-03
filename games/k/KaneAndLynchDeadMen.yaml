@@ -1,0 +1,8 @@
+id: KaneAndLynchDeadMen
+name: 'Kane & Lynch: Dead Men'
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\kaneandlynch
+contributors:
+- GameSave.Info

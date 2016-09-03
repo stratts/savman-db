@@ -1,0 +1,8 @@
+name: Governor of Poker 2
+id: GovernorOfPoker2
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\YoudaGames\Governor_of_Poker2_v100
+contributors:
+- GameSaveManager

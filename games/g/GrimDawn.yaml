@@ -1,0 +1,8 @@
+name: Grim Dawn
+id: GrimDawn
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Grim Dawn\SaveData
+contributors:
+- GameSaveManager

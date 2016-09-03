@@ -1,0 +1,8 @@
+name: Evoland
+id: Evoland
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\com.shirogames.evoland
+contributors:
+- GameSaveManager

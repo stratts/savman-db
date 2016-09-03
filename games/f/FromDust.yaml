@@ -1,0 +1,8 @@
+name: From Dust
+id: FromDust
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Dust
+contributors:
+- GameSaveManager

@@ -1,0 +1,8 @@
+id: AnomalyKorea
+name: Anomaly Korea
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Anomaly Korea
+contributors:
+- GameSave.Info

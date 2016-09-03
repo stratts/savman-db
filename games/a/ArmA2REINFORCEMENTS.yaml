@@ -1,0 +1,8 @@
+name: 'ArmA 2: REINFORCEMENTS'
+id: ArmA2REINFORCEMENTS
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Local\ArmA 2 REINFORCEMENTS
+contributors:
+- GameSaveManager

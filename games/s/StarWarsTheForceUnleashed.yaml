@@ -1,0 +1,8 @@
+id: StarWarsTheForceUnleashed
+name: 'Star Wars: The Force Unleashed'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Aspyr\Star Wars The Force Unleashed
+contributors:
+- Arc Angel

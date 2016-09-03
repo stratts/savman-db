@@ -1,0 +1,9 @@
+id: DocClockTheToastedSandwichOfTime
+name: 'Doc Clock: The Toasted Sandwich of Time'
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\DocClockGame
+contributors:
+- AvvA
+- AvvA

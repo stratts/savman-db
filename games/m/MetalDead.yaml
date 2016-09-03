@@ -1,0 +1,8 @@
+id: MetalDead
+name: Metal Dead
+locations:
+-   type: variable
+    variable: userprofile
+    subdir: Saved Games\Metal Dead
+contributors:
+- Arc Angel

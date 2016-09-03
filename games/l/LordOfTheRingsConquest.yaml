@@ -1,0 +1,11 @@
+name: 'The Lord of the Rings: Conquest'
+id: LordOfTheRingsConquest
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: Lord of the Rings - Conquest
+-   type: variable
+    variable: userdoc
+    subdir: The Lord of the Rings - Conquest
+contributors:
+- GameSaveManager

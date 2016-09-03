@@ -1,0 +1,8 @@
+id: AvatarTheGame
+name: 'James Cameron''s Avatar: The Game'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Avatar
+contributors:
+- Arc Angel

@@ -1,0 +1,8 @@
+id: BreathOfDeath7
+name: 'Breath of Death VII: The Beginning'
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: SavedGames\BoDVIIPC\Breath of Death VII
+contributors:
+- Arc Angel

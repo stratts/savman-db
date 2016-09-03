@@ -1,0 +1,11 @@
+name: RIFT
+id: RIFT
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\RIFT
+-   type: variable
+    variable: userdoc
+    subdir: RIFT
+contributors:
+- GameSaveManager

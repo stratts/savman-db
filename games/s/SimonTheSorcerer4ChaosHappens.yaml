@@ -1,0 +1,8 @@
+name: 'Simon the Sorcerer 4: Chaos Happens'
+id: SimonTheSorcerer4ChaosHappens
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\Simon4
+contributors:
+- GameSaveManager

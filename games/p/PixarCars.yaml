@@ -1,0 +1,8 @@
+name: Pixar Cars
+id: PixarCars
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: THQ\Cars
+contributors:
+- GameSaveManager

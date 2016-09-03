@@ -1,0 +1,8 @@
+name: Super Monday Night Combat
+id: SuperMondayNightCombat
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\UnrealEngine3\MNCGame
+contributors:
+- GameSaveManager

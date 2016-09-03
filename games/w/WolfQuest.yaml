@@ -1,0 +1,11 @@
+id: WolfQuest
+name: WolfQuest
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: WolfQuest
+-   type: variable
+    variable: userdoc
+    subdir: WolfQuest2
+contributors:
+- Anonymous Hero

@@ -1,0 +1,8 @@
+id: GearsOfWar
+name: Gears of War
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: My Games\Gears of War for Windows
+contributors:
+- GameSave.Info

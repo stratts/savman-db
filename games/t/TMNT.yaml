@@ -1,0 +1,8 @@
+name: TMNT
+id: TMNT
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming\TMNT
+contributors:
+- GameSaveManager

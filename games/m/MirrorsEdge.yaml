@@ -1,0 +1,6 @@
+id: MirrorsEdge
+name: Mirror's Edge
+locations:
+-   type: variable
+    variable: userdoc
+    subdir: EA Games/Mirror's Edge
