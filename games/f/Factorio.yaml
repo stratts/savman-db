@@ -1,0 +1,8 @@
+name: Factorio
+id: Factorio
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming/Factorio
+    exclude:
+    - temp/*
