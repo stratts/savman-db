@@ -129,15 +129,15 @@ Choose a variable to associate the save directory with:
             else: break
         
         pitems = [ i.strip() for i in pitemstr.split(',') ]
-        print(pitems)
 
-        pbase = '[directory that contains {}]'.format(', '.join(pitems))
+        if pname: pbase = "[directory named '{}' that contains {}]".format(pname, ', '.join(pitems))
+        else: pbase = '[directory that contains {}]'.format(', '.join(pitems))
         print("The current path is '{}'".format(os.path.normpath(pbase)))
         
     subdir = input('Enter the sub directory (optional): ')
     if subdir:
-        if ltype == 'profile': print("The current path is '{}'".format(os.path.normpath(os.path.join(pbase, subdir))))
-        if ltype == 'variable': print("The current path is '{}'".format(os.path.normpath(os.path.join(varpaths[lvar], subdir))))
+        if ltype == 'profile': print("The current path is '{}'".format(os.path.join(pbase, subdir)))
+        if ltype == 'variable': print("The current path is '{}'".format(os.path.join(varpaths[lvar], subdir)))
     if not subdir: subdir = None
 
     includes = input('Enter paths/files to include, separated by commas (optional):\n')
