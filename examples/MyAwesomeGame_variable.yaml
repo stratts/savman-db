@@ -1,0 +1,37 @@
+# Variables:
+#
+# appdata - C:/Users/JohnCitizen/AppData
+# userdoc - C:/Users/JohnCitizen/Documents
+# userprofile - C:/Users/JohnCitizen/
+#
+# Example folder layout:
+#
+# AppData 
+# |-- Local
+# |-- LocalLow
+# `-- Roaming 
+#     `-- MyAwesomeGame
+#         |-- saves
+#         |   |-- bigfile.dat
+#         |   |-- default
+#         |   |   `-- useless.sav
+#         |   `-- playersave
+#         |       `-- useful.sav
+#         `-- config
+#             |-- aconfig.cfg
+#             `-- bconfig.cfg
+#
+name: My Awesome Game              # Full name of game
+id: MyAwesomeGame                  # No spaces, no special characters
+locations:
+-   type: variable
+    variable: appdata
+    subdir: Roaming/MyAwesomeGame
+    include:                       # Optional, leave if including entire directory
+    - saves/*
+    - config/*.cfg
+    exclude:
+    - saves/default/*
+    - saves/bigfile.dat
+contributors:
+- Your Name

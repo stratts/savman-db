@@ -1,0 +1,33 @@
+# Example folder layout:
+#
+# MyAwesomeGame                  # Directory name
+# |-- Awesome.exe
+# |-- UniqueFile.dll
+# |-- uniquefolder   
+# |-- saves
+# |   |-- bigfile.dat
+# |   |-- default
+# |   |   `-- useless.sav
+# |   `-- playersave
+# |       `-- useful.sav
+# `-- cfg
+#     |-- aconfig.cfg
+#     `-- bconfig.cfg
+#
+name: My Awesome Game            # Full name of game
+id: MyAwesomeGame                # No spaces, no special characters
+locations:
+-   type: profile            
+    profile_dir: MyAwesomeGame   # Directory name                         
+    profile_items:
+    - Awesome.exe        
+    - UniqueFile.dll             
+    - uniquefolder              
+    include:                     # Optional, leave if including entire directory
+    - saves/*
+    - config/*.cfg
+    exclude:
+    - saves/default/*
+    - saves/bigfile.dat
+contributors:
+- Your Name
