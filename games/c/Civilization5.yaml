@@ -4,6 +4,8 @@ locations:
 -   type: variable
     variable: userdoc
     subdir: My Games\Sid Meier's Civilization 5
+    exclude: 
+    - cache/*
 contributors:
 - GameSave.Info
 - GameSave.Info
